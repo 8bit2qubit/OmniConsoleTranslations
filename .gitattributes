@@ -1,0 +1,9 @@
+# Keep .resw as CRLF to match the Visual Studio / resgen tooling that produces them.
+*.resw text eol=crlf
+
+# .md / .json are cross-platform text; normalize them to LF.
+*.md   text eol=lf
+*.json text eol=lf
+
+# Everything else: let Git auto-detect, normalizing to LF in the repo.
+* text=auto
