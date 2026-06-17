@@ -2,16 +2,19 @@
 
 > 🌐 **English** | [繁體中文](TRANSLATION_STATUS.zh-TW.md)
 
-Auto-migrated from 2.9.0.0: unchanged English keys reuse the previous translation; new or changed keys are marked `untranslated` (fall back to English until a translator fills them in).
+Rebuilt in place: existing translations for this version are preserved, and any strings still marked `untranslated` remain so (they fall back to English until translated).
 
 - Total strings (both projects): 465
-- Generated: 2026-06-16 00:20:47 +08:00
+- Generated: 2026-06-17 13:03:46 +08:00
+
+Jump to: [es-ES](#es-es) · [tr-TR](#tr-tr)
 
 ## Overall (both projects)
 
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
 | es-ES | 391 | 74 | 84% |
+| tr-TR | 465 | 0 | 100% |
 
 ## Project: OmniConsole
 
@@ -20,6 +23,7 @@ Strings: 444
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
 | es-ES | 370 | 74 | 83% |
+| tr-TR | 444 | 0 | 100% |
 
 ## Project: OmniConsole.PhantomLink
 
@@ -28,6 +32,7 @@ Strings: 21
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
 | es-ES | 21 | 0 | 100% |
+| tr-TR | 21 | 0 | 100% |
 
 ## Untranslated keys
 
@@ -112,3 +117,7 @@ Changed (re-translate) (30):
 - `GamepadKeyGroup_EditNav`
 - `AppsUsingPhantomPawDialog_Header.Text`
 - `CertDetailsDialog_Body.Text`
+
+### tr-TR
+
+_All translated._
