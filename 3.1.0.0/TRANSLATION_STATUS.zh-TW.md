@@ -5,7 +5,7 @@
 原地重算：本版現有譯文皆予保留，仍標記為 `untranslated` 的字串維持原狀（補譯前先顯示英文）。
 
 - 字串總數（兩專案合計）: 465
-- 產生時間: 2026-06-17 13:03:46 +08:00
+- 產生時間: 2026-06-22 15:45:20 +08:00
 
 快速跳轉: [es-ES](#es-es) · [tr-TR](#tr-tr)
 
@@ -13,7 +13,7 @@
 
 | 語言 | 已翻譯 | 待翻譯 | 完成度 |
 |----------|-----------:|--------:|---------:|
-| es-ES | 391 | 74 | 84% |
+| es-ES | 426 | 39 | 92% |
 | tr-TR | 465 | 0 | 100% |
 
 ## 專案: OmniConsole
@@ -22,7 +22,7 @@
 
 | 語言 | 已翻譯 | 待翻譯 | 完成度 |
 |----------|-----------:|--------:|---------:|
-| es-ES | 370 | 74 | 83% |
+| es-ES | 405 | 39 | 91% |
 | tr-TR | 444 | 0 | 100% |
 
 ## 專案: OmniConsole.PhantomLink
@@ -40,17 +40,9 @@
 
 **OmniConsole**
 
-新增 (44):
-- `MouseModeItem_Off`
-- `MouseModeItem_Auto`
-- `MouseModeItem_ForceOn`
-- `CardMenu_Export`
+新增 (36):
 - `UpdateProgress_LanguageSync`
 - `GamepadMappingCopyFromPlaceholder`
-- `GamepadMappingSortAddOrderDesc`
-- `GamepadMappingSortAddOrderAsc`
-- `GamepadMappingSortNameAsc`
-- `GamepadMappingSortNameDesc`
 - `AdvancedSection_Display.Text`
 - `LanguageSetting_Title.Text`
 - `LanguageSetting_Description.Text`
@@ -86,37 +78,10 @@
 - `ManageLanguages_Result_Removed`
 - `ManageLanguages_Result_Failed`
 
-變動（需重譯） (30):
-- `SettingsTitle.Text`
-- `FseNotAvailable`
-- `FseHandheldRequired`
-- `FseHomeAppNotSet`
-- `OpenFseSettingsButton.Content`
-- `PassthroughSetting_Description.Text`
-- `PlatformDialog_ValidationUriSelf`
-- `PlatformDialog_ValidationPackagedAppSelf`
-- `Import_Error_UriSelf`
-- `UpdateCheck_NewVersion_Subtitle`
-- `UpdateCheck_UpToDate_Subtitle`
-- `UpdateAvailable_InfoBar`
-- `UpdateAvailable_InfoBar_Launch_GameBar`
-- `UpdateAvailable_InfoBar_Launch_StartMenu`
-- `UpdateAvailable_InfoBar_Settings`
-- `UpdateInfoBar_MissingPhantomLink_Message`
-- `UpdateInfoBar_MissingPhantomLink_Launch_GameBar`
-- `UpdateInfoBar_MissingPhantomLink_Launch_StartMenu`
-- `UpdateProgressDialog_Title`
-- `UpdateProgress_Phase2Download`
-- `UpdateProgress_Phase2Install`
-- `ResumeUpdateDialog_Content`
-- `AboutTitle.Text`
-- `AboutSection_Suite.Text`
-- `Label_OmniConsole.Text`
+變動（需重譯） (3):
 - `GamepadProfile_BlockNativeGamepadInput_Note.Text`
 - `GamepadMappingDeleteConfirmBody`
-- `GamepadKeyGroup_EditNav`
 - `AppsUsingPhantomPawDialog_Header.Text`
-- `CertDetailsDialog_Body.Text`
 
 ### tr-TR
 

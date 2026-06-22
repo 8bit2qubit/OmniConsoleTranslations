@@ -121,8 +121,8 @@
     <value>Iniciando...</value>
   </data>
   <data name="SettingsTitle.Text" xml:space="preserve">
-    <value>{OmniConsole} Settings</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Configuración de {OmniConsole}</value>
+  </data>
   <data name="SettingsDescription" xml:space="preserve">
     <value>Plataforma predeterminada: {0}</value>
   </data>
@@ -148,20 +148,20 @@
     <value>Volver al escritorio</value>
   </data>
   <data name="FseNotAvailable" xml:space="preserve">
-    <value>Xbox Mode (FSE) is not enabled. Please enable it first, then manually restart {OmniConsole}.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>El modo Xbox (FSE) no está habilitado. Habilítelo primero y luego reinicie {OmniConsole} manualmente.</value>
+  </data>
   <data name="FseHandheldRequired" xml:space="preserve">
-    <value>Limited PC Xbox Mode (FSE) detected, but {OmniConsole} requires the Full Handheld edition. Please enable it with Xbox Full Screen Experience Tool, then manually restart {OmniConsole}.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Se detectó el modo Xbox PC limitado (FSE), pero {OmniConsole} requiere la edición completa para portátiles. Habilítela con Xbox Full Screen Experience Tool y luego reinicie {OmniConsole} manualmente.</value>
+  </data>
   <data name="FseHomeAppNotSet" xml:space="preserve">
-    <value>Please go to Windows Settings → Gaming → Xbox mode (FSE) and select {OmniConsole} from the “Choose home app” dropdown, then manually restart {OmniConsole}.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Vaya a Configuración de Windows → Juegos → Modo Xbox (FSE) y seleccione {OmniConsole} en el menú desplegable "Elegir aplicación de inicio", luego reinicie {OmniConsole} manualmente.</value>
+  </data>
   <data name="EnableFseButton.Content" xml:space="preserve">
     <value>Habilitar modo Xbox (FSE)</value>
   </data>
   <data name="OpenFseSettingsButton.Content" xml:space="preserve">
-    <value>Set {OmniConsole} as Home App</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Establecer {OmniConsole} como aplicación de inicio</value>
+  </data>
   <data name="Platform_SteamBigPicture" xml:space="preserve">
     <value>Steam Big Picture</value>
   </data>
@@ -241,13 +241,13 @@
     <value>Servicio de entrada de mando</value>
   </data>
   <data name="PhantomKeySetting_Description.Text" xml:space="preserve">
-    <value>Presione  para abrir los menús de Steam en el modo Steam Big Picture.</value>
+    <value>Presione &#xEECA; para abrir los menús de Steam en el modo Steam Big Picture.</value>
   </data>
   <data name="PhantomKeySetting_Note.Text" xml:space="preserve">
-    <value>Presión corta  para abrir el menú de Steam, presión larga  para abrir el menú de acceso rápido.</value>
+    <value>Presión corta &#xEECA; para abrir el menú de Steam, presión larga &#xEECA; para abrir el menú de acceso rápido.</value>
   </data>
   <data name="SteamInGameOverlaySetting_Title.Text" xml:space="preserve">
-    <value>Mantener presionado  para abrir la superposición de Steam en el juego</value>
+    <value>Mantener presionado &#xEDE3; para abrir la superposición de Steam en el juego</value>
   </data>
   <data name="SteamInGameOverlaySetting_Description.Text" xml:space="preserve">
     <value>Requiere que la superposición de Steam en el juego esté habilitada.</value>
@@ -256,7 +256,7 @@
     <value>Solo disponible cuando la plataforma predeterminada está configurada como Steam Big Picture.</value>
   </data>
   <data name="SteamInGameOverlaySetting_ModifierNote.Text" xml:space="preserve">
-    <value>Mantenga presionado  para cerrar la superposición y evitar que las teclas modificadoras (p. ej., Shift, Ctrl o Alt) queden bloqueadas en el juego.
+    <value>Mantenga presionado &#xEDE3; para cerrar la superposición y evitar que las teclas modificadoras (p. ej., Shift, Ctrl o Alt) queden bloqueadas en el juego.
 Como alternativa, cambie el atajo a una tecla no modificadora en Configuración de Steam &gt; En el juego &gt; Tecla(s) de atajo de la superposición.</value>
   </data>
   <data name="MouseModeSetting_Title.Text" xml:space="preserve">
@@ -266,14 +266,14 @@ Como alternativa, cambie el atajo a una tecla no modificadora en Configuración 
     <value>Desactivado: deshabilitado. Automático: aplicaciones enumeradas a continuación. Forzar activado: todas las aplicaciones.</value>
   </data>
   <data name="MouseModeItem_Off" xml:space="preserve">
-    <value>Off</value>
-  <comment>untranslated:new</comment></data>
+    <value>Desactivado</value>
+  </data>
   <data name="MouseModeItem_Auto" xml:space="preserve">
-    <value>Auto</value>
-  <comment>untranslated:new</comment></data>
+    <value>Automático</value>
+  </data>
   <data name="MouseModeItem_ForceOn" xml:space="preserve">
-    <value>Force On</value>
-  <comment>untranslated:new</comment></data>
+    <value>Forzar activado</value>
+  </data>
   <data name="MouseModeSetting_Note.Text" xml:space="preserve">
     <value>En modo automático, es compatible con Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, Explorador de archivos, Steam y Discord.</value>
   </data>
@@ -311,8 +311,8 @@ Como alternativa, cambie el atajo a una tecla no modificadora en Configuración 
     <value>Acceso directo a la plataforma</value>
   </data>
   <data name="PassthroughSetting_Description.Text" xml:space="preserve">
-    <value>Navigate “Home” and “Library” directly to the default platform instead of {OmniConsole}.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Navegue con "Inicio" y "Biblioteca" directamente a la plataforma predeterminada en lugar de {OmniConsole}.</value>
+  </data>
   <data name="PassthroughSetting_Note.Text" xml:space="preserve">
     <value>Actualmente solo es compatible con la aplicación Xbox. La configuración del botón "Biblioteca" anterior tiene prioridad.</value>
   </data>
@@ -404,8 +404,8 @@ Como alternativa, cambie el atajo a una tecla no modificadora en Configuración 
     <value>Ninguna aplicación está registrada para gestionar este esquema de URI.</value>
   </data>
   <data name="PlatformDialog_ValidationUriSelf" xml:space="preserve">
-    <value>Cannot add {OmniConsole} itself as a platform; this would cause a restart loop.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>No se puede agregar {OmniConsole} como plataforma; esto causaría un bucle de reinicios.</value>
+  </data>
   <data name="PlatformDialog_ValidationPathInvalid" xml:space="preserve">
     <value>Ruta de archivo no válida. Ejemplo: C:\Archivos de programa (x86)\Steam\steam.exe</value>
   </data>
@@ -477,8 +477,8 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>Seleccione una aplicación empaquetada.</value>
   </data>
   <data name="PlatformDialog_ValidationPackagedAppSelf" xml:space="preserve">
-    <value>Cannot add {OmniConsole} itself as a platform.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>No se puede agregar {OmniConsole} como plataforma.</value>
+  </data>
   <data name="PlatformDialog_ValidationPackagedAppGameBar" xml:space="preserve">
     <value>No se puede agregar Game Bar como plataforma.</value>
   </data>
@@ -486,8 +486,8 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>Este paquete no puede usarse como plataforma (p. ej., puede ser una extensión, servicio o componente de tiempo de ejecución).</value>
   </data>
   <data name="CardMenu_Export" xml:space="preserve">
-    <value>Export</value>
-  <comment>untranslated:new</comment></data>
+    <value>Exportar</value>
+  </data>
   <data name="ImportPlatformButton.Content" xml:space="preserve">
     <value>Importar</value>
   </data>
@@ -534,8 +534,8 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>Ninguna aplicación está registrada para gestionar este esquema de URI.</value>
   </data>
   <data name="Import_Error_UriSelf" xml:space="preserve">
-    <value>Cannot import {OmniConsole} itself as a platform.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>No se puede importar {OmniConsole} como plataforma.</value>
+  </data>
   <data name="Import_Error_InvalidExecutable" xml:space="preserve">
     <value>La ruta del ejecutable debe terminar en .exe.</value>
   </data>
@@ -612,38 +612,38 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>Descargar e instalar</value>
   </data>
   <data name="UpdateCheck_NewVersion_Subtitle" xml:space="preserve">
-    <value>{OmniConsole} v{0} is available.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>{OmniConsole} v{0} está disponible.</value>
+  </data>
   <data name="UpdateCheck_UpToDate_Subtitle" xml:space="preserve">
-    <value>{OmniConsole} is on the latest version.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>{OmniConsole} está en la versión más reciente.</value>
+  </data>
   <data name="UpdateCheck_Failed_Subtitle" xml:space="preserve">
     <value>Compruebe su conexión a Internet e inténtelo de nuevo.</value>
   </data>
   <data name="UpdateAvailable_InfoBar" xml:space="preserve">
-    <value>{OmniConsole} v{0} is available.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>{OmniConsole} v{0} está disponible.</value>
+  </data>
   <data name="UpdateAvailable_InfoBar_Launch_GameBar" xml:space="preserve">
-    <value>{OmniConsole} v{0} is available. Open {OmniConsole} Settings from Game Bar &gt; Library, then go to ☰ &gt; Advanced to download and install.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>{OmniConsole} v{0} está disponible. Abra la configuración de {OmniConsole} desde Game Bar &gt; Biblioteca, luego vaya a ☰ &gt; Avanzado para descargar e instalar.</value>
+  </data>
   <data name="UpdateAvailable_InfoBar_Launch_StartMenu" xml:space="preserve">
-    <value>{OmniConsole} v{0} is available. Open {OmniConsole} Settings from Start &gt; All apps, then go to ☰ &gt; Advanced to download and install.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>{OmniConsole} v{0} está disponible. Abra la configuración de {OmniConsole} desde Inicio &gt; Todas las aplicaciones, luego vaya a ☰ &gt; Avanzado para descargar e instalar.</value>
+  </data>
   <data name="UpdateAvailable_InfoBar_Settings" xml:space="preserve">
-    <value>{OmniConsole} v{0} is available. Go to ☰ &gt; Advanced to download and install.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>{OmniConsole} v{0} está disponible. Vaya a ☰ &gt; Avanzado para descargar e instalar.</value>
+  </data>
   <data name="UpdateInfoBar_MissingPhantomLink_Title" xml:space="preserve">
     <value>El widget OmniCharm está disponible.</value>
   </data>
   <data name="UpdateInfoBar_MissingPhantomLink_Message" xml:space="preserve">
-    <value>Quick-access Game Bar widget to toggle {OmniConsole} features in-game and set up Nekomata per-app gamepad mapping. Go to ☰ &gt; Advanced to download and install.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Widget de acceso rápido de Game Bar para activar o desactivar funciones de {OmniConsole} en el juego y configurar el mapeo de mando por aplicación con Nekomata. Vaya a ☰ &gt; Avanzado para descargar e instalar.</value>
+  </data>
   <data name="UpdateInfoBar_MissingPhantomLink_Launch_GameBar" xml:space="preserve">
-    <value>OmniCharm Widget is available. Open {OmniConsole} Settings from Game Bar &gt; Library, then go to ☰ &gt; Advanced to download and install.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>El widget OmniCharm está disponible. Abra la configuración de {OmniConsole} desde Game Bar &gt; Biblioteca, luego vaya a ☰ &gt; Avanzado para descargar e instalar.</value>
+  </data>
   <data name="UpdateInfoBar_MissingPhantomLink_Launch_StartMenu" xml:space="preserve">
-    <value>OmniCharm Widget is available. Open {OmniConsole} Settings from Start &gt; All apps, then go to ☰ &gt; Advanced to download and install.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>El widget OmniCharm está disponible. Abra la configuración de {OmniConsole} desde Inicio &gt; Todas las aplicaciones, luego vaya a ☰ &gt; Avanzado para descargar e instalar.</value>
+  </data>
   <data name="UpdateCheck_Checking" xml:space="preserve">
     <value>Comprobando...</value>
   </data>
@@ -657,8 +657,8 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>Error en la descarga. Inténtelo de nuevo.</value>
   </data>
   <data name="UpdateProgressDialog_Title" xml:space="preserve">
-    <value>Updating {OmniConsole}</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Actualizando {OmniConsole}</value>
+  </data>
   <data name="UpdateProgressDialog_Hint" xml:space="preserve">
     <value>No cierre la aplicación ni apague la consola hasta que la actualización finalice.</value>
   </data>
@@ -669,11 +669,11 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>Instalando el widget OmniCharm (1 de 2)...</value>
   </data>
   <data name="UpdateProgress_Phase2Download" xml:space="preserve">
-    <value>Downloading {OmniConsole} (2 of 2)...</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Descargando {OmniConsole} (2 de 2)...</value>
+  </data>
   <data name="UpdateProgress_Phase2Install" xml:space="preserve">
-    <value>Installing {OmniConsole} (2 of 2). The app will restart...</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Instalando {OmniConsole} (2 de 2). La aplicación se reiniciará...</value>
+  </data>
   <data name="UpdateProgress_LanguageSync" xml:space="preserve">
     <value>Updating community language files...</value>
   <comment>untranslated:new</comment></data>
@@ -681,8 +681,8 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>¿Reanudar la actualización?</value>
   </data>
   <data name="ResumeUpdateDialog_Content" xml:space="preserve">
-    <value>The previous update to v{0} did not finish. Resume now to keep the OmniCharm widget and {OmniConsole} on the same version.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>La actualización anterior a la versión v{0} no finalizó. Reanúdela ahora para mantener el widget OmniCharm y {OmniConsole} en la misma versión.</value>
+  </data>
   <data name="ResumeUpdateDialog_Resume" xml:space="preserve">
     <value>Reanudar</value>
   </data>
@@ -699,14 +699,14 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>Acerca de</value>
   </data>
   <data name="AboutTitle.Text" xml:space="preserve">
-    <value>About {OmniConsole}</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Acerca de {OmniConsole}</value>
+  </data>
   <data name="AboutDescription.Text" xml:space="preserve">
     <value>Detalles de versión y entorno para ayudar a informar problemas de actualización o compatibilidad.</value>
   </data>
   <data name="AboutSection_Suite.Text" xml:space="preserve">
-    <value>{OmniConsole} Suite</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Suite {OmniConsole}</value>
+  </data>
   <data name="AboutSection_Xfset.Text" xml:space="preserve">
     <value>XFSET (Herramienta de experiencia Xbox en pantalla completa)</value>
   </data>
@@ -781,7 +781,7 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
   </data>
   <data name="Label_OmniConsole.Text" xml:space="preserve">
     <value>{OmniConsole}</value>
-  <comment>untranslated:changed</comment></data>
+  </data>
   <data name="Label_PhantomBridge.Text" xml:space="preserve">
     <value>PhantomBridge</value>
   </data>
@@ -1098,17 +1098,17 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>Buscar aplicaciones…</value>
   </data>
   <data name="GamepadMappingSortAddOrderDesc" xml:space="preserve">
-    <value>Newest first</value>
-  <comment>untranslated:new</comment></data>
+    <value>Más recientes primero</value>
+  </data>
   <data name="GamepadMappingSortAddOrderAsc" xml:space="preserve">
-    <value>Oldest first</value>
-  <comment>untranslated:new</comment></data>
+    <value>Más antiguas primero</value>
+  </data>
   <data name="GamepadMappingSortNameAsc" xml:space="preserve">
-    <value>Name (A to Z)</value>
-  <comment>untranslated:new</comment></data>
+    <value>Nombre (A a Z)</value>
+  </data>
   <data name="GamepadMappingSortNameDesc" xml:space="preserve">
-    <value>Name (Z to A)</value>
-  <comment>untranslated:new</comment></data>
+    <value>Nombre (Z a A)</value>
+  </data>
   <data name="GamepadMappingNoSearchResultHint.Text" xml:space="preserve">
     <value>No se encontraron aplicaciones coincidentes.</value>
   </data>
@@ -1149,8 +1149,8 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>Teclas de función</value>
   </data>
   <data name="GamepadKeyGroup_EditNav" xml:space="preserve">
-    <value>Edit / Navigation</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Edición / navegación</value>
+  </data>
   <data name="GamepadKeyGroup_Control" xml:space="preserve">
     <value>Control</value>
   </data>
@@ -1443,8 +1443,8 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>Detalles del certificado</value>
   </data>
   <data name="CertDetailsDialog_Body.Text" xml:space="preserve">
-    <value>This copy of {OmniConsole} is signed with the following certificate. Compare the SHA-256 thumbprint with the value published in AUTHENTICITY.md on the official repository. If the values do not match, this build is not from the official source. The OmniCharm widget is signed with the same certificate; for full per-package verification, see AUTHENTICITY.md.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Esta copia de {OmniConsole} está firmada con el siguiente certificado. Compare la huella digital SHA-256 con el valor publicado en AUTHENTICITY.md en el repositorio oficial. Si los valores no coinciden, esta compilación no proviene de la fuente oficial. El widget OmniCharm está firmado con el mismo certificado; para una verificación completa por paquete, consulte AUTHENTICITY.md.</value>
+  </data>
   <data name="CertDetailsDialog_OpenAuthenticity.Content" xml:space="preserve">
     <value>Abrir AUTHENTICITY.md para ver la huella digital publicada</value>
   </data>
