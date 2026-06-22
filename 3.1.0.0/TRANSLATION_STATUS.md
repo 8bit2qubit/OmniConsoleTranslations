@@ -5,7 +5,7 @@
 Rebuilt in place: existing translations for this version are preserved, and any strings still marked `untranslated` remain so (they fall back to English until translated).
 
 - Total strings (both projects): 465
-- Generated: 2026-06-17 13:03:46 +08:00
+- Generated: 2026-06-22 15:45:20 +08:00
 
 Jump to: [es-ES](#es-es) · [tr-TR](#tr-tr)
 
@@ -13,7 +13,7 @@ Jump to: [es-ES](#es-es) · [tr-TR](#tr-tr)
 
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
-| es-ES | 391 | 74 | 84% |
+| es-ES | 426 | 39 | 92% |
 | tr-TR | 465 | 0 | 100% |
 
 ## Project: OmniConsole
@@ -22,7 +22,7 @@ Strings: 444
 
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
-| es-ES | 370 | 74 | 83% |
+| es-ES | 405 | 39 | 91% |
 | tr-TR | 444 | 0 | 100% |
 
 ## Project: OmniConsole.PhantomLink
@@ -40,17 +40,9 @@ Strings: 21
 
 **OmniConsole**
 
-New keys (44):
-- `MouseModeItem_Off`
-- `MouseModeItem_Auto`
-- `MouseModeItem_ForceOn`
-- `CardMenu_Export`
+New keys (36):
 - `UpdateProgress_LanguageSync`
 - `GamepadMappingCopyFromPlaceholder`
-- `GamepadMappingSortAddOrderDesc`
-- `GamepadMappingSortAddOrderAsc`
-- `GamepadMappingSortNameAsc`
-- `GamepadMappingSortNameDesc`
 - `AdvancedSection_Display.Text`
 - `LanguageSetting_Title.Text`
 - `LanguageSetting_Description.Text`
@@ -86,37 +78,10 @@ New keys (44):
 - `ManageLanguages_Result_Removed`
 - `ManageLanguages_Result_Failed`
 
-Changed (re-translate) (30):
-- `SettingsTitle.Text`
-- `FseNotAvailable`
-- `FseHandheldRequired`
-- `FseHomeAppNotSet`
-- `OpenFseSettingsButton.Content`
-- `PassthroughSetting_Description.Text`
-- `PlatformDialog_ValidationUriSelf`
-- `PlatformDialog_ValidationPackagedAppSelf`
-- `Import_Error_UriSelf`
-- `UpdateCheck_NewVersion_Subtitle`
-- `UpdateCheck_UpToDate_Subtitle`
-- `UpdateAvailable_InfoBar`
-- `UpdateAvailable_InfoBar_Launch_GameBar`
-- `UpdateAvailable_InfoBar_Launch_StartMenu`
-- `UpdateAvailable_InfoBar_Settings`
-- `UpdateInfoBar_MissingPhantomLink_Message`
-- `UpdateInfoBar_MissingPhantomLink_Launch_GameBar`
-- `UpdateInfoBar_MissingPhantomLink_Launch_StartMenu`
-- `UpdateProgressDialog_Title`
-- `UpdateProgress_Phase2Download`
-- `UpdateProgress_Phase2Install`
-- `ResumeUpdateDialog_Content`
-- `AboutTitle.Text`
-- `AboutSection_Suite.Text`
-- `Label_OmniConsole.Text`
+Changed (re-translate) (3):
 - `GamepadProfile_BlockNativeGamepadInput_Note.Text`
 - `GamepadMappingDeleteConfirmBody`
-- `GamepadKeyGroup_EditNav`
 - `AppsUsingPhantomPawDialog_Header.Text`
-- `CertDetailsDialog_Body.Text`
 
 ### tr-TR
 

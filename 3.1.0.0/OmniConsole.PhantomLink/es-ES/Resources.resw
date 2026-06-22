@@ -138,7 +138,7 @@
   </data>
   -->
   <data name="Widget_SteamInGameOverlay_Title.Text" xml:space="preserve">
-    <value>Mantén pulsado  para abrir la interfaz de Steam</value>
+    <value>Mantén pulsado &#xEDE3; para abrir la interfaz de Steam</value>
   </data>
   <data name="Widget_SteamInGameOverlay_On.Content" xml:space="preserve">
     <value>Sí</value>
