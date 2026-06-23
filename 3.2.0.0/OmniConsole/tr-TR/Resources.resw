@@ -1374,8 +1374,8 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Güncelleme mevcut</value>
   </data>
   <data name="ManageLanguages_Action_Install" xml:space="preserve">
-    <value>Download &amp; Install</value>
-  <comment>untranslated:changed</comment></data>
+    <value>İndir ve yükle</value>
+  </data>
   <data name="ManageLanguages_Action_Update" xml:space="preserve">
     <value>Güncelle</value>
   </data>

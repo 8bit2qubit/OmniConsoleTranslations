@@ -168,8 +168,8 @@
     <value>OmniNav</value>
   </data>
   <data name="Widget_Layout_Classic.Content" xml:space="preserve">
-    <value>Classic</value>
-  <comment>untranslated:new</comment></data>
+    <value>Klasik</value>
+  </data>
   <data name="Widget_CursorSpeed_Title.Text" xml:space="preserve">
     <value>İmleç Hızı</value>
   </data>
