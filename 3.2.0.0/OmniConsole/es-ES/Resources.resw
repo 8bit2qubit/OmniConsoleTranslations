@@ -672,8 +672,8 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>Instalando {OmniConsole} (2 de 2). La aplicación se reiniciará...</value>
   </data>
   <data name="UpdateProgress_LanguageSync" xml:space="preserve">
-    <value>Updating community language files...</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Actualizando idiomas de la comunidad...</value>
+  </data>
   <data name="ResumeUpdateDialog_Title" xml:space="preserve">
     <value>¿Reanudar la actualización?</value>
   </data>
@@ -867,8 +867,8 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>Bloquear que esta aplicación reciba señales nativas de XInput y DirectInput para evitar interferencias con el teclado y ratón simulados.</value>
   </data>
   <data name="GamepadProfile_BlockNativeGamepadInput_Note.Text" xml:space="preserve">
-    <value>Restart the app to apply changes. Don't turn this on for games with anti-cheat protection (e.g., EAC, BattlEye, or VAC), or you may trigger a violation.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Reinicia la aplicación para aplicar los cambios. No actives esto en juegos con protección antitrampas (por ejemplo, EAC, BattlEye o VAC), o podrías provocar una infracción.</value>
+  </data>
   <data name="GamepadMappingClearAllButton.Content" xml:space="preserve">
     <value>Borrar todo</value>
   </data>
@@ -1077,14 +1077,14 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>Seleccione un perfil existente para copiar sus asignaciones.</value>
   </data>
   <data name="GamepadMappingCopyFromPlaceholder" xml:space="preserve">
-    <value>Type to filter apps...</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Escribe para filtrar aplicaciones...</value>
+  </data>
   <data name="GamepadMappingDeleteConfirmTitle" xml:space="preserve">
     <value>¿Eliminar este perfil?</value>
   </data>
   <data name="GamepadMappingDeleteConfirmBody" xml:space="preserve">
-    <value>The customized bindings for “{0}” will be removed and the built-in layout will take over again.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Las asignaciones personalizadas para “{0}” se eliminarán y el diseño integrado volverá a tomar el control.</value>
+  </data>
   <data name="GamepadMappingDeleteConfirmYes" xml:space="preserve">
     <value>Eliminar</value>
   </data>
@@ -1299,107 +1299,107 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>Guardar y volver</value>
   </data>
   <data name="AdvancedSection_Display.Text" xml:space="preserve">
-    <value>Interface Display</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Visualización de interfaz</value>
+  </data>
   <data name="LanguageSetting_Title.Text" xml:space="preserve">
-    <value>Display Language</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Idioma de visualización</value>
+  </data>
   <data name="LanguageSetting_Description.Text" xml:space="preserve">
-    <value>Choose the interface language.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Elige el idioma de la interfaz.</value>
+  </data>
   <data name="LanguageItem_SystemDefault" xml:space="preserve">
-    <value>System default</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Predeterminado del sistema</value>
+  </data>
   <data name="LanguageItem_CommunitySuffix" xml:space="preserve">
-    <value>(Community)</value>
-  <comment>untranslated:changed</comment></data>
+    <value>(Comunidad)</value>
+  </data>
   <data name="LanguageItem_CommunityWithTranslator" xml:space="preserve">
-    <value>(Community - {0})</value>
-  <comment>untranslated:changed</comment></data>
+    <value>(Comunidad - {0})</value>
+  </data>
   <data name="LanguageRestartDialog_Title" xml:space="preserve">
-    <value>Restart Required</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Se requiere reinicio</value>
+  </data>
   <data name="LanguageRestartDialog_Body" xml:space="preserve">
-    <value>The language change takes effect after restarting. Restart now?</value>
-  <comment>untranslated:changed</comment></data>
+    <value>El cambio de idioma surtirá efecto después de reiniciar. ¿Reiniciar ahora?</value>
+  </data>
   <data name="LanguageRestartDialog_Restart" xml:space="preserve">
-    <value>Restart Now</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Reiniciar ahora</value>
+  </data>
   <data name="LanguageRestartDialog_Later" xml:space="preserve">
-    <value>Later</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Más tarde</value>
+  </data>
   <data name="ManageLanguagesSetting_Title.Text" xml:space="preserve">
-    <value>Community Languages</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Idiomas de la comunidad</value>
+  </data>
   <data name="ManageLanguagesSetting_Description.Text" xml:space="preserve">
-    <value>Browse, download, and update community-contributed translations.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Explora, descarga y actualiza traducciones aportadas por la comunidad.</value>
+  </data>
   <data name="ManageLanguagesButton.Content" xml:space="preserve">
-    <value>Manage</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Gestionar</value>
+  </data>
   <data name="ManageLanguages_Title" xml:space="preserve">
-    <value>Community Languages</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Idiomas de la comunidad</value>
+  </data>
   <data name="ManageLanguages_Close" xml:space="preserve">
-    <value>Close</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Cerrar</value>
+  </data>
   <data name="ManageLanguages_Loading" xml:space="preserve">
-    <value>Loading available languages...</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Cargando idiomas disponibles...</value>
+  </data>
   <data name="ManageLanguages_Downloading" xml:space="preserve">
-    <value>Downloading...</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Descargando...</value>
+  </data>
   <data name="ManageLanguages_Error" xml:space="preserve">
-    <value>Could not connect to the translation repository. Please check your internet connection and try again.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>No se pudo conectar al repositorio de traducciones. Por favor, comprueba tu conexión a internet e inténtalo de nuevo.</value>
+  </data>
   <data name="ManageLanguages_Empty" xml:space="preserve">
-    <value>No community languages are available for this version yet.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Aún no hay idiomas de la comunidad disponibles para esta versión.</value>
+  </data>
   <data name="ManageLanguages_SelectHint" xml:space="preserve">
-    <value>Select a language to see details.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Selecciona un idioma para ver los detalles.</value>
+  </data>
   <data name="ManageLanguages_Translators" xml:space="preserve">
-    <value>Translators: {0}</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Traductores: {0}</value>
+  </data>
   <data name="ManageLanguages_TranslatorSeparator" xml:space="preserve">
     <value>, </value>
-  <comment>untranslated:changed</comment></data>
+  </data>
   <data name="ManageLanguages_Status_NotInstalled" xml:space="preserve">
-    <value>Not installed</value>
-  <comment>untranslated:changed</comment></data>
+    <value>No instalado</value>
+  </data>
   <data name="ManageLanguages_Status_Installed" xml:space="preserve">
-    <value>Installed</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Instalado</value>
+  </data>
   <data name="ManageLanguages_Status_UpdateAvailable" xml:space="preserve">
-    <value>Update available</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Actualización disponible</value>
+  </data>
   <data name="ManageLanguages_Action_Install" xml:space="preserve">
-    <value>Download &amp; Install</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Descargar e instalar</value>
+  </data>
   <data name="ManageLanguages_Action_Update" xml:space="preserve">
-    <value>Update</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Actualizar</value>
+  </data>
   <data name="ManageLanguages_Action_Uninstall" xml:space="preserve">
-    <value>Uninstall</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Desinstalar</value>
+  </data>
   <data name="ManageLanguages_Revision" xml:space="preserve">
-    <value>Revision {0}</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Revisión {0}</value>
+  </data>
   <data name="ManageLanguages_Revision_Installed" xml:space="preserve">
-    <value>Revision {0} (installed)</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Revisión {0} (instalada)</value>
+  </data>
   <data name="ManageLanguages_Revision_UpdateAvailable" xml:space="preserve">
-    <value>Revision {0} (installed {1})</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Revisión {0} (instalada {1})</value>
+  </data>
   <data name="ManageLanguages_Result_Downloaded" xml:space="preserve">
-    <value>Installed successfully.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Instalado correctamente.</value>
+  </data>
   <data name="ManageLanguages_Result_Removed" xml:space="preserve">
-    <value>Removed successfully.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Eliminado correctamente.</value>
+  </data>
   <data name="ManageLanguages_Result_Failed" xml:space="preserve">
-    <value>Something went wrong. Please check your internet connection and try again.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Algo salió mal. Por favor, comprueba tu conexión a internet e inténtalo de nuevo.</value>
+  </data>
   <data name="AdvancedSection_Sound.Text" xml:space="preserve">
     <value>Sonido de interfaz</value>
   </data>
@@ -1410,8 +1410,8 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>Reproducir sonidos al navegar.</value>
   </data>
   <data name="AppsUsingPhantomPawDialog_Header.Text" xml:space="preserve">
-    <value>The following applications are using Nekomata's PhantomPaw. Please close them and retry the update:</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Las siguientes aplicaciones están usando PhantomPaw de Nekomata. Por favor, ciérralas y vuelve a intentar la actualización:</value>
+  </data>
   <data name="AppsUsingPhantomPawDialog_Hint.Text" xml:space="preserve">
     <value>Cierre las aplicaciones y presione Reintentar, o presione Cancelar para actualizar más tarde.</value>
   </data>
