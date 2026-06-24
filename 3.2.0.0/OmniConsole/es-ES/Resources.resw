@@ -1298,7 +1298,6 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
   <data name="GamepadHint_SaveReturn.Text" xml:space="preserve">
     <value>Guardar y volver</value>
   </data>
-
   <data name="AdvancedSection_Display.Text" xml:space="preserve">
     <value>Visualización de interfaz</value>
   </data>
