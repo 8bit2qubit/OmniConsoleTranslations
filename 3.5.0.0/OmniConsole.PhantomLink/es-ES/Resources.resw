@@ -127,7 +127,7 @@
     <value>Vista de tareas</value>
   </data>
   <data name="Widget_TriggerSteamInGameOverlay.Text" xml:space="preserve">
-    <value>Interfaz de Steam</value>
+    <value>Superposición de Steam</value>
   </data>
   <data name="Widget_OpenXboxLibrary.Text" xml:space="preserve">
     <value>Biblioteca de Xbox</value>
@@ -138,7 +138,7 @@
   </data>
   -->
   <data name="Widget_SteamInGameOverlay_Title.Text" xml:space="preserve">
-    <value>Mantén pulsado &#xEDE3; para abrir la interfaz de Steam</value>
+    <value>Mantén pulsado &#xEDE3; para abrir la superposición de Steam</value>
   </data>
   <data name="Widget_SteamInGameOverlay_On.Content" xml:space="preserve">
     <value>Sí</value>
@@ -147,10 +147,10 @@
     <value>No</value>
   </data>
   <data name="Widget_SteamInGameOverlay_PlatformNote.Text" xml:space="preserve">
-    <value>Solo disponible cuando la plataforma predeterminada está configurada en Steam Big Picture.</value>
+    <value>Solo disponible cuando la plataforma predeterminada está configurada como Steam Big Picture.</value>
   </data>
   <data name="Widget_MouseMode_Title.Text" xml:space="preserve">
-    <value>Modo de ratón por mando</value>
+    <value>Modo ratón por mando</value>
   </data>
   <data name="Widget_Mode_Off.Content" xml:space="preserve">
     <value>Desactivado</value>
@@ -162,7 +162,7 @@
     <value>Forzar encendido</value>
   </data>
   <data name="Widget_Layout_Title.Text" xml:space="preserve">
-    <value>Distribución del mando</value>
+    <value>Disposición del mando</value>
   </data>
   <data name="Widget_Layout_OmniNav.Content" xml:space="preserve">
     <value>OmniNav</value>
