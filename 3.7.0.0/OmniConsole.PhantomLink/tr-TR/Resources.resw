@@ -150,23 +150,23 @@
     <value>Yalnızca varsayılan platform Steam Big Picture olarak ayarlandığında kullanılabilir.</value>
   </data>
   <data name="Widget_GamepadMappingMode_Title.Text" xml:space="preserve">
-    <value>Nekomata Mode</value>
-  <comment>untranslated:new</comment></data>
+    <value>Nekomata Modu</value>
+  </data>
   <data name="Widget_Mode_Off.Content" xml:space="preserve">
     <value>Kapalı</value>
   </data>
   <data name="Widget_Mode_On.Content" xml:space="preserve">
-    <value>On</value>
-  <comment>untranslated:new</comment></data>
+    <value>Açık</value>
+  </data>
   <data name="Widget_ControllerLayoutPreset_Title.Text" xml:space="preserve">
-    <value>Controller Layout Preset</value>
-  <comment>untranslated:new</comment></data>
+    <value>Kontrolcü Düzeni Önayarı</value>
+  </data>
   <data name="Widget_ControllerLayoutPreset_OmniNav.Content" xml:space="preserve">
     <value>OmniNav</value>
-  <comment>untranslated:new</comment></data>
+  </data>
   <data name="Widget_ControllerLayoutPreset_Classic.Content" xml:space="preserve">
-    <value>Classic</value>
-  <comment>untranslated:new</comment></data>
+    <value>Klasik</value>
+  </data>
   <data name="Widget_CursorSpeed_Title.Text" xml:space="preserve">
     <value>İmleç Hızı</value>
   </data>
