@@ -121,16 +121,16 @@
     <value>0mniCharm</value>
   </data>
   <data name="WidgetDescription" xml:space="preserve">
-    <value>Widget de Game Bar de acceso rápido para alternar las funciones de OmniConsole dentro del juego.</value>
+    <value>OmniConsole özelliklerini oyun içinde açıp kapatmak için hızlı erişim Game Bar widget'ı.</value>
   </data>
   <data name="Widget_OpenTaskView.Text" xml:space="preserve">
-    <value>Vista de tareas</value>
+    <value>Görev Görünümü</value>
   </data>
   <data name="Widget_TriggerSteamInGameOverlay.Text" xml:space="preserve">
-    <value>Interfaz de Steam</value>
+    <value>Steam Kaplaması</value>
   </data>
   <data name="Widget_OpenXboxLibrary.Text" xml:space="preserve">
-    <value>Biblioteca de Xbox</value>
+    <value>Xbox Kitaplığı</value>
   </data>
   <!-- Widget_OpenSettings.Text: SettingsBtn 暫時註解保留，往後啟用時恢復此資源
   <data name="Widget_OpenSettings.Text" xml:space="preserve">
@@ -138,57 +138,54 @@
   </data>
   -->
   <data name="Widget_SteamInGameOverlay_Title.Text" xml:space="preserve">
-    <value>Mantén pulsado &#xEDE3; para abrir la interfaz de Steam</value>
+    <value>Steam Oyun İçi Kaplamasını Açmak İçin &#xEDE3; Tuşuna Uzun Basın</value>
   </data>
   <data name="Widget_SteamInGameOverlay_On.Content" xml:space="preserve">
-    <value>Sí</value>
+    <value>Açık</value>
   </data>
   <data name="Widget_SteamInGameOverlay_Off.Content" xml:space="preserve">
-    <value>No</value>
+    <value>Kapalı</value>
   </data>
   <data name="Widget_SteamInGameOverlay_PlatformNote.Text" xml:space="preserve">
-    <value>Solo disponible cuando la plataforma predeterminada está configurada en Steam Big Picture.</value>
+    <value>Yalnızca varsayılan platform Steam Big Picture olarak ayarlandığında kullanılabilir.</value>
   </data>
-  <data name="Widget_MouseMode_Title.Text" xml:space="preserve">
-    <value>Modo de ratón por mando</value>
-  </data>
+  <data name="Widget_GamepadMappingMode_Title.Text" xml:space="preserve">
+    <value>Nekomata Mode</value>
+  <comment>untranslated:changed</comment></data>
   <data name="Widget_Mode_Off.Content" xml:space="preserve">
-    <value>Desactivado</value>
+    <value>Kapalı</value>
   </data>
-  <data name="Widget_Mode_Auto.Content" xml:space="preserve">
-    <value>Automático</value>
-  </data>
-  <data name="Widget_Mode_ForceOn.Content" xml:space="preserve">
-    <value>Forzar encendido</value>
-  </data>
-  <data name="Widget_Layout_Title.Text" xml:space="preserve">
-    <value>Distribución del mando</value>
-  </data>
-  <data name="Widget_Layout_OmniNav.Content" xml:space="preserve">
+  <data name="Widget_Mode_On.Content" xml:space="preserve">
+    <value>On</value>
+  <comment>untranslated:changed</comment></data>
+  <data name="Widget_ControllerLayoutPreset_Title.Text" xml:space="preserve">
+    <value>Controller Layout Preset</value>
+  <comment>untranslated:changed</comment></data>
+  <data name="Widget_ControllerLayoutPreset_OmniNav.Content" xml:space="preserve">
     <value>OmniNav</value>
-  </data>
-  <data name="Widget_Layout_Classic.Content" xml:space="preserve">
-    <value>Clásico</value>
-  </data>
+  <comment>untranslated:changed</comment></data>
+  <data name="Widget_ControllerLayoutPreset_Classic.Content" xml:space="preserve">
+    <value>Classic</value>
+  <comment>untranslated:changed</comment></data>
   <data name="Widget_CursorSpeed_Title.Text" xml:space="preserve">
-    <value>Velocidad del cursor</value>
+    <value>İmleç Hızı</value>
   </data>
   <data name="Widget_BuiltInMappingNote.Text" xml:space="preserve">
-    <value>Desactivado — el dispositivo cuenta con mapeo de mando integrado.</value>
+    <value>Devre dışı — cihazın yerleşik oyun kumandası eşlemesi var.</value>
   </data>
   <data name="Widget_ForegroundApp_LineFormat" xml:space="preserve">
-    <value>Actual: {0} ({1})</value>
+    <value>Geçerli: {0} ({1})</value>
   </data>
   <data name="Widget_ForegroundApp_LineFormat_NoDesc" xml:space="preserve">
-    <value>Actual: {0}</value>
+    <value>Geçerli: {0}</value>
   </data>
   <data name="Widget_ForegroundApp_None" xml:space="preserve">
-    <value>Actual: —</value>
+    <value>Geçerli: —</value>
   </data>
   <data name="Widget_CustomizeApp.Content" xml:space="preserve">
-    <value>Personalizar el mapeo del mando para esta aplicación…</value>
+    <value>Bu uygulama için oyun kumandası eşlemesini özelleştir…</value>
   </data>
   <data name="Widget_CustomizeApp_ElevatedNote.Text" xml:space="preserve">
-    <value>Esta aplicación se ejecuta como administrador. El mapeo de mando no puede alcanzarla.</value>
+    <value>Bu uygulama yönetici olarak çalışıyor. Oyun kumandası eşlemeleri ona ulaşamaz.</value>
   </data>
 </root>

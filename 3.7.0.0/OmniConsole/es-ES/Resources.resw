@@ -231,18 +231,18 @@
   <data name="AdvancedDescription.Text" xml:space="preserve">
     <value>Ajuste fino del comportamiento del sistema y las opciones de integración.</value>
   </data>
-  <data name="AdvancedSection_GamepadInput.Text" xml:space="preserve">
-    <value>Entrada de mando</value>
-  </data>
+  <data name="AdvancedSection_Steam.Text" xml:space="preserve">
+    <value>Steam</value>
+  <comment>untranslated:new</comment></data>
+  <data name="AdvancedSection_Nekomata.Text" xml:space="preserve">
+    <value>Nekomata</value>
+  <comment>untranslated:new</comment></data>
   <data name="PhantomKeySetting_Title.Text" xml:space="preserve">
-    <value>Servicio de entrada de mando</value>
-  </data>
+    <value>Press &#xEECA; to Open Steam’s Menus in Steam Big Picture Mode</value>
+  <comment>untranslated:changed</comment></data>
   <data name="PhantomKeySetting_Description.Text" xml:space="preserve">
-    <value>Presione &#xEECA; para abrir los menús de Steam en el modo Steam Big Picture.</value>
-  </data>
-  <data name="PhantomKeySetting_Note.Text" xml:space="preserve">
-    <value>Presión corta &#xEECA; para abrir el menú de Steam, presión larga &#xEECA; para abrir el menú de acceso rápido.</value>
-  </data>
+    <value>Short press &#xEECA; to open Steam Menu, long press &#xEECA; to open Quick Access Menu.</value>
+  <comment>untranslated:changed</comment></data>
   <data name="SteamInGameOverlaySetting_Title.Text" xml:space="preserve">
     <value>Mantener presionado &#xEDE3; para abrir la superposición de Steam en el juego</value>
   </data>
@@ -256,44 +256,53 @@
     <value>Mantenga presionado &#xEDE3; para cerrar la superposición y evitar que las teclas modificadoras (p. ej., Shift, Ctrl o Alt) queden bloqueadas en el juego.
 Como alternativa, cambie el atajo a una tecla no modificadora en Configuración de Steam &gt; En el juego &gt; Tecla(s) de atajo de la superposición.</value>
   </data>
-  <data name="MouseModeSetting_Title.Text" xml:space="preserve">
-    <value>Modo ratón con mando</value>
-  </data>
-  <data name="MouseModeSetting_Description.Text" xml:space="preserve">
-    <value>Desactivado: deshabilitado. Automático: aplicaciones enumeradas a continuación. Forzar activado: todas las aplicaciones.</value>
-  </data>
-  <data name="MouseModeItem_Off" xml:space="preserve">
-    <value>Desactivado</value>
-  </data>
-  <data name="MouseModeItem_Auto" xml:space="preserve">
-    <value>Automático</value>
-  </data>
-  <data name="MouseModeItem_ForceOn" xml:space="preserve">
-    <value>Forzar activado</value>
-  </data>
-  <data name="MouseModeSetting_Note.Text" xml:space="preserve">
-    <value>En modo automático, es compatible con Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, Explorador de archivos, Steam y Discord.</value>
-  </data>
-  <data name="MouseModeSetting_BuiltInMappingNote.Text" xml:space="preserve">
-    <value>Deshabilitado — el dispositivo tiene mapeo de mando integrado.</value>
-  </data>
-  <data name="MouseModeLayoutSetting_Title.Text" xml:space="preserve">
-    <value>Disposición del mando</value>
-  </data>
-  <data name="MouseModeLayoutSetting_Description.Text" xml:space="preserve">
-    <value>OmniNav: el stick izquierdo mueve el cursor. Clásico: el stick derecho mueve el cursor.</value>
-  </data>
-  <data name="MouseModeLayoutSwitch.OffContent" xml:space="preserve">
+  <data name="GamepadMappingModeSetting_Title.Text" xml:space="preserve">
+    <value>Nekomata Mode</value>
+  <comment>untranslated:new</comment></data>
+  <data name="GamepadMappingModeSetting_Description.Text" xml:space="preserve">
+    <value>Let Nekomata turn your gamepad into keyboard and mouse, and tailor per-app settings on the “Nekomata” page.</value>
+  <comment>untranslated:new</comment></data>
+  <data name="GamepadMappingModeSetting_Note.Text" xml:space="preserve">
+    <value>Built-in mapping covers Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, File Explorer, Steam, and Discord.</value>
+  <comment>untranslated:new</comment></data>
+  <data name="GamepadMappingModeSetting_BuiltInMappingNote.Text" xml:space="preserve">
+    <value>Disabled — device has built-in gamepad mapping.</value>
+  <comment>untranslated:new</comment></data>
+  <data name="ControllerLayoutPresetSetting_Title.Text" xml:space="preserve">
+    <value>Controller Layout Preset</value>
+  <comment>untranslated:new</comment></data>
+  <data name="ControllerLayoutPresetSetting_Description.Text" xml:space="preserve">
+    <value>Set the default layout for built-in mapping and new profiles. OmniNav: left stick moves the cursor; Classic: right stick moves the cursor.</value>
+  <comment>untranslated:new</comment></data>
+  <data name="ControllerLayoutPresetItem_OmniNav" xml:space="preserve">
     <value>OmniNav</value>
-  </data>
-  <data name="MouseModeLayoutSwitch.OnContent" xml:space="preserve">
-    <value>Clásico</value>
-  </data>
+  <comment>untranslated:new</comment></data>
+  <data name="ControllerLayoutPresetItem_Classic" xml:space="preserve">
+    <value>Classic</value>
+  <comment>untranslated:new</comment></data>
   <data name="CursorSpeedSetting_Title.Text" xml:space="preserve">
     <value>Velocidad del cursor</value>
   </data>
   <data name="CursorSpeedSetting_Description.Text" xml:space="preserve">
     <value>Ajuste la velocidad de movimiento del cursor en relación al valor predeterminado (100%).</value>
+  </data>
+  <data name="BackgroundMaterialSetting_Title.Text" xml:space="preserve">
+    <value>Material de fondo</value>
+  </data>
+  <data name="BackgroundMaterialSetting_Description.Text" xml:space="preserve">
+    <value>Elige el material de fondo.</value>
+  </data>
+  <data name="BackgroundMaterialSetting_Note.Text" xml:space="preserve">
+    <value>Requiere que los efectos de transparencia de Windows estén activados.</value>
+  </data>
+  <data name="BackgroundMaterialItem_PhantomClassic" xml:space="preserve">
+    <value>Phantom Classic</value>
+  </data>
+  <data name="BackgroundMaterialItem_PhantomGlass" xml:space="preserve">
+    <value>Phantom Glass</value>
+  </data>
+  <data name="BackgroundMaterialItem_PhantomGlassDeep" xml:space="preserve">
+    <value>Phantom Glass Deep</value>
   </data>
   <data name="AdvancedSection_GameBar.Text" xml:space="preserve">
     <value>Game Bar</value>
@@ -855,7 +864,7 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>Nekomata tejará un encantamiento para cada aplicación, conjurando las teclas y clics perfectos para tu mando.</value>
   </data>
   <data name="GamepadMappingEmptyHint.Text" xml:space="preserve">
-    <value>Miau~ aún no hay aplicaciones encantadas. Abre el widget OmniCharm en Game Bar y elige "Personalizar mapeo del mando para esta aplicación" — Nekomata tejará un nuevo encantamiento para ella.</value>
+    <value>Miau~ aún no hay aplicaciones encantadas. Abre el widget OmniCharm en Game Bar y elige "Personalizar el mapeo del mando para esta aplicación" — Nekomata tejará un nuevo encantamiento para ella.</value>
   </data>
   <data name="GamepadMappingToolsSection.Text" xml:space="preserve">
     <value>Herramientas</value>
@@ -867,8 +876,23 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>Bloquear que esta aplicación reciba señales nativas de XInput y DirectInput para evitar interferencias con el teclado y ratón simulados.</value>
   </data>
   <data name="GamepadProfile_BlockNativeGamepadInput_Note.Text" xml:space="preserve">
-    <value>Reinicia la aplicación para aplicar los cambios. No actives esto en juegos con protección antitrampas (por ejemplo, EAC, BattlEye o VAC), o podrías provocar una infracción.</value>
-  </data>
+    <value>Restart the app to apply changes. Do not turn this on for games with anti-cheat protection (e.g., EAC, BattlEye, or VAC); otherwise you may trigger a violation.</value>
+  <comment>untranslated:changed</comment></data>
+  <data name="GamepadProfile_MappingServicePriority_Title.Text" xml:space="preserve">
+    <value>Nekomata Boost</value>
+  <comment>untranslated:new</comment></data>
+  <data name="GamepadProfile_MappingServicePriority_Description.Text" xml:space="preserve">
+    <value>Raise the priority of the mapping service to reduce cursor stutter while running demanding games or apps.</value>
+  <comment>untranslated:new</comment></data>
+  <data name="GamepadProcessPriority_Standard" xml:space="preserve">
+    <value>Standard</value>
+  <comment>untranslated:new</comment></data>
+  <data name="GamepadProcessPriority_Performance" xml:space="preserve">
+    <value>Performance</value>
+  <comment>untranslated:new</comment></data>
+  <data name="GamepadRepeatToggle.Content" xml:space="preserve">
+    <value>Repeat</value>
+  <comment>untranslated:new</comment></data>
   <data name="GamepadMappingClearAllButton.Content" xml:space="preserve">
     <value>Borrar todo</value>
   </data>

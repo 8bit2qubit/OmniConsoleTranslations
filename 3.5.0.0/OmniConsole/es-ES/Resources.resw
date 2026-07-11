@@ -260,7 +260,7 @@ Como alternativa, cambie el atajo a una tecla no modificadora en Configuración 
     <value>Modo ratón con mando</value>
   </data>
   <data name="MouseModeSetting_Description.Text" xml:space="preserve">
-    <value>Desactivado: deshabilitado. Automático: aplicaciones enumeradas a continuación. Forzar activado: todas las aplicaciones.</value>
+    <value>Desactivado: deshabilitado. Automático: aplicaciones enumeradas a continuación. Forzar encendido: todas las aplicaciones.</value>
   </data>
   <data name="MouseModeItem_Off" xml:space="preserve">
     <value>Desactivado</value>
@@ -269,13 +269,13 @@ Como alternativa, cambie el atajo a una tecla no modificadora en Configuración 
     <value>Automático</value>
   </data>
   <data name="MouseModeItem_ForceOn" xml:space="preserve">
-    <value>Forzar activado</value>
+    <value>Forzar encendido</value>
   </data>
   <data name="MouseModeSetting_Note.Text" xml:space="preserve">
     <value>En modo automático, es compatible con Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, Explorador de archivos, Steam y Discord.</value>
   </data>
   <data name="MouseModeSetting_BuiltInMappingNote.Text" xml:space="preserve">
-    <value>Deshabilitado — el dispositivo tiene mapeo de mando integrado.</value>
+    <value>Desactivado — el dispositivo cuenta con mapeo de mando integrado.</value>
   </data>
   <data name="MouseModeLayoutSetting_Title.Text" xml:space="preserve">
     <value>Disposición del mando</value>
@@ -294,6 +294,24 @@ Como alternativa, cambie el atajo a una tecla no modificadora en Configuración 
   </data>
   <data name="CursorSpeedSetting_Description.Text" xml:space="preserve">
     <value>Ajuste la velocidad de movimiento del cursor en relación al valor predeterminado (100%).</value>
+  </data>
+  <data name="BackgroundMaterialSetting_Title.Text" xml:space="preserve">
+    <value>Material de fondo</value>
+  </data>
+  <data name="BackgroundMaterialSetting_Description.Text" xml:space="preserve">
+    <value>Elige el material de fondo.</value>
+  </data>
+  <data name="BackgroundMaterialSetting_Note.Text" xml:space="preserve">
+    <value>Requiere que los efectos de transparencia de Windows estén activados.</value>
+  </data>
+  <data name="BackgroundMaterialItem_PhantomClassic" xml:space="preserve">
+    <value>Phantom Classic</value>
+  </data>
+  <data name="BackgroundMaterialItem_PhantomGlass" xml:space="preserve">
+    <value>Phantom Glass</value>
+  </data>
+  <data name="BackgroundMaterialItem_PhantomGlassDeep" xml:space="preserve">
+    <value>Phantom Glass Deep</value>
   </data>
   <data name="AdvancedSection_GameBar.Text" xml:space="preserve">
     <value>Game Bar</value>
@@ -855,7 +873,7 @@ Al hacer clic en "Entiendo y acepto", reconoce estos riesgos y acepta utilizar e
     <value>Nekomata tejará un encantamiento para cada aplicación, conjurando las teclas y clics perfectos para tu mando.</value>
   </data>
   <data name="GamepadMappingEmptyHint.Text" xml:space="preserve">
-    <value>Miau~ aún no hay aplicaciones encantadas. Abre el widget OmniCharm en Game Bar y elige "Personalizar mapeo del mando para esta aplicación" — Nekomata tejará un nuevo encantamiento para ella.</value>
+    <value>Miau~ aún no hay aplicaciones encantadas. Abre el widget OmniCharm en Game Bar y elige "Personalizar el mapeo del mando para esta aplicación" — Nekomata tejará un nuevo encantamiento para ella.</value>
   </data>
   <data name="GamepadMappingToolsSection.Text" xml:space="preserve">
     <value>Herramientas</value>
