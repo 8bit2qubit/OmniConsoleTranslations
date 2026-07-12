@@ -238,10 +238,10 @@
     <value>Nekomata</value>
   </data>
   <data name="PhantomKeySetting_Title.Text" xml:space="preserve">
-    <value>Steam Big Picture Modunda Steam Menülerini Açmak için  Tuşuna Basın</value>
+    <value>Steam Big Picture Modunda Steam Menülerini Açmak için &#xEECA; Tuşuna Basın</value>
   </data>
   <data name="PhantomKeySetting_Description.Text" xml:space="preserve">
-    <value>Steam Menüsünü açmak için  tuşuna kısa basın, Hızlı Erişim Menüsünü açmak için  tuşuna uzun basın.</value>
+    <value>Steam Menüsünü açmak için &#xEECA; tuşuna kısa basın, Hızlı Erişim Menüsünü açmak için &#xEECA; tuşuna uzun basın.</value>
   </data>
   <data name="SteamInGameOverlaySetting_Title.Text" xml:space="preserve">
     <value>Steam Oyun İçi Kaplamasını Açmak İçin &#xEDE3; Tuşuna Uzun Basın</value>
