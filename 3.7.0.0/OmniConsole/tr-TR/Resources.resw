@@ -233,16 +233,16 @@
   </data>
   <data name="AdvancedSection_Steam.Text" xml:space="preserve">
     <value>Steam</value>
-  <comment>untranslated:new</comment></data>
+  </data>
   <data name="AdvancedSection_Nekomata.Text" xml:space="preserve">
     <value>Nekomata</value>
-  <comment>untranslated:new</comment></data>
+  </data>
   <data name="PhantomKeySetting_Title.Text" xml:space="preserve">
-    <value>Press &#xEECA; to Open Steam’s Menus in Steam Big Picture Mode</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Steam Big Picture Modunda Steam Menülerini Açmak için &#xEECA; Tuşuna Basın</value>
+  </data>
   <data name="PhantomKeySetting_Description.Text" xml:space="preserve">
-    <value>Short press &#xEECA; to open Steam Menu, long press &#xEECA; to open Quick Access Menu.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Steam Menüsünü açmak için &#xEECA; tuşuna kısa basın, Hızlı Erişim Menüsünü açmak için &#xEECA; tuşuna uzun basın.</value>
+  </data>
   <data name="SteamInGameOverlaySetting_Title.Text" xml:space="preserve">
     <value>Steam Oyun İçi Kaplamasını Açmak İçin &#xEDE3; Tuşuna Uzun Basın</value>
   </data>
@@ -257,29 +257,29 @@
 Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(ları) bölümünden kısayolu değiştirici olmayan bir tuşla değiştirin.</value>
   </data>
   <data name="GamepadMappingModeSetting_Title.Text" xml:space="preserve">
-    <value>Nekomata Mode</value>
-  <comment>untranslated:new</comment></data>
+    <value>Nekomata Modu</value>
+  </data>
   <data name="GamepadMappingModeSetting_Description.Text" xml:space="preserve">
-    <value>Let Nekomata turn your gamepad into keyboard and mouse, and tailor per-app settings on the “Nekomata” page.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Nekomata'nın oyun kumandanızı klavye ve fareye dönüştürmesine izin verin ve uygulama bazında ayarları "Nekomata" sayfasında özelleştirin.</value>
+  </data>
   <data name="GamepadMappingModeSetting_Note.Text" xml:space="preserve">
-    <value>Built-in mapping covers Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, File Explorer, Steam, and Discord.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Yerleşik eşleme; Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, Dosya Gezgini, Steam ve Discord'u destekler.</value>
+  </data>
   <data name="GamepadMappingModeSetting_BuiltInMappingNote.Text" xml:space="preserve">
-    <value>Disabled — device has built-in gamepad mapping.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Devre dışı — cihazın yerleşik oyun kumandası eşlemesi var.</value>
+  </data>
   <data name="ControllerLayoutPresetSetting_Title.Text" xml:space="preserve">
-    <value>Controller Layout Preset</value>
-  <comment>untranslated:new</comment></data>
+    <value>Kontrolcü Düzeni Önayarı</value>
+  </data>
   <data name="ControllerLayoutPresetSetting_Description.Text" xml:space="preserve">
-    <value>Set the default layout for built-in mapping and new profiles. OmniNav: left stick moves the cursor; Classic: right stick moves the cursor.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Yerleşik eşleme ve yeni profiller için varsayılan düzeni ayarlayın. OmniNav: sol çubuk imleci hareket ettirir; Klasik: sağ çubuk imleci hareket ettirir.</value>
+  </data>
   <data name="ControllerLayoutPresetItem_OmniNav" xml:space="preserve">
     <value>OmniNav</value>
-  <comment>untranslated:new</comment></data>
+  </data>
   <data name="ControllerLayoutPresetItem_Classic" xml:space="preserve">
-    <value>Classic</value>
-  <comment>untranslated:new</comment></data>
+    <value>Klasik</value>
+  </data>
   <data name="CursorSpeedSetting_Title.Text" xml:space="preserve">
     <value>İmleç Hızı</value>
   </data>
@@ -287,23 +287,23 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>İmleç hareket hızını varsayılana (%100) göre ölçeklendirin.</value>
   </data>
   <data name="BackgroundMaterialSetting_Title.Text" xml:space="preserve">
-    <value>Background Material</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Arka Plan Malzemesi</value>
+  </data>
   <data name="BackgroundMaterialSetting_Description.Text" xml:space="preserve">
-    <value>Choose the background material.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Arka plan malzemesini seçin.</value>
+  </data>
   <data name="BackgroundMaterialSetting_Note.Text" xml:space="preserve">
-    <value>Requires Windows transparency effects to be enabled.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Windows saydamlık efektlerinin etkinleştirilmesini gerektirir.</value>
+  </data>
   <data name="BackgroundMaterialItem_PhantomClassic" xml:space="preserve">
-    <value>Phantom Classic</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Phantom Klasik</value>
+  </data>
   <data name="BackgroundMaterialItem_PhantomGlass" xml:space="preserve">
-    <value>Phantom Glass</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Phantom Cam</value>
+  </data>
   <data name="BackgroundMaterialItem_PhantomGlassDeep" xml:space="preserve">
-    <value>Phantom Glass Deep</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Phantom Derin Cam</value>
+  </data>
   <data name="AdvancedSection_GameBar.Text" xml:space="preserve">
     <value>Game Bar</value>
   </data>
@@ -876,23 +876,23 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Simüle edilmiş klavye ve fare ile etkileşimi önlemek için bu uygulamanın yerel XInput ve DirectInput sinyalleri almasını engelleyin.</value>
   </data>
   <data name="GamepadProfile_BlockNativeGamepadInput_Note.Text" xml:space="preserve">
-    <value>Restart the app to apply changes. Do not turn this on for games with anti-cheat protection (e.g., EAC, BattlEye, or VAC); otherwise you may trigger a violation.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Değişiklikleri uygulamak için uygulamayı yeniden başlatın. Hile koruması olan oyunlarda (örn. EAC, BattlEye veya VAC) bunu etkinleştirmeyin, aksi takdirde ihlal tetikleyebilirsiniz.</value>
+  </data>
   <data name="GamepadProfile_MappingServicePriority_Title.Text" xml:space="preserve">
-    <value>Nekomata Boost</value>
-  <comment>untranslated:new</comment></data>
+    <value>Nekomata Hızlandırma</value>
+  </data>
   <data name="GamepadProfile_MappingServicePriority_Description.Text" xml:space="preserve">
-    <value>Raise the priority of the mapping service to reduce cursor stutter while running demanding games or apps.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Yoğun oyun veya uygulamalar çalışırken imleç takılmasını azaltmak için eşleme servisinin önceliğini yükseltin.</value>
+  </data>
   <data name="GamepadProcessPriority_Standard" xml:space="preserve">
-    <value>Standard</value>
-  <comment>untranslated:new</comment></data>
+    <value>Standart</value>
+  </data>
   <data name="GamepadProcessPriority_Performance" xml:space="preserve">
-    <value>Performance</value>
-  <comment>untranslated:new</comment></data>
+    <value>Performans</value>
+  </data>
   <data name="GamepadRepeatToggle.Content" xml:space="preserve">
-    <value>Repeat</value>
-  <comment>untranslated:new</comment></data>
+    <value>Tekrarla</value>
+  </data>
   <data name="GamepadMappingClearAllButton.Content" xml:space="preserve">
     <value>Tümünü Temizle</value>
   </data>

@@ -1,11 +1,11 @@
-﻿# Translation Status (3.7.1.0)
+# Translation Status (3.7.1.0)
 
 > 🌐 **English** | [繁體中文](TRANSLATION_STATUS.zh-TW.md)
 
-Auto-migrated from 3.7.0.0: unchanged English keys reuse the previous translation; new or changed keys are marked `untranslated` (fall back to English until a translator fills them in).
+Rebuilt in place: existing translations for this version are preserved, and any strings still marked `untranslated` remain so (they fall back to English until translated).
 
 - Total strings (both projects): 473
-- Generated: 2026-07-11 06:50:40 +08:00
+- Generated: 2026-07-12 19:13:24 +08:00
 
 Jump to: [es-ES](#es-es) · [tr-TR](#tr-tr)
 
@@ -14,7 +14,7 @@ Jump to: [es-ES](#es-es) · [tr-TR](#tr-tr)
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
 | es-ES | 450 | 23 | 95% |
-| tr-TR | 444 | 29 | 93% |
+| tr-TR | 473 | 0 | 100% |
 
 ## Project: OmniConsole
 
@@ -23,7 +23,7 @@ Strings: 451
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
 | es-ES | 433 | 18 | 96% |
-| tr-TR | 427 | 24 | 94% |
+| tr-TR | 451 | 0 | 100% |
 
 ## Project: OmniConsole.PhantomLink
 
@@ -32,7 +32,7 @@ Strings: 22
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
 | es-ES | 17 | 5 | 77% |
-| tr-TR | 17 | 5 | 77% |
+| tr-TR | 22 | 0 | 100% |
 
 ## Untranslated keys
 
@@ -71,39 +71,4 @@ Changed (re-translate) (5):
 
 ### tr-TR
 
-**OmniConsole**
-
-Changed (re-translate) (24):
-- `AdvancedSection_Steam.Text`
-- `AdvancedSection_Nekomata.Text`
-- `PhantomKeySetting_Title.Text`
-- `PhantomKeySetting_Description.Text`
-- `GamepadMappingModeSetting_Title.Text`
-- `GamepadMappingModeSetting_Description.Text`
-- `GamepadMappingModeSetting_Note.Text`
-- `GamepadMappingModeSetting_BuiltInMappingNote.Text`
-- `ControllerLayoutPresetSetting_Title.Text`
-- `ControllerLayoutPresetSetting_Description.Text`
-- `ControllerLayoutPresetItem_OmniNav`
-- `ControllerLayoutPresetItem_Classic`
-- `BackgroundMaterialSetting_Title.Text`
-- `BackgroundMaterialSetting_Description.Text`
-- `BackgroundMaterialSetting_Note.Text`
-- `BackgroundMaterialItem_PhantomClassic`
-- `BackgroundMaterialItem_PhantomGlass`
-- `BackgroundMaterialItem_PhantomGlassDeep`
-- `GamepadProfile_BlockNativeGamepadInput_Note.Text`
-- `GamepadProfile_MappingServicePriority_Title.Text`
-- `GamepadProfile_MappingServicePriority_Description.Text`
-- `GamepadProcessPriority_Standard`
-- `GamepadProcessPriority_Performance`
-- `GamepadRepeatToggle.Content`
-
-**OmniConsole.PhantomLink**
-
-Changed (re-translate) (5):
-- `Widget_GamepadMappingMode_Title.Text`
-- `Widget_Mode_On.Content`
-- `Widget_ControllerLayoutPreset_Title.Text`
-- `Widget_ControllerLayoutPreset_OmniNav.Content`
-- `Widget_ControllerLayoutPreset_Classic.Content`
+_All translated._

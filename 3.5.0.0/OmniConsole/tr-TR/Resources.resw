@@ -296,23 +296,23 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>İmleç hareket hızını varsayılana (%100) göre ölçeklendirin.</value>
   </data>
   <data name="BackgroundMaterialSetting_Title.Text" xml:space="preserve">
-    <value>Background Material</value>
-  <comment>untranslated:new</comment></data>
+    <value>Arka Plan Malzemesi</value>
+  </data>
   <data name="BackgroundMaterialSetting_Description.Text" xml:space="preserve">
-    <value>Choose the background material.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Arka plan malzemesini seçin.</value>
+  </data>
   <data name="BackgroundMaterialSetting_Note.Text" xml:space="preserve">
-    <value>Requires Windows transparency effects to be enabled.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Windows saydamlık efektlerinin etkinleştirilmesini gerektirir.</value>
+  </data>
   <data name="BackgroundMaterialItem_PhantomClassic" xml:space="preserve">
-    <value>Phantom Classic</value>
-  <comment>untranslated:new</comment></data>
+    <value>Phantom Klasik</value>
+  </data>
   <data name="BackgroundMaterialItem_PhantomGlass" xml:space="preserve">
-    <value>Phantom Glass</value>
-  <comment>untranslated:new</comment></data>
+    <value>Phantom Cam</value>
+  </data>
   <data name="BackgroundMaterialItem_PhantomGlassDeep" xml:space="preserve">
-    <value>Phantom Glass Deep</value>
-  <comment>untranslated:new</comment></data>
+    <value>Phantom Derin Cam</value>
+  </data>
   <data name="AdvancedSection_GameBar.Text" xml:space="preserve">
     <value>Game Bar</value>
   </data>
