@@ -238,10 +238,10 @@
     <value>Nekomata</value>
   </data>
   <data name="PhantomKeySetting_Title.Text" xml:space="preserve">
-    <value>Нажмите &#xEECA;, чтобы открыть меню Steam в режиме Big Picture</value>
+    <value>Использовать &#xEECA;, чтобы открыть меню Steam в режиме Big Picture</value>
   </data>
   <data name="PhantomKeySetting_Description.Text" xml:space="preserve">
-    <value>Короткое нажатие &#xEECA;, чтобы открыть меню Steam, долгое нажатие &#xEECA;, чтобы открыть быстрое меню.</value>
+    <value>Короткое нажатие &#xEECA;, чтобы открыть меню Steam (слева), долгое нажатие &#xEECA;, чтобы открыть быстрое меню (справа).</value>
   </data>
   <data name="SteamInGameOverlaySetting_Title.Text" xml:space="preserve">
     <value>Удерживайте &#xEDE3;, чтобы открыть оверлей Steam.</value>
@@ -272,7 +272,7 @@
     <value>Раскладка кнопок геймпада</value>
   </data>
   <data name="ControllerLayoutPresetSetting_Description.Text" xml:space="preserve">
-    <value>Выберите раскладку кнопок геймпада по умолчанию. OmniNav: курсором управляет левый стик; Классика: курсором управляет правый стик.</value>
+    <value>Выбрать раскладку кнопок геймпада по умолчанию. OmniNav: курсором управляет левый стик; Классика: курсором управляет правый стик.</value>
   </data>
   <data name="ControllerLayoutPresetItem_OmniNav" xml:space="preserve">
     <value>OmniNav</value>
@@ -290,7 +290,7 @@
     <value>Фон приложения</value>
   </data>
   <data name="BackgroundMaterialSetting_Description.Text" xml:space="preserve">
-    <value>Выберите фон приложения.</value>
+    <value>Выбрать фон приложения.</value>
   </data>
   <data name="BackgroundMaterialSetting_Note.Text" xml:space="preserve">
     <value>Требуется активация эффектов прозрачности в параметрах персонализации Windows.</value>
@@ -311,7 +311,7 @@
     <value>Кнопка библиотеки открывает настройки</value>
   </data>
   <data name="GameBarLibrarySetting_Description.Text" xml:space="preserve">
-    <value>Выберите действие для кнопки "Библиотека" на игровой панели.</value>
+    <value>Выбрать действие для кнопки "Библиотека" на игровой панели.</value>
   </data>
   <data name="PassthroughSetting_Title.Text" xml:space="preserve">
     <value>Перейти к выбранной платформе</value>
@@ -933,7 +933,7 @@
     <value>Скопировать из…</value>
   </data>
   <data name="GamepadMappingChangeKeyButton" xml:space="preserve">
-    <value>Изменить привязку…</value>
+    <value>Привязка…</value>
   </data>
   <data name="AppIdUwp" xml:space="preserve">
     <value>Пакет UWP-приложения</value>
