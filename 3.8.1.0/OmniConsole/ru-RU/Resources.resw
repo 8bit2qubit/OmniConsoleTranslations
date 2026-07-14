@@ -238,7 +238,7 @@
     <value>Nekomata</value>
   </data>
   <data name="PhantomKeySetting_Title.Text" xml:space="preserve">
-    <value>Использовать &#xEECA;, чтобы открыть меню Steam в режиме Big Picture</value>
+    <value>Используйте &#xEECA;, чтобы открывать меню Steam в режиме Big Picture</value>
   </data>
   <data name="PhantomKeySetting_Description.Text" xml:space="preserve">
     <value>Короткое нажатие &#xEECA;, чтобы открыть меню Steam (слева), долгое нажатие &#xEECA;, чтобы открыть быстрое меню (справа).</value>
