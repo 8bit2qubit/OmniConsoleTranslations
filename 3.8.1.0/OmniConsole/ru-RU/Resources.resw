@@ -244,7 +244,7 @@
     <value>Короткое нажатие &#xEECA;, чтобы открыть меню Steam (слева), долгое нажатие &#xEECA;, чтобы открыть быстрое меню (справа).</value>
   </data>
   <data name="SteamInGameOverlaySetting_Title.Text" xml:space="preserve">
-    <value>Удерживайте &#xEDE3;, чтобы открыть оверлей Steam.</value>
+    <value>Использовать &#xEDE3;, чтобы открыть оверлей Steam</value>
   </data>
   <data name="SteamInGameOverlaySetting_Description.Text" xml:space="preserve">
     <value>Оверлей Steam должен быть активен.</value>
@@ -272,7 +272,7 @@
     <value>Раскладка кнопок геймпада</value>
   </data>
   <data name="ControllerLayoutPresetSetting_Description.Text" xml:space="preserve">
-    <value>Выбрать раскладку кнопок геймпада по умолчанию. OmniNav: курсором управляет левый стик; Классика: курсором управляет правый стик.</value>
+    <value>Выбрать раскладку кнопок геймпада для приложений с предустановленными настройками, а также для создаваемых профилей. OmniNav: курсором управляет левый стик; Классика: курсором управляет правый стик.</value>
   </data>
   <data name="ControllerLayoutPresetItem_OmniNav" xml:space="preserve">
     <value>OmniNav</value>
