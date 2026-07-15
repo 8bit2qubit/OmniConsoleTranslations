@@ -250,7 +250,7 @@
     <value>Оверлей Steam должен быть активен.</value>
   </data>
   <data name="SteamInGameOverlaySetting_Note.Text" xml:space="preserve">
-    <value>Доступно только если в качестве платформы по умолачнию установлен Steam Big Picture.</value>
+    <value>Доступно только если в качестве платформы по умолчанию установлен Steam Big Picture.</value>
   </data>
   <data name="SteamInGameOverlaySetting_ModifierNote.Text" xml:space="preserve">
     <value>Удерживайте &#xEDE3;, чтобы закрыть оверлей и устранить залипание клавиш-модификаторов (Shift, Ctrl, или Alt).
