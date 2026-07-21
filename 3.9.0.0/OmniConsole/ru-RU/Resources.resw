@@ -263,11 +263,11 @@
     <value>Nekomata позволяет переназначить кнопки клавиатуры и мыши на геймпад для каждого приложения в данном разделе настроек.</value>
   </data>
   <data name="GamepadMappingModeSetting_Note.Text" xml:space="preserve">
-    <value>Built-in mapping covers Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, Playnite Desktop, File Explorer, Windows File Picker, Windows Installer, Steam, and Discord.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Встроенные раскладки по умолчанию включены для Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, Playnite Desktop, Steam, and Discord, а также для Проводника Windows, Меню "Обзор" и Установщика Windows.</value>
+  </data>
   <data name="GamepadMappingModeSetting_BuiltInMappingNote.Text" xml:space="preserve">
-    <value>Disabled: this console has the manufacturer’s built-in gamepad mapping.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Отключено: эта консоль поддерживает перенаначение кнопок геймпада от производителя.</value>
+  </data>
   <data name="ControllerLayoutPresetSetting_Title.Text" xml:space="preserve">
     <value>Раскладка кнопок геймпада</value>
   </data>
@@ -1482,63 +1482,63 @@
     <value>Открыть на GitHub</value>
   </data>
   <data name="CommunityPlatformsButton.Content" xml:space="preserve">
-    <value>Community</value>
-  <comment>untranslated:new</comment></data>
+    <value>Платформы от сообщества</value>
+  </data>
   <data name="CommunityPlatforms_Title" xml:space="preserve">
-    <value>Community Platforms</value>
-  <comment>untranslated:new</comment></data>
+    <value>Платформы от сообщества</value>
+  </data>
   <data name="CommunityPlatforms_Loading" xml:space="preserve">
-    <value>Loading community platforms…</value>
-  <comment>untranslated:new</comment></data>
+    <value>Идет загрузка платформ от сообщества…</value>
+  </data>
   <data name="CommunityPlatforms_Error" xml:space="preserve">
-    <value>Could not connect to the community platform repository. Please check your internet connection and try again.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Не удается подключиться к источнику платформ сообщества. Пожалуйста проверьте подключение и попробуйте еще раз.</value>
+  </data>
   <data name="CommunityPlatforms_Empty" xml:space="preserve">
-    <value>No community platforms are available yet.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Нет доступных платформ от сообщества.</value>
+  </data>
   <data name="CommunityPlatforms_SchemaTooNew" xml:space="preserve">
-    <value>The community platform catalog requires a newer app version. Please update the app first.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Для работы платформ от сообщества необходима более новая версия приложения. Обновите приложение до новой версии, чтобы продолжить.</value>
+  </data>
   <data name="CommunityPlatforms_SearchPlaceholder" xml:space="preserve">
-    <value>Search platforms or submitters…</value>
-  <comment>untranslated:new</comment></data>
+    <value>Поиск по платформам и авторам сообщества…</value>
+  </data>
   <data name="CommunityPlatforms_SortNewest" xml:space="preserve">
-    <value>Newest first</value>
-  <comment>untranslated:new</comment></data>
+    <value>Сначала новые</value>
+  </data>
   <data name="CommunityPlatforms_SortOldest" xml:space="preserve">
-    <value>Oldest first</value>
-  <comment>untranslated:new</comment></data>
+    <value>Сначала старые</value>
+  </data>
   <data name="CommunityPlatforms_SelectHint" xml:space="preserve">
-    <value>Select a platform to see details.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Выберите платформу, чтобы увидеть сведения.</value>
+  </data>
   <data name="CommunityPlatforms_NoResults" xml:space="preserve">
-    <value>No matching platforms found.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Совпадений нет.</value>
+  </data>
   <data name="CommunityPlatforms_Submitter" xml:space="preserve">
-    <value>Provided by {0}</value>
-  <comment>untranslated:new</comment></data>
+    <value>Автор - {0}</value>
+  </data>
   <data name="CommunityPlatforms_SubmitterDate" xml:space="preserve">
-    <value>Provided by {0} · {1}</value>
-  <comment>untranslated:new</comment></data>
+    <value>Автор - {0} · {1}</value>
+  </data>
   <data name="CommunityPlatforms_NotDetected" xml:space="preserve">
-    <value>The executable was not found on this console and must be located when adding.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Исполняемый файл не найден, для добавления платформы укажите путь к нему.</value>
+  </data>
   <data name="CommunityPlatforms_Action_Add" xml:space="preserve">
-    <value>Add</value>
-  <comment>untranslated:new</comment></data>
+    <value>Добавить</value>
+  </data>
   <data name="CommunityPlatforms_Result_Added" xml:space="preserve">
-    <value>“{0}” was added to your custom platforms.</value>
-  <comment>untranslated:new</comment></data>
+    <value>“{0}” добавлен в раздел настраиваемых платформ.</value>
+  </data>
   <data name="Import_Error_PackageNotInstalled" xml:space="preserve">
-    <value>This app package is not installed on this console.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Пакет приложения не найден.</value>
+  </data>
   <data name="CommunityPlatforms_CheckingUpdates" xml:space="preserve">
-    <value>Checking for catalog updates…</value>
-  <comment>untranslated:new</comment></data>
+    <value>Идет обновление списков…</value>
+  </data>
   <data name="CommunityPlatforms_OfflineNotice" xml:space="preserve">
-    <value>Offline. Showing cached community platforms. You can still add them, but the list may be out of date.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Нет подключения. Отображаются уже загруженные списки платформ от сообщества. Вы можете добавить их, однако список платформ устарел.</value>
+  </data>
   <data name="Import_Error_ExecutableNotFound" xml:space="preserve">
-    <value>The executable was not found on this console.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Исполняемый файл не найден.</value>
+  </data>
 </root>
