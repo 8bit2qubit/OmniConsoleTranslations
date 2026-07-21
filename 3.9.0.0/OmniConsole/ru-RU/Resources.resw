@@ -266,7 +266,7 @@
     <value>Встроенные раскладки по умолчанию включены для Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, Playnite Desktop, Steam, and Discord, а также для Проводника Windows, Меню "Обзор" и Установщика Windows.</value>
   </data>
   <data name="GamepadMappingModeSetting_BuiltInMappingNote.Text" xml:space="preserve">
-    <value>Отключено: эта консоль поддерживает перенаначение кнопок геймпада от производителя.</value>
+    <value>Отключено: эта консоль поддерживает переназначение кнопок геймпада от производителя.</value>
   </data>
   <data name="ControllerLayoutPresetSetting_Title.Text" xml:space="preserve">
     <value>Раскладка кнопок геймпада</value>
