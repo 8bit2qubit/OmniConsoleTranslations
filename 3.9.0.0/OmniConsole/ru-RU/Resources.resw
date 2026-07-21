@@ -263,7 +263,7 @@
     <value>Nekomata позволяет переназначить кнопки клавиатуры и мыши на геймпад для каждого приложения в данном разделе настроек.</value>
   </data>
   <data name="GamepadMappingModeSetting_Note.Text" xml:space="preserve">
-    <value>Встроенные раскладки по умолчанию включены для Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, Playnite Desktop, Steam, and Discord, а также для Проводника Windows, Меню "Обзор" и Установщика Windows.</value>
+    <value>Встроенные раскладки по умолчанию включены для Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, Playnite Desktop, Steam, Discord, а также для Проводника Windows, Меню "Обзор" и Установщика Windows.</value>
   </data>
   <data name="GamepadMappingModeSetting_BuiltInMappingNote.Text" xml:space="preserve">
     <value>Отключено: эта консоль поддерживает переназначение кнопок геймпада от производителя.</value>
@@ -1482,7 +1482,7 @@
     <value>Открыть на GitHub</value>
   </data>
   <data name="CommunityPlatformsButton.Content" xml:space="preserve">
-    <value>Платформы от сообщества</value>
+    <value>Сообщество</value>
   </data>
   <data name="CommunityPlatforms_Title" xml:space="preserve">
     <value>Платформы от сообщества</value>
@@ -1491,7 +1491,7 @@
     <value>Идет загрузка платформ от сообщества…</value>
   </data>
   <data name="CommunityPlatforms_Error" xml:space="preserve">
-    <value>Не удается подключиться к источнику платформ сообщества. Пожалуйста проверьте подключение и попробуйте еще раз.</value>
+    <value>Не удается подключиться к источнику платформ от сообщества. Пожалуйста проверьте подключение и попробуйте еще раз.</value>
   </data>
   <data name="CommunityPlatforms_Empty" xml:space="preserve">
     <value>Нет доступных платформ от сообщества.</value>
@@ -1527,10 +1527,10 @@
     <value>Добавить</value>
   </data>
   <data name="CommunityPlatforms_Result_Added" xml:space="preserve">
-    <value>“{0}” добавлен в раздел настраиваемых платформ.</value>
+    <value>"{0}" добавлен в раздел настраиваемых платформ.</value>
   </data>
   <data name="Import_Error_PackageNotInstalled" xml:space="preserve">
-    <value>Пакет приложения не найден.</value>
+    <value>Данный пакет приложения не установлен.</value>
   </data>
   <data name="CommunityPlatforms_CheckingUpdates" xml:space="preserve">
     <value>Идет обновление списков…</value>
