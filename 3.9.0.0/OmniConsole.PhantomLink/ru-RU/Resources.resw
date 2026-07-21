@@ -171,7 +171,7 @@
     <value>Скорость курсора</value>
   </data>
   <data name="Widget_BuiltInMappingNote.Text" xml:space="preserve">
-    <value>Отключено: эта консоль поддерживает перенаначение кнопок геймпада от производителя.</value>
+    <value>Отключено: эта консоль поддерживает переназначение кнопок геймпада от производителя.</value>
   </data>
   <data name="Widget_ForegroundApp_LineFormat" xml:space="preserve">
     <value>Текущее: {0} ({1})</value>
