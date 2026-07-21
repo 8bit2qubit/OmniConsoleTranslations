@@ -2,10 +2,10 @@
 
 > 🌐 [English](TRANSLATION_STATUS.md) | **繁體中文**
 
-自 3.8.1.0 自動遷移：英文沒變動的 key 沿用上一版譯文；新增或變動的 key 標記為 `untranslated`（在譯者補上前先顯示英文）。
+原地重算：本版現有譯文皆予保留，仍標記為 `untranslated` 的字串維持原狀（補譯前先顯示英文）。
 
 - 字串總數（兩專案合計）: 492
-- 產生時間: 2026-07-20 12:19:22 +08:00
+- 產生時間: 2026-07-21 23:37:18 +08:00
 
 快速跳轉: [es-ES](#es-es) · [ru-RU](#ru-ru) · [tr-TR](#tr-tr)
 
@@ -14,7 +14,7 @@
 | 語言 | 已翻譯 | 待翻譯 | 完成度 |
 |----------|-----------:|--------:|---------:|
 | es-ES | 444 | 48 | 90% |
-| ru-RU | 469 | 23 | 95% |
+| ru-RU | 492 | 0 | 100% |
 | tr-TR | 465 | 27 | 94% |
 
 ## 專案: OmniConsole
@@ -24,7 +24,7 @@
 | 語言 | 已翻譯 | 待翻譯 | 完成度 |
 |----------|-----------:|--------:|---------:|
 | es-ES | 428 | 42 | 91% |
-| ru-RU | 448 | 22 | 95% |
+| ru-RU | 470 | 0 | 100% |
 | tr-TR | 444 | 26 | 94% |
 
 ## 專案: OmniConsole.PhantomLink
@@ -34,7 +34,7 @@
 | 語言 | 已翻譯 | 待翻譯 | 完成度 |
 |----------|-----------:|--------:|---------:|
 | es-ES | 16 | 6 | 72% |
-| ru-RU | 21 | 1 | 95% |
+| ru-RU | 22 | 0 | 100% |
 | tr-TR | 21 | 1 | 95% |
 
 ## 待翻譯的 key
@@ -101,38 +101,7 @@
 
 ### ru-RU
 
-**OmniConsole**
-
-新增 (20):
-- `CommunityPlatformsButton.Content`
-- `CommunityPlatforms_Title`
-- `CommunityPlatforms_Loading`
-- `CommunityPlatforms_Error`
-- `CommunityPlatforms_Empty`
-- `CommunityPlatforms_SchemaTooNew`
-- `CommunityPlatforms_SearchPlaceholder`
-- `CommunityPlatforms_SortNewest`
-- `CommunityPlatforms_SortOldest`
-- `CommunityPlatforms_SelectHint`
-- `CommunityPlatforms_NoResults`
-- `CommunityPlatforms_Submitter`
-- `CommunityPlatforms_SubmitterDate`
-- `CommunityPlatforms_NotDetected`
-- `CommunityPlatforms_Action_Add`
-- `CommunityPlatforms_Result_Added`
-- `Import_Error_PackageNotInstalled`
-- `CommunityPlatforms_CheckingUpdates`
-- `CommunityPlatforms_OfflineNotice`
-- `Import_Error_ExecutableNotFound`
-
-變動（需重譯） (2):
-- `GamepadMappingModeSetting_Note.Text`
-- `GamepadMappingModeSetting_BuiltInMappingNote.Text`
-
-**OmniConsole.PhantomLink**
-
-變動（需重譯） (1):
-- `Widget_BuiltInMappingNote.Text`
+_全部已翻譯。_
 
 ### tr-TR
 
