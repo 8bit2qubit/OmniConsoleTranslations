@@ -350,7 +350,7 @@
     <value>Добавить</value>
   </data>
   <data name="GamepadHint_Edit.Text" xml:space="preserve">
-    <value>Выход</value>
+    <value>Изменить</value>
   </data>
   <data name="GamepadHint_Launch.Text" xml:space="preserve">
     <value>Выбрать и запустить</value>
