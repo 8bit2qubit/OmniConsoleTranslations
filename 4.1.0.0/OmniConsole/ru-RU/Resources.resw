@@ -263,8 +263,8 @@
     <value>Nekomata позволяет переназначить кнопки клавиатуры и мыши на геймпад для каждого приложения в данном разделе настроек.</value>
   </data>
   <data name="GamepadMappingModeSetting_Note.Text" xml:space="preserve">
-    <value>Built-in mapping covers Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, EA Desktop, Playnite Desktop, File Explorer, Windows File Picker, the Open with dialog, Windows Installer, Steam, and Discord. Task Manager and the On-screen keyboard also require Administrator App Support (Pro).</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Встроенные раскладки по умолчанию включены для Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, EA Desktop, Playnite Desktop, Steam, and Discord, а также для Проводника Windows, Установщика Windows, меню "Обзор" и "Открыть с помощью". Для работы привязок в Диспетчере задач и Экранной клавиатуре необходимо включить "Поддержку приложений с правами администратора (Pro)" в настройках.</value>
+  </data>
   <data name="GamepadMappingModeSetting_BuiltInMappingNote.Text" xml:space="preserve">
     <value>Отключено: эта консоль поддерживает переназначение кнопок геймпада от производителя.</value>
   </data>
@@ -281,11 +281,11 @@
     <value>Классика</value>
   </data>
   <data name="ControllerLayoutPresetItem_Custom" xml:space="preserve">
-    <value>Custom</value>
-  <comment>untranslated:new</comment></data>
+    <value>Своя</value>
+  </data>
   <data name="ControllerLayoutPresetEditButton.Content" xml:space="preserve">
-    <value>Edit…</value>
-  <comment>untranslated:new</comment></data>
+    <value>Изменить…</value>
+  </data>
   <data name="CursorSpeedSetting_Title.Text" xml:space="preserve">
     <value>Скорость курсора</value>
   </data>
@@ -759,14 +759,14 @@
     <value>не работает</value>
   </data>
   <data name="Label_ElevatedAppSupportService.Text" xml:space="preserve">
-    <value>Administrator App Support (PhantomSigil)</value>
-  <comment>untranslated:new</comment></data>
+    <value>Поддержка приложений с правами администратора (PhantomSigil)</value>
+  </data>
   <data name="ElevatedServiceHealth_Running" xml:space="preserve">
-    <value>running</value>
-  <comment>untranslated:new</comment></data>
+    <value>запущена</value>
+  </data>
   <data name="ElevatedServiceHealth_NotRunning" xml:space="preserve">
-    <value>not running</value>
-  <comment>untranslated:new</comment></data>
+    <value>не запущена</value>
+  </data>
   <data name="PhantomKeyResp_Responsive" xml:space="preserve">
     <value>отвечает ({0} мс)</value>
   </data>
@@ -814,7 +814,7 @@
   </data>
   <data name="Label_PhantomSigil.Text" xml:space="preserve">
     <value>PhantomSigil</value>
-  <comment>untranslated:new</comment></data>
+  </data>
   <data name="Label_PhantomLink.Text" xml:space="preserve">
     <value>PhantomLink (OmniCharm)</value>
   </data>
@@ -945,32 +945,32 @@
     <value>Сбросить</value>
   </data>
   <data name="GamepadMappingResetCustomButton.Content" xml:space="preserve">
-    <value>Custom Defaults</value>
-  <comment>untranslated:new</comment></data>
+    <value>Раскладка Своя</value>
+  </data>
   <data name="GamepadMappingResetCustomConfirmTitle" xml:space="preserve">
-    <value>Reset to Custom defaults?</value>
-  <comment>untranslated:new</comment></data>
+    <value>Сбросить раскладку к значением по умолчанию - Своя?</value>
+  </data>
   <data name="GamepadMappingResetCustomConfirmBody" xml:space="preserve">
-    <value>All current bindings will be overwritten with the Custom defaults.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Все привязки клавиш были перезаписаны значениями по умолчанию - Своя.</value>
+  </data>
   <data name="GamepadMappingResetCustomConfirmYes" xml:space="preserve">
-    <value>Reset</value>
-  <comment>untranslated:new</comment></data>
+    <value>Сбросить</value>
+  </data>
   <data name="GamepadMappingCustomLayoutTitle" xml:space="preserve">
-    <value>Custom Layout</value>
-  <comment>untranslated:new</comment></data>
+    <value>Своя раскладка</value>
+  </data>
   <data name="GamepadMappingCustomLayoutSubtitle" xml:space="preserve">
-    <value>The default layout for apps covered by built-in mapping, and the starting point for new app profiles</value>
-  <comment>untranslated:new</comment></data>
+    <value>Раскладка, используемая по умолчанию для приложений со встроенной поддержкой, а также профиль по умолчанию для создания новых профилей</value>
+  </data>
   <data name="GamepadMappingCustomLayoutEmptyTitle" xml:space="preserve">
-    <value>Set all bindings to None?</value>
-  <comment>untranslated:new</comment></data>
+    <value>Очистить все привязки?</value>
+  </data>
   <data name="GamepadMappingCustomLayoutEmptyBody" xml:space="preserve">
-    <value>Apps covered by built-in mapping will not receive simulated keyboard or mouse input. New app profiles will also start with all bindings set to None.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Приложения со встроенной поддержкой не будут получать сигналы нажатий. Новые профили также будут создаваться пустыми.</value>
+  </data>
   <data name="GamepadMappingCustomLayoutEmptyYes" xml:space="preserve">
-    <value>Save</value>
-  <comment>untranslated:new</comment></data>
+    <value>Сохранить</value>
+  </data>
   <data name="GamepadMappingCopyFromButton.Content" xml:space="preserve">
     <value>Скопировать из…</value>
   </data>
@@ -1017,11 +1017,11 @@
     <value>Колесико вправо</value>
   </data>
   <data name="GamepadAction_GamepadKeyboard" xml:space="preserve">
-    <value>Gamepad keyboard</value>
-  <comment>untranslated:new</comment></data>
+    <value>Клавиатура для геймпада</value>
+  </data>
   <data name="GamepadAction_OnScreenKeyboard" xml:space="preserve">
-    <value>On-screen keyboard</value>
-  <comment>untranslated:new</comment></data>
+    <value>Экранная клавиатура</value>
+  </data>
   <data name="GamepadAction_StickCursor" xml:space="preserve">
     <value>Курсор мыши</value>
   </data>
@@ -1594,203 +1594,203 @@
   </data>
   <data name="Nav_Pro.Content" xml:space="preserve">
     <value>Pro</value>
-  <comment>untranslated:new</comment></data>
+  </data>
   <data name="ProTitle" xml:space="preserve">
     <value>{OmniConsole} Pro</value>
-  <comment>untranslated:new</comment></data>
+  </data>
   <data name="ProDescription.Text" xml:space="preserve">
-    <value>Unlock advanced features and manage the licenses on this console.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Разблокировать расширенные возможности и управлять лицензиями на устройстве.</value>
+  </data>
   <data name="ProSection_Unlock.Text" xml:space="preserve">
-    <value>Unlock</value>
-  <comment>untranslated:new</comment></data>
+    <value>Разблокировать</value>
+  </data>
   <data name="ProSection_Status.Text" xml:space="preserve">
-    <value>License</value>
-  <comment>untranslated:new</comment></data>
+    <value>Лицензия</value>
+  </data>
   <data name="ProSection_Manage.Text" xml:space="preserve">
-    <value>Manage</value>
-  <comment>untranslated:new</comment></data>
+    <value>Управлять</value>
+  </data>
   <data name="ProSection_Features.Text" xml:space="preserve">
-    <value>Features</value>
-  <comment>untranslated:new</comment></data>
+    <value>Возможности</value>
+  </data>
   <data name="ProUnlockCard_Title.Text" xml:space="preserve">
-    <value>Activate Pro</value>
-  <comment>untranslated:new</comment></data>
+    <value>Активировать Pro-версию</value>
+  </data>
   <data name="ProUnlockCard_Description.Text" xml:space="preserve">
-    <value>Support the project to get your license, then enter the key or import the license file.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Поддержите проект, чтобы получить лицензию, затем введите лицензионный ключ или импортируйте файл лицензии.</value>
+  </data>
   <data name="ProUnlockCard_Note.Text" xml:space="preserve">
-    <value>When typing on a console is inconvenient, save the license file to your Downloads folder or a USB drive, then choose Import License File.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Если ввод затруднен, сохраните файл лицензии в папку "Загрузки" или на USB-устройстве, затем выберите "Импортировать файл лицензии".</value>
+  </data>
   <data name="ProSponsorButton.Content" xml:space="preserve">
-    <value>Support the Project</value>
-  <comment>untranslated:new</comment></data>
+    <value>Поддержать проект</value>
+  </data>
   <data name="ProEnterKeyButton.Content" xml:space="preserve">
-    <value>Enter License</value>
-  <comment>untranslated:new</comment></data>
+    <value>Ввести лицензию</value>
+  </data>
   <data name="ProStatusCard_Title.Text" xml:space="preserve">
-    <value>Pro Activated</value>
-  <comment>untranslated:new</comment></data>
+    <value>Pro-версия активирована</value>
+  </data>
   <data name="ProStatusLabel_LicensedTo.Text" xml:space="preserve">
-    <value>Licensed to:</value>
-  <comment>untranslated:new</comment></data>
+    <value>Лицензия для:</value>
+  </data>
   <data name="ProStatusLabel_Serial.Text" xml:space="preserve">
-    <value>License number:</value>
-  <comment>untranslated:new</comment></data>
+    <value>Номер лицензии:</value>
+  </data>
   <data name="ProStatusLabel_Issued.Text" xml:space="preserve">
-    <value>Issued:</value>
-  <comment>untranslated:new</comment></data>
+    <value>Выдана:</value>
+  </data>
   <data name="ProManageCard_Title.Text" xml:space="preserve">
-    <value>Manage Licenses</value>
-  <comment>untranslated:new</comment></data>
+    <value>Управление лицензиями</value>
+  </data>
   <data name="ProManageCard_Description.Text" xml:space="preserve">
-    <value>Add another license, or remove the licenses on this console.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Добавить или удалить лицензии для этого устройства.</value>
+  </data>
   <data name="ProRemoveButton.Content" xml:space="preserve">
-    <value>Remove All</value>
-  <comment>untranslated:new</comment></data>
+    <value>Удалить все</value>
+  </data>
   <data name="ProFeaturesCard_Title.Text" xml:space="preserve">
-    <value>Included Features</value>
-  <comment>untranslated:new</comment></data>
+    <value>Добавленные возможности</value>
+  </data>
   <data name="ProLicenseDialog_Title" xml:space="preserve">
-    <value>Enter License</value>
-  <comment>untranslated:new</comment></data>
+    <value>Ввести лицензию</value>
+  </data>
   <data name="ProLicenseDialog_Hint" xml:space="preserve">
-    <value>Paste your license key below, or choose Import License File.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Введите лицензионный ключ или выберите "Импортировать файл лицензии".</value>
+  </data>
   <data name="ProLicenseDialog_Placeholder" xml:space="preserve">
     <value>OMNI1-…</value>
-  <comment>untranslated:new</comment></data>
+  </data>
   <data name="ProLicenseDialog_ImportFile" xml:space="preserve">
-    <value>Import License File</value>
-  <comment>untranslated:new</comment></data>
+    <value>Импортировать файл лицензии</value>
+  </data>
   <data name="ProLicenseDialog_Primary" xml:space="preserve">
-    <value>Activate</value>
-  <comment>untranslated:new</comment></data>
+    <value>Активировать</value>
+  </data>
   <data name="ProLicenseDialog_Cancel" xml:space="preserve">
-    <value>Cancel</value>
-  <comment>untranslated:new</comment></data>
+    <value>Отмена</value>
+  </data>
   <data name="ProLicense_FileFilter" xml:space="preserve">
-    <value>License files (*.lic)</value>
-  <comment>untranslated:new</comment></data>
+    <value>Файл лицензии (*.lic)</value>
+  </data>
   <data name="ProRemoveDialog_Title" xml:space="preserve">
-    <value>Remove License?</value>
-  <comment>untranslated:new</comment></data>
+    <value>Удалить лицензию?</value>
+  </data>
   <data name="ProRemoveDialog_Body" xml:space="preserve">
-    <value>All licenses will be removed from this console.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Все лицензии будут удалены с устройства.</value>
+  </data>
   <data name="ProRemoveDialog_Confirm" xml:space="preserve">
-    <value>Remove</value>
-  <comment>untranslated:new</comment></data>
+    <value>Удалить</value>
+  </data>
   <data name="ProRemoveDialog_Cancel" xml:space="preserve">
-    <value>Cancel</value>
-  <comment>untranslated:new</comment></data>
+    <value>Отмена</value>
+  </data>
   <data name="ProLicense_Success" xml:space="preserve">
-    <value>Pro is now active.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Pro-версия активирована.</value>
+  </data>
   <data name="ProLicense_Error_Empty" xml:space="preserve">
-    <value>Enter a license key.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Введите лицензионный ключ.</value>
+  </data>
   <data name="ProLicense_Error_Malformed" xml:space="preserve">
-    <value>This does not look like a license key. Check that you copied all of it.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Неверный лицензионный ключ. Убедитесь что лицензионный ключ скопирован полностью.</value>
+  </data>
   <data name="ProLicense_Error_UnknownFormat" xml:space="preserve">
-    <value>This license requires a newer version of {OmniConsole}. Update the app and try again.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Для лицензии требуется более новая версия {OmniConsole}. Обновите приложение и попробуйте еще раз.</value>
+  </data>
   <data name="ProLicense_Error_UnknownKeyId" xml:space="preserve">
-    <value>This license was issued with a newer signing key. Update {OmniConsole} and try again.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Лицензия выдана с более новым ключом подписи. Обновите {OmniConsole} и попробуйте еще раз.</value>
+  </data>
   <data name="ProLicense_Error_UnknownProduct" xml:space="preserve">
-    <value>This license is not for {OmniConsole} Pro.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Лицензия не предназначена для {OmniConsole} Pro.</value>
+  </data>
   <data name="ProLicense_Error_BadSignature" xml:space="preserve">
-    <value>This license key is not valid. Check that you copied all of it, or use Import License File instead.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Неверный лицензионный ключ. Убедитесь что лицензионный ключ скопирован полностью или используйте "Импортировать файл лицензии".</value>
+  </data>
   <data name="ProLicense_Error_Revoked" xml:space="preserve">
-    <value>This license has been deactivated. Get in touch if you believe this is a mistake.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Лицензия аннулирована. Свяжитесь с разработчиком, чтобы сообщить об ошибке.</value>
+  </data>
   <data name="ProLicense_Error_VersionExceeded" xml:space="preserve">
-    <value>This license does not cover this version of {OmniConsole}.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Лицензия не предназначена для данной версии {OmniConsole}.</value>
+  </data>
   <data name="ProLicense_Error_FileUnreadable" xml:space="preserve">
-    <value>The file could not be read.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Невозможно прочитать файл лицензии.</value>
+  </data>
   <data name="ProLicense_Error_FileNotLicense" xml:space="preserve">
-    <value>This is not a {OmniConsole} license file.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Неверный файл лицензии для {OmniConsole}.</value>
+  </data>
   <data name="ProLicense_Error_AlreadyImported" xml:space="preserve">
-    <value>This license is already active on this console.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Лицензия уже активирована на данном устройстве.</value>
+  </data>
   <data name="ProLicense_Error_UnknownEntitlement" xml:space="preserve">
-    <value>This license unlocks something this version does not know about. Update {OmniConsole} and try again.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Лицензия активирует возможности, отсутствующие в данной версии приложения. Обновите {OmniConsole} и попробуйте еще раз.</value>
+  </data>
   <data name="ProAddLicenseButton.Content" xml:space="preserve">
-    <value>Add License</value>
-  <comment>untranslated:new</comment></data>
+    <value>Добавить лицензию</value>
+  </data>
   <data name="ProEntitlement_Pro" xml:space="preserve">
     <value>{OmniConsole} Pro</value>
-  <comment>untranslated:new</comment></data>
+  </data>
   <data name="ProEntitlement_Owned" xml:space="preserve">
-    <value>Active</value>
-  <comment>untranslated:new</comment></data>
+    <value>Активирована</value>
+  </data>
   <data name="ProEntitlement_NotOwned" xml:space="preserve">
-    <value>Not owned</value>
-  <comment>untranslated:new</comment></data>
+    <value>Не активирована</value>
+  </data>
   <data name="ProEntitlementRemove" xml:space="preserve">
-    <value>Remove</value>
-  <comment>untranslated:new</comment></data>
+    <value>Удалить</value>
+  </data>
   <data name="ProRemoveDialog_BodyOne" xml:space="preserve">
-    <value>The license for “{0}” will be removed from this console.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Лицензия для "{0}" будет удалена с устройства.</value>
+  </data>
   <data name="ProRemoveDialog_BodyPro" xml:space="preserve">
-    <value>Removing “{0}” also turns off every add-on, because add-ons require it.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Удаление "{0}" также отключит все дополнения, которым это необходимо.</value>
+  </data>
   <data name="ProLicense_Error_RequiresPro" xml:space="preserve">
-    <value>Activate {OmniConsole} Pro first, then import this add-on.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Активируйте лицензию {OmniConsole} Pro, чтобы использовать это дополнение.</value>
+  </data>
   <data name="ProManageCard_Note.Text" xml:space="preserve">
-    <value>Removing does not affect your licenses. You can import them again at any time.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Удаление не затронет ваши лицензии. Вы можете активировать их снова в любое время.</value>
+  </data>
   <data name="ElevatedAppSupportSetting_Title.Text" xml:space="preserve">
-    <value>Administrator App Support</value>
-  <comment>untranslated:new</comment></data>
+    <value>Поддержка приложений с правами администратора</value>
+  </data>
   <data name="ElevatedAppSupportSetting_Description.Text" xml:space="preserve">
-    <value>Let gamepad mappings reach apps that run as administrator. Requires setup with administrator approval.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Разраешить испольовать привязки геймпада в приложениях, запущенных с правами администратора. Требует установки с правами администратора.</value>
+  </data>
   <data name="ElevatedAppSupport_Install" xml:space="preserve">
-    <value>Install</value>
-  <comment>untranslated:new</comment></data>
+    <value>Установить</value>
+  </data>
   <data name="ElevatedAppSupport_Remove" xml:space="preserve">
-    <value>Remove</value>
-  <comment>untranslated:new</comment></data>
+    <value>Удалить</value>
+  </data>
   <data name="ElevatedAppSupportRemoveDialog_Title" xml:space="preserve">
-    <value>Remove administrator app support?</value>
-  <comment>untranslated:new</comment></data>
+    <value>Удалить поддержку приложений с правами администратора?</value>
+  </data>
   <data name="ElevatedAppSupportRemoveDialog_Body" xml:space="preserve">
-    <value>Gamepad mappings will no longer reach apps that run as administrator.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Привязки геймпада больше не будут работать с приложениями, запущенными с правами администратора.</value>
+  </data>
   <data name="ElevatedAppSupportRemoveDialog_Confirm" xml:space="preserve">
-    <value>Remove</value>
-  <comment>untranslated:new</comment></data>
+    <value>Удалить</value>
+  </data>
   <data name="ElevatedAppSupportRemoveDialog_Cancel" xml:space="preserve">
-    <value>Cancel</value>
-  <comment>untranslated:new</comment></data>
+    <value>Отмена</value>
+  </data>
   <data name="ElevatedServiceUpdateDialog_Title" xml:space="preserve">
-    <value>Update administrator app support</value>
-  <comment>untranslated:new</comment></data>
+    <value>Обновить поддержку приложений с правами администратора</value>
+  </data>
   <data name="ElevatedServiceUpdateDialog_Content" xml:space="preserve">
-    <value>OmniConsole has been updated. Administrator app support needs to be updated as well to keep working. You will be asked for administrator approval next.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Приложение OmniConsole было обновлено. Поддержка приложений, запущенных с правами администратора также должна быть обновлена. Появится всплывающее окно контроля учетных записей.</value>
+  </data>
   <data name="ElevatedServiceUpdateDialog_Update" xml:space="preserve">
-    <value>Update</value>
-  <comment>untranslated:new</comment></data>
+    <value>Обновить</value>
+  </data>
   <data name="ElevatedAppSupportUnavailableDialog_Title" xml:space="preserve">
-    <value>This account cannot use this feature</value>
-  <comment>untranslated:new</comment></data>
+    <value>Пользователю не доступна данная возможность</value>
+  </data>
   <data name="ElevatedAppSupportUnavailableDialog_Body" xml:space="preserve">
-    <value>Gamepad mappings need administrator rights to reach apps that run as administrator. The Windows account you are signed in with does not have those rights.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Для работы с приложениями, запущенными с правами администратора, привязкам геймпада также требуются права администратора. Пользователь Windows, под которым был совершен вход не имеет таких прав.</value>
+  </data>
   <data name="ElevatedAppSupportUnavailableDialog_Close" xml:space="preserve">
-    <value>Got it</value>
-  <comment>untranslated:new</comment></data>
+    <value>Понятно</value>
+  </data>
 </root>
