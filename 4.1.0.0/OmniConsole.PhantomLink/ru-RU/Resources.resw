@@ -168,8 +168,8 @@
     <value>Классика</value>
   </data>
   <data name="Widget_ControllerLayoutPreset_Custom.Content" xml:space="preserve">
-    <value>Custom</value>
-  <comment>untranslated:new</comment></data>
+    <value>Своя</value>
+  </data>
   <data name="Widget_CursorSpeed_Title.Text" xml:space="preserve">
     <value>Скорость курсора</value>
   </data>
@@ -189,6 +189,6 @@
     <value>Настроить привязки для данного приложения…</value>
   </data>
   <data name="Widget_CustomizeApp_ElevatedNote.Text" xml:space="preserve">
-    <value>This app runs as administrator. Gamepad mappings need Administrator App Support to reach it.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Данное приложение запущено с правами администратора. Для использования привязок геймпада необходимо включить "Поддержку приложений с правами администратора" в настройках.</value>
+  </data>
 </root>
