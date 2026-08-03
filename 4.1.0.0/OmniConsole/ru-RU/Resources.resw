@@ -263,7 +263,7 @@
     <value>Nekomata позволяет переназначить кнопки клавиатуры и мыши на геймпад для каждого приложения в данном разделе настроек.</value>
   </data>
   <data name="GamepadMappingModeSetting_Note.Text" xml:space="preserve">
-    <value>Встроенные раскладки по умолчанию включены для Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, EA Desktop, Playnite Desktop, Steam, and Discord, а также для Проводника Windows, Установщика Windows, меню "Обзор" и "Открыть с помощью". Для работы привязок в Диспетчере задач и Экранной клавиатуре необходимо включить "Поддержку приложений с правами администратора (Pro)" в настройках.</value>
+    <value>Встроенные раскладки по умолчанию включены для Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, EA Desktop, Playnite Desktop, Steam, Discord, а также для Проводника Windows, Установщика Windows, меню "Обзор" и "Открыть с помощью". Для работы привязок в Диспетчере задач и Экранной клавиатуре необходимо включить "Поддержку приложений с правами администратора (Pro)" в настройках.</value>
   </data>
   <data name="GamepadMappingModeSetting_BuiltInMappingNote.Text" xml:space="preserve">
     <value>Отключено: эта консоль поддерживает переназначение кнопок геймпада от производителя.</value>
