@@ -2,10 +2,10 @@
 
 > 🌐 **English** | [繁體中文](TRANSLATION_STATUS.zh-TW.md)
 
-Auto-migrated from 4.0.1.0: unchanged English keys reuse the previous translation; new or changed keys are marked `untranslated` (fall back to English until a translator fills them in).
+Rebuilt in place: existing translations for this version are preserved, and any strings still marked `untranslated` remain so (they fall back to English until translated).
 
 - Total strings (both projects): 577
-- Generated: 2026-08-02 23:22:11 +08:00
+- Generated: 2026-08-03 23:47:27 +08:00
 
 Jump to: [es-ES](#es-es) · [ru-RU](#ru-ru) · [tr-TR](#tr-tr)
 
@@ -14,7 +14,7 @@ Jump to: [es-ES](#es-es) · [ru-RU](#ru-ru) · [tr-TR](#tr-tr)
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
 | es-ES | 443 | 134 | 76% |
-| ru-RU | 490 | 87 | 84% |
+| ru-RU | 577 | 0 | 100% |
 | tr-TR | 464 | 113 | 80% |
 
 ## Project: OmniConsole
@@ -24,7 +24,7 @@ Strings: 554
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
 | es-ES | 428 | 126 | 77% |
-| ru-RU | 469 | 85 | 84% |
+| ru-RU | 554 | 0 | 100% |
 | tr-TR | 444 | 110 | 80% |
 
 ## Project: OmniConsole.PhantomLink
@@ -34,7 +34,7 @@ Strings: 23
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
 | es-ES | 15 | 8 | 65% |
-| ru-RU | 21 | 2 | 91% |
+| ru-RU | 23 | 0 | 100% |
 | tr-TR | 20 | 3 | 86% |
 
 ## Untranslated keys
@@ -189,104 +189,7 @@ Changed (re-translate) (7):
 
 ### ru-RU
 
-**OmniConsole**
-
-New keys (84):
-- `ControllerLayoutPresetItem_Custom`
-- `ControllerLayoutPresetEditButton.Content`
-- `Label_ElevatedAppSupportService.Text`
-- `ElevatedServiceHealth_Running`
-- `ElevatedServiceHealth_NotRunning`
-- `Label_PhantomSigil.Text`
-- `GamepadMappingResetCustomButton.Content`
-- `GamepadMappingResetCustomConfirmTitle`
-- `GamepadMappingResetCustomConfirmBody`
-- `GamepadMappingResetCustomConfirmYes`
-- `GamepadMappingCustomLayoutTitle`
-- `GamepadMappingCustomLayoutSubtitle`
-- `GamepadMappingCustomLayoutEmptyTitle`
-- `GamepadMappingCustomLayoutEmptyBody`
-- `GamepadMappingCustomLayoutEmptyYes`
-- `GamepadAction_GamepadKeyboard`
-- `GamepadAction_OnScreenKeyboard`
-- `Nav_Pro.Content`
-- `ProTitle`
-- `ProDescription.Text`
-- `ProSection_Unlock.Text`
-- `ProSection_Status.Text`
-- `ProSection_Manage.Text`
-- `ProSection_Features.Text`
-- `ProUnlockCard_Title.Text`
-- `ProUnlockCard_Description.Text`
-- `ProUnlockCard_Note.Text`
-- `ProSponsorButton.Content`
-- `ProEnterKeyButton.Content`
-- `ProStatusCard_Title.Text`
-- `ProStatusLabel_LicensedTo.Text`
-- `ProStatusLabel_Serial.Text`
-- `ProStatusLabel_Issued.Text`
-- `ProManageCard_Title.Text`
-- `ProManageCard_Description.Text`
-- `ProRemoveButton.Content`
-- `ProFeaturesCard_Title.Text`
-- `ProLicenseDialog_Title`
-- `ProLicenseDialog_Hint`
-- `ProLicenseDialog_Placeholder`
-- `ProLicenseDialog_ImportFile`
-- `ProLicenseDialog_Primary`
-- `ProLicenseDialog_Cancel`
-- `ProLicense_FileFilter`
-- `ProRemoveDialog_Title`
-- `ProRemoveDialog_Body`
-- `ProRemoveDialog_Confirm`
-- `ProRemoveDialog_Cancel`
-- `ProLicense_Success`
-- `ProLicense_Error_Empty`
-- `ProLicense_Error_Malformed`
-- `ProLicense_Error_UnknownFormat`
-- `ProLicense_Error_UnknownKeyId`
-- `ProLicense_Error_UnknownProduct`
-- `ProLicense_Error_BadSignature`
-- `ProLicense_Error_Revoked`
-- `ProLicense_Error_VersionExceeded`
-- `ProLicense_Error_FileUnreadable`
-- `ProLicense_Error_FileNotLicense`
-- `ProLicense_Error_AlreadyImported`
-- `ProLicense_Error_UnknownEntitlement`
-- `ProAddLicenseButton.Content`
-- `ProEntitlement_Pro`
-- `ProEntitlement_Owned`
-- `ProEntitlement_NotOwned`
-- `ProEntitlementRemove`
-- `ProRemoveDialog_BodyOne`
-- `ProRemoveDialog_BodyPro`
-- `ProLicense_Error_RequiresPro`
-- `ProManageCard_Note.Text`
-- `ElevatedAppSupportSetting_Title.Text`
-- `ElevatedAppSupportSetting_Description.Text`
-- `ElevatedAppSupport_Install`
-- `ElevatedAppSupport_Remove`
-- `ElevatedAppSupportRemoveDialog_Title`
-- `ElevatedAppSupportRemoveDialog_Body`
-- `ElevatedAppSupportRemoveDialog_Confirm`
-- `ElevatedAppSupportRemoveDialog_Cancel`
-- `ElevatedServiceUpdateDialog_Title`
-- `ElevatedServiceUpdateDialog_Content`
-- `ElevatedServiceUpdateDialog_Update`
-- `ElevatedAppSupportUnavailableDialog_Title`
-- `ElevatedAppSupportUnavailableDialog_Body`
-- `ElevatedAppSupportUnavailableDialog_Close`
-
-Changed (re-translate) (1):
-- `GamepadMappingModeSetting_Note.Text`
-
-**OmniConsole.PhantomLink**
-
-New keys (1):
-- `Widget_ControllerLayoutPreset_Custom.Content`
-
-Changed (re-translate) (1):
-- `Widget_CustomizeApp_ElevatedNote.Text`
+_All translated._
 
 ### tr-TR
 
