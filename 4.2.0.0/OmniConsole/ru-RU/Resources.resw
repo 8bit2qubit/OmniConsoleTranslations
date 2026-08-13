@@ -238,50 +238,50 @@
     <value>Nekomata</value>
   </data>
   <data name="AdvancedSection_Overlay.Text" xml:space="preserve">
-    <value>Performance Overlay</value>
-  <comment>untranslated:new</comment></data>
+    <value>Оверлей производительности</value>
+  </data>
   <data name="OverlaySetting_ElevationNote.Text" xml:space="preserve">
-    <value>These settings need Administrator App Support, which you can install above.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Для данных настроек необходима поддержка приложений с правами администратора, ее можно установить выше.</value>
+  </data>
   <data name="OverlaySetting_RtssNote.Text" xml:space="preserve">
-    <value>These settings work with RivaTuner Statistics Server. Install it and they become available.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Для данных настроек необходимо установить RivaTuner Statistics Server. После установки, настройки будут доступны.</value>
+  </data>
   <data name="OverlaySetting_RtssStoppedNote.Text" xml:space="preserve">
-    <value>Requires RivaTuner Statistics Server to be running. Turning on Start with Windows in its General properties makes it available at every startup.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Для работы необходимо запустить RivaTuner Statistics Server. Включите "Start with Windows" в разделе "General" для автоматического запуска при каждой загрузке.</value>
+  </data>
   <data name="OverlayOsdSetting_Title.Text" xml:space="preserve">
-    <value>On-Screen Display Support</value>
-  <comment>untranslated:new</comment></data>
+    <value>Отображение на экране</value>
+  </data>
   <data name="OverlayOsdSetting_Description.Text" xml:space="preserve">
-    <value>Let RivaTuner Statistics Server draw its on-screen display in DirectX and OpenGL games.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Разрешить приложению RivaTuner Statistics Server отрисовывать статистику в играх с поддержкой DirectX или OpenGL.</value>
+  </data>
   <data name="OverlayStatSetting_Title.Text" xml:space="preserve">
-    <value>Show Own Statistics</value>
-  <comment>untranslated:new</comment></data>
+    <value>Показывать свою статистику</value>
+  </data>
   <data name="OverlayStatSetting_Description.Text" xml:space="preserve">
-    <value>Show the framerate statistics collected by RivaTuner Statistics Server.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Отображать статистику кадров из RivaTuner Statistics Server.</value>
+  </data>
   <data name="OverlayShadowSetting_Title.Text" xml:space="preserve">
-    <value>On-Screen Display Shadow</value>
-  <comment>untranslated:new</comment></data>
+    <value>Тень от текста</value>
+  </data>
   <data name="OverlayShadowSetting_Description.Text" xml:space="preserve">
-    <value>Add a shadow behind the on-screen display text.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Добавить тень под текстом статистики.</value>
+  </data>
   <data name="OverlayZoomSetting_Title.Text" xml:space="preserve">
-    <value>On-Screen Display Zoom</value>
-  <comment>untranslated:new</comment></data>
+    <value>Увеличение текста</value>
+  </data>
   <data name="OverlayZoomSetting_Description.Text" xml:space="preserve">
-    <value>Scale the on-screen display up when the text is too small to read.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Увеличить текст статистики, если текст мелкий и сложен для чтения.</value>
+  </data>
   <data name="OverlayFpsLimitSetting_Title.Text" xml:space="preserve">
-    <value>Framerate Limit</value>
-  <comment>untranslated:new</comment></data>
+    <value>Ограничение кадров</value>
+  </data>
   <data name="OverlayFpsLimitSetting_Description.Text" xml:space="preserve">
-    <value>Set the maximum framerate for games.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Установить для игр максимальное количество кадров в секунду.</value>
+  </data>
   <data name="OverlayFpsLimit_Unlimited" xml:space="preserve">
-    <value>Off</value>
-  <comment>untranslated:new</comment></data>
+    <value>Откл.</value>
+  </data>
   <data name="PhantomKeySetting_Title.Text" xml:space="preserve">
     <value>Используйте &#xEECA;, чтобы открывать меню Steam в режиме Big Picture</value>
   </data>
@@ -311,23 +311,23 @@
     <value>Встроенные раскладки по умолчанию включены для Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, EA Desktop, Playnite Desktop, Steam, Discord, а также для Проводника Windows, Установщика Windows, меню "Обзор" и "Открыть с помощью". Для работы привязок в Диспетчере задач и Экранной клавиатуре необходимо включить "Поддержку приложений с правами администратора (Pro)" в настройках.</value>
   </data>
   <data name="GamepadMappingModeSetting_BuiltInMappingNote.Text" xml:space="preserve">
-    <value>Disabled: this console has the manufacturer’s built-in gamepad mapping. Turning Nekomata Mode on for this console requires Pro.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Отключено: данное устройство поддерживает переназначение кнопок от производителя. Для использования переназначений из Nekomata необходима Pro-лицензия.</value>
+  </data>
   <data name="GamepadMappingModeSetting_BuiltInMappingProNote.Text" xml:space="preserve">
-    <value>This console has the manufacturer’s built-in gamepad mapping. Set “Control Mode” to “Gamepad” in Command Center, and Nekomata works here the same as it does anywhere else.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Данное устройство поддерживает переназначение кнопок от производителя. Чтобы использовать режим переназначений кнопок от Nekomata, в приложении Command Center установите "Режим управления" на "Геймпад".</value>
+  </data>
   <data name="BuiltInMappingEnableDialog_Title" xml:space="preserve">
-    <value>Turn on Nekomata Mode for this console?</value>
-  <comment>untranslated:new</comment></data>
+    <value>Включить режим Nekomata для данного устройства?</value>
+  </data>
   <data name="BuiltInMappingEnableDialog_Body" xml:space="preserve">
-    <value>This console has the manufacturer’s built-in gamepad mapping. Press the Command Center button, then set “Control Mode” to “Gamepad”, and Nekomata works here the same as it does anywhere else.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Данное устройство поддерживает переназначение кнопок от производителя. Чтобы включить режим Nekomata, нажмите кнопку Command Center, установите "Режим управления" на "Геймпад".</value>
+  </data>
   <data name="BuiltInMappingEnableDialog_Confirm" xml:space="preserve">
-    <value>Turn on</value>
-  <comment>untranslated:new</comment></data>
+    <value>Включить</value>
+  </data>
   <data name="BuiltInMappingEnableDialog_Cancel" xml:space="preserve">
-    <value>Cancel</value>
-  <comment>untranslated:new</comment></data>
+    <value>Отмена</value>
+  </data>
   <data name="ControllerLayoutPresetSetting_Title.Text" xml:space="preserve">
     <value>Раскладка кнопок геймпада</value>
   </data>
@@ -732,7 +732,7 @@
     <value>Идет обновление {OmniConsole}</value>
   </data>
   <data name="UpdateProgressDialog_Hint" xml:space="preserve">
-    <value>Не закрывайте приложение и не перезагружайте консоль, пока не завершится обновление.</value>
+    <value>Не закрывайте приложение и не перезагружайте устройство, пока не завершится обновление.</value>
   </data>
   <data name="UpdateProgress_Phase1Download" xml:space="preserve">
     <value>Идет загрузка мини-приложения OmniCharm (1 из 2)...</value>
@@ -877,7 +877,7 @@
   </data>
   <data name="Label_PhantomIgnis.Text" xml:space="preserve">
     <value>PhantomIgnis</value>
-  <comment>untranslated:new</comment></data>
+  </data>
   <data name="Label_PhantomLink.Text" xml:space="preserve">
     <value>PhantomLink (OmniCharm)</value>
   </data>
@@ -1857,21 +1857,21 @@
     <value>Понятно</value>
   </data>
   <data name="GamingCapabilityDialog_Title" xml:space="preserve">
-    <value>Complete Xbox Mode (FSE) setup</value>
-  <comment>untranslated:new</comment></data>
+    <value>Установка полного режима XBOX (FSE)</value>
+  </data>
   <data name="GamingCapabilityDialog_Content" xml:space="preserve">
-    <value>{OmniConsole} can apply the settings this console needs to run Xbox Mode (FSE) with the full experience. You will be asked for administrator approval next.</value>
-  <comment>untranslated:new</comment></data>
+    <value>{OmniConsole} может применить на данном устройстве настройки, необходимые для активации полного режима XBOX (FSE). Необходимы права администратора.</value>
+  </data>
   <data name="GamingCapabilityDialog_Apply" xml:space="preserve">
-    <value>Apply</value>
-  <comment>untranslated:new</comment></data>
+    <value>Применить</value>
+  </data>
   <data name="GamingCapabilityRestart_Title" xml:space="preserve">
-    <value>Restart your console</value>
-  <comment>untranslated:new</comment></data>
+    <value>Перезагрузить устройство</value>
+  </data>
   <data name="GamingCapabilityRestart_Content" xml:space="preserve">
-    <value>The settings have been applied. After you restart your console, Xbox Mode (FSE) will start with the full experience.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Необходимые настройки применены. После перезагрузки устройства будет запущен полный режим XBOX (FSE).</value>
+  </data>
   <data name="GamingCapabilityRestart_Close" xml:space="preserve">
-    <value>Close</value>
-  <comment>untranslated:new</comment></data>
+    <value>Закрыть</value>
+  </data>
 </root>
