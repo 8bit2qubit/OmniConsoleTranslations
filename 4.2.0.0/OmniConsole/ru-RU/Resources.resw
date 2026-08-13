@@ -1857,7 +1857,7 @@
     <value>Понятно</value>
   </data>
   <data name="GamingCapabilityDialog_Title" xml:space="preserve">
-    <value>Установка полного режима XBOX (FSE)</value>
+    <value>Завершить установку режима XBOX (FSE)</value>
   </data>
   <data name="GamingCapabilityDialog_Content" xml:space="preserve">
     <value>{OmniConsole} может применить на данном устройстве настройки, необходимые для активации полного режима XBOX (FSE). Необходимы права администратора.</value>
