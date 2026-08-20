@@ -308,8 +308,8 @@
     <value>Nekomata позволяет переназначить кнопки клавиатуры и мыши на геймпад для каждого приложения в данном разделе настроек.</value>
   </data>
   <data name="GamepadMappingModeSetting_Note.Text" xml:space="preserve">
-    <value>Built-in mapping covers Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, EA Desktop, Playnite Desktop, File Explorer, Windows File Picker, the Open with dialog, Windows Installer, Steam, Discord, App Installer, and a wide range of built-in Windows tools and Control Panel dialogs. Those that run as Administrator, such as Task Manager, and the On-screen keyboard also require Administrator App Support (Pro).</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Встроенные раскладки по умолчанию включены для Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, EA Desktop, Playnite Desktop, Steam, Discord, а также для Проводника Windows, Установщика Windows, Установщика приложений, Меню "Обзор", "Открыть с помощью", и для других стандартных приложений Windows, и окон Панели управления. Для приложений, работающих с правами администратора, таких как Диспетчер задач или Экранной клавиатуры необходимо включить "Поддержку приложений с правами администратора (Pro)" в настройках.</value>
+  </data>
   <data name="GamepadMappingModeSetting_BuiltInMappingNote.Text" xml:space="preserve">
     <value>Отключено: данное устройство поддерживает переназначение кнопок от производителя. Для использования переназначений из Nekomata необходима Pro-лицензия.</value>
   </data>
