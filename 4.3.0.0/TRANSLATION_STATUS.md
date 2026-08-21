@@ -2,10 +2,10 @@
 
 > 🌐 **English** | [繁體中文](TRANSLATION_STATUS.zh-TW.md)
 
-Auto-migrated from 4.2.1.0: unchanged English keys reuse the previous translation; anything still awaiting a translation is marked `untranslated` and falls back to English until a translator fills it in.
+Rebuilt in place: existing translations for this version are preserved, and any strings still marked `untranslated` remain so (they fall back to English until translated).
 
 - Total strings (both projects): 624
-- Generated: 2026-08-20 14:58:36 +08:00
+- Generated: 2026-08-21 12:58:37 +08:00
 
 Jump to: [es-ES](#es-es) · [ru-RU](#ru-ru) · [tr-TR](#tr-tr)
 
@@ -14,7 +14,7 @@ Jump to: [es-ES](#es-es) · [ru-RU](#ru-ru) · [tr-TR](#tr-tr)
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
 | es-ES | 443 | 181 | 70% |
-| ru-RU | 622 | 2 | 99% |
+| ru-RU | 624 | 0 | 100% |
 | tr-TR | 464 | 160 | 74% |
 
 ## Project: OmniConsole
@@ -24,7 +24,7 @@ Strings: 581
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
 | es-ES | 428 | 153 | 73% |
-| ru-RU | 580 | 1 | 99% |
+| ru-RU | 581 | 0 | 100% |
 | tr-TR | 444 | 137 | 76% |
 
 ## Project: OmniConsole.PhantomLink
@@ -34,7 +34,7 @@ Strings: 43
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
 | es-ES | 15 | 28 | 34% |
-| ru-RU | 42 | 1 | 97% |
+| ru-RU | 43 | 0 | 100% |
 | tr-TR | 20 | 23 | 46% |
 
 ## Untranslated keys
@@ -234,15 +234,7 @@ Carried over (never translated) (27):
 
 ### ru-RU
 
-**OmniConsole**
-
-Changed (re-translate) (1):
-- `GamepadMappingModeSetting_Note.Text`
-
-**OmniConsole.PhantomLink**
-
-New keys (1):
-- `Widget_OpenFileExplorer`
+_All translated._
 
 ### tr-TR
 

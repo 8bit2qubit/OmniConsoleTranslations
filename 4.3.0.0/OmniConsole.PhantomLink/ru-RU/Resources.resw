@@ -133,8 +133,8 @@
     <value>Библиотека Xbox</value>
   </data>
   <data name="Widget_OpenFileExplorer" xml:space="preserve">
-    <value>File Explorer</value>
-  <comment>untranslated:new</comment></data>
+    <value>Проводник Windows</value>
+  </data>
   <!-- Widget_OpenSettings.Text: SettingsBtn 暫時註解保留，往後啟用時恢復此資源
   <data name="Widget_OpenSettings.Text" xml:space="preserve">
     <value>Settings</value>
