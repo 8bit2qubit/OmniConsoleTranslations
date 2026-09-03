@@ -130,7 +130,7 @@
     <value>{0} iniciado</value>
   </data>
   <data name="LaunchSlowWarningText.Text" xml:space="preserve">
-    <value>La plataforma está tardando más de lo esperado y es posible que aún se esté cargando. Por favor, espere. Si es necesario, mantenga presionado el botón XBOX para abrir la Vista de tareas y verificar si la plataforma está en ejecución.</value>
+    <value>La plataforma está tardando más de lo esperado y es posible que aún se esté cargando. Por favor, espere. Si es necesario, mantenga pulsado el botón XBOX para abrir la Vista de tareas y verificar si la plataforma está en ejecución.</value>
   </data>
   <data name="LaunchTimeout" xml:space="preserve">
     <value>Se agotó el tiempo de inicio. Verifique que {0} esté funcionando normalmente.</value>
@@ -328,7 +328,7 @@
     <value>Short press &#xEECA; to open Steam Menu, long press &#xEECA; to open Quick Access Menu.</value>
   <comment>untranslated:pending</comment></data>
   <data name="SteamInGameOverlaySetting_Title.Text" xml:space="preserve">
-    <value>Mantener presionado &#xEDE3; para abrir la superposición de Steam en el juego</value>
+    <value>Mantener pulsado &#xEDE3; para abrir la superposición de Steam en el juego</value>
   </data>
   <data name="SteamInGameOverlaySetting_Description.Text" xml:space="preserve">
     <value>Requiere que la superposición de Steam en el juego esté habilitada.</value>
@@ -337,7 +337,7 @@
     <value>Solo disponible cuando la plataforma predeterminada está configurada como Steam Big Picture.</value>
   </data>
   <data name="SteamInGameOverlaySetting_ModifierNote.Text" xml:space="preserve">
-    <value>Mantenga presionado &#xEDE3; para cerrar la superposición y evitar que las teclas modificadoras (p. ej., Shift, Ctrl o Alt) queden bloqueadas en el juego.
+    <value>Mantenga pulsado &#xEDE3; para cerrar la superposición y evitar que las teclas modificadoras (p. ej., Shift, Ctrl o Alt) queden bloqueadas en el juego.
 Como alternativa, cambie el atajo a una tecla no modificadora en Configuración de Steam &gt; En el juego &gt; Tecla(s) de atajo de la superposición.</value>
   </data>
   <data name="GamepadMappingModeSetting_Title.Text" xml:space="preserve">

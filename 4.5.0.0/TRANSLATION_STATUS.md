@@ -2,10 +2,10 @@
 
 > 🌐 **English** | [繁體中文](TRANSLATION_STATUS.zh-TW.md)
 
-Auto-migrated from 4.4.3.0: unchanged English keys reuse the previous translation; anything still awaiting a translation is marked `untranslated` and falls back to English until a translator fills it in.
+Rebuilt in place: existing translations for this version are preserved, and any strings still marked `untranslated` remain so (they fall back to English until translated).
 
 - Total strings (both projects): 637
-- Generated: 2026-09-03 11:14:00 +08:00
+- Generated: 2026-09-03 11:17:07 +08:00
 
 Jump to: [es-ES](#es-es) · [ru-RU](#ru-ru) · [tr-TR](#tr-tr)
 

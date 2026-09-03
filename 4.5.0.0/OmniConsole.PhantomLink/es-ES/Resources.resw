@@ -141,7 +141,7 @@
   </data>
   -->
   <data name="Widget_SteamInGameOverlay_Title.Text" xml:space="preserve">
-    <value>Mantén pulsado &#xEDE3; para abrir la superposición de Steam en el juego</value>
+    <value>Mantener pulsado &#xEDE3; para abrir la superposición de Steam en el juego</value>
   </data>
   <data name="Widget_SteamInGameOverlay_On.Content" xml:space="preserve">
     <value>Sí</value>
