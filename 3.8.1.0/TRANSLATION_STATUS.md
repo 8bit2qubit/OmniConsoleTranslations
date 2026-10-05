@@ -5,7 +5,7 @@
 Rebuilt in place: existing translations for this version are preserved, and any strings still marked `untranslated` remain so (they fall back to English until translated).
 
 - Total strings (both projects): 474
-- Generated: 2026-07-15 23:47:26 +08:00
+- Generated: 2026-10-05 23:49:10 +08:00
 
 Jump to: [es-ES](#es-es) · [ru-RU](#ru-ru) · [tr-TR](#tr-tr)
 
@@ -15,7 +15,7 @@ Jump to: [es-ES](#es-es) · [ru-RU](#ru-ru) · [tr-TR](#tr-tr)
 |----------|-----------:|--------:|---------:|
 | es-ES | 447 | 27 | 94% |
 | ru-RU | 474 | 0 | 100% |
-| tr-TR | 470 | 4 | 99% |
+| tr-TR | 474 | 0 | 100% |
 
 ## Project: OmniConsole
 
@@ -25,7 +25,7 @@ Strings: 452
 |----------|-----------:|--------:|---------:|
 | es-ES | 430 | 22 | 95% |
 | ru-RU | 452 | 0 | 100% |
-| tr-TR | 448 | 4 | 99% |
+| tr-TR | 452 | 0 | 100% |
 
 ## Project: OmniConsole.PhantomLink
 
@@ -82,10 +82,4 @@ _All translated._
 
 ### tr-TR
 
-**OmniConsole**
-
-Changed (re-translate) (4):
-- `GamepadMappingClearAllConfirmBody`
-- `GamepadMappingEmptyConfirmBody`
-- `GamepadMappingEmptyRemoveBody`
-- `ManageLanguages_OfflineNotice`
+_All translated._

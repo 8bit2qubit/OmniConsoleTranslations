@@ -5,7 +5,7 @@
 Rebuilt in place: existing translations for this version are preserved, and any strings still marked `untranslated` remain so (they fall back to English until translated).
 
 - Total strings (both projects): 492
-- Generated: 2026-07-21 23:37:18 +08:00
+- Generated: 2026-10-05 23:49:11 +08:00
 
 Jump to: [es-ES](#es-es) · [ru-RU](#ru-ru) · [tr-TR](#tr-tr)
 
@@ -15,7 +15,7 @@ Jump to: [es-ES](#es-es) · [ru-RU](#ru-ru) · [tr-TR](#tr-tr)
 |----------|-----------:|--------:|---------:|
 | es-ES | 444 | 48 | 90% |
 | ru-RU | 492 | 0 | 100% |
-| tr-TR | 465 | 27 | 94% |
+| tr-TR | 492 | 0 | 100% |
 
 ## Project: OmniConsole
 
@@ -25,7 +25,7 @@ Strings: 470
 |----------|-----------:|--------:|---------:|
 | es-ES | 428 | 42 | 91% |
 | ru-RU | 470 | 0 | 100% |
-| tr-TR | 444 | 26 | 94% |
+| tr-TR | 470 | 0 | 100% |
 
 ## Project: OmniConsole.PhantomLink
 
@@ -35,7 +35,7 @@ Strings: 22
 |----------|-----------:|--------:|---------:|
 | es-ES | 16 | 6 | 72% |
 | ru-RU | 22 | 0 | 100% |
-| tr-TR | 21 | 1 | 95% |
+| tr-TR | 22 | 0 | 100% |
 
 ## Untranslated keys
 
@@ -105,39 +105,4 @@ _All translated._
 
 ### tr-TR
 
-**OmniConsole**
-
-New keys (20):
-- `CommunityPlatformsButton.Content`
-- `CommunityPlatforms_Title`
-- `CommunityPlatforms_Loading`
-- `CommunityPlatforms_Error`
-- `CommunityPlatforms_Empty`
-- `CommunityPlatforms_SchemaTooNew`
-- `CommunityPlatforms_SearchPlaceholder`
-- `CommunityPlatforms_SortNewest`
-- `CommunityPlatforms_SortOldest`
-- `CommunityPlatforms_SelectHint`
-- `CommunityPlatforms_NoResults`
-- `CommunityPlatforms_Submitter`
-- `CommunityPlatforms_SubmitterDate`
-- `CommunityPlatforms_NotDetected`
-- `CommunityPlatforms_Action_Add`
-- `CommunityPlatforms_Result_Added`
-- `Import_Error_PackageNotInstalled`
-- `CommunityPlatforms_CheckingUpdates`
-- `CommunityPlatforms_OfflineNotice`
-- `Import_Error_ExecutableNotFound`
-
-Changed (re-translate) (6):
-- `GamepadMappingModeSetting_Note.Text`
-- `GamepadMappingModeSetting_BuiltInMappingNote.Text`
-- `GamepadMappingClearAllConfirmBody`
-- `GamepadMappingEmptyConfirmBody`
-- `GamepadMappingEmptyRemoveBody`
-- `ManageLanguages_OfflineNotice`
-
-**OmniConsole.PhantomLink**
-
-Changed (re-translate) (1):
-- `Widget_BuiltInMappingNote.Text`
+_All translated._

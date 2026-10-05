@@ -5,7 +5,7 @@
 原地重算：本版現有譯文皆予保留，仍標記為 `untranslated` 的字串維持原狀（補譯前先顯示英文）。
 
 - 字串總數（兩專案合計）: 474
-- 產生時間: 2026-07-15 23:47:40 +08:00
+- 產生時間: 2026-10-05 23:49:09 +08:00
 
 快速跳轉: [es-ES](#es-es) · [ru-RU](#ru-ru) · [tr-TR](#tr-tr)
 
@@ -15,7 +15,7 @@
 |----------|-----------:|--------:|---------:|
 | es-ES | 447 | 27 | 94% |
 | ru-RU | 474 | 0 | 100% |
-| tr-TR | 470 | 4 | 99% |
+| tr-TR | 474 | 0 | 100% |
 
 ## 專案: OmniConsole
 
@@ -25,7 +25,7 @@
 |----------|-----------:|--------:|---------:|
 | es-ES | 430 | 22 | 95% |
 | ru-RU | 452 | 0 | 100% |
-| tr-TR | 448 | 4 | 99% |
+| tr-TR | 452 | 0 | 100% |
 
 ## 專案: OmniConsole.PhantomLink
 
@@ -84,12 +84,4 @@ _全部已翻譯。_
 
 ### tr-TR
 
-**OmniConsole**
-
-新增 (1):
-- `ManageLanguages_OfflineNotice`
-
-變動（需重譯） (3):
-- `GamepadMappingClearAllConfirmBody`
-- `GamepadMappingEmptyConfirmBody`
-- `GamepadMappingEmptyRemoveBody`
+_全部已翻譯。_

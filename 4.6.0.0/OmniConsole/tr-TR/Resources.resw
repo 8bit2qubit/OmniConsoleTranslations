@@ -918,9 +918,11 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>PhantomPaw</value>
   </data>
   <data name="Label_PhantomSigil.Text" xml:space="preserve">
-    <value>PhantomSigil</value></data>
+    <value>PhantomSigil</value>
+  </data>
   <data name="Label_PhantomIgnis.Text" xml:space="preserve">
-    <value>PhantomIgnis</value></data>
+    <value>PhantomIgnis</value>
+  </data>
   <data name="Label_PhantomLink.Text" xml:space="preserve">
     <value>PhantomLink (OmniCharm)</value>
   </data>
@@ -1699,9 +1701,11 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Çalıştırılabilir dosya bu cihazda bulunamadı.</value>
   </data>
   <data name="Nav_Pro.Content" xml:space="preserve">
-    <value>Pro</value></data>
+    <value>Pro</value>
+  </data>
   <data name="ProTitle" xml:space="preserve">
-    <value>{OmniConsole} Pro</value></data>
+    <value>{OmniConsole} Pro</value>
+  </data>
   <data name="ProDescription.Text" xml:space="preserve">
     <value>Gelişmiş özelliklerin kilidini açın ve bu cihazdaki lisansları yönetin.</value>
   </data>
@@ -1763,7 +1767,8 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Lisans anahtarınızı aşağıya yapıştırın veya Lisans Dosyasını İçe Aktar'ı seçin.</value>
   </data>
   <data name="ProLicenseDialog_Placeholder" xml:space="preserve">
-    <value>OMNI1-…</value></data>
+    <value>OMNI1-…</value>
+  </data>
   <data name="ProLicenseDialog_ImportFile" xml:space="preserve">
     <value>Lisans Dosyasını İçe Aktar</value>
   </data>
@@ -1831,7 +1836,8 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Lisans Ekle</value>
   </data>
   <data name="ProEntitlement_Pro" xml:space="preserve">
-    <value>{OmniConsole} Pro</value></data>
+    <value>{OmniConsole} Pro</value>
+  </data>
   <data name="ProEntitlement_Owned" xml:space="preserve">
     <value>Etkin</value>
   </data>
