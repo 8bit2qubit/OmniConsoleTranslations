@@ -211,8 +211,8 @@
     <value>Перезапустить приложение игровой панели, затем войти в режим XBOX (FSE)</value>
   </data>
   <data name="ResetGameBarSetting_Description.Text" xml:space="preserve">
-    <value>Restart Game Bar to fix issues such as Game Bar not opening, or the “Restart for better performance” dialog not appearing when entering XBOX Mode (FSE). Go to ☰ &gt; Advanced to change the action for entering XBOX Mode (FSE) from the desktop.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Перезапускает приложение игровой панели XBOX, для исправления ошибок запуска игровой панели, а также если не появляется запрос "Перезапустите, чтобы улучшить производительность". Используйте ☰ &gt; Расширенные чтобы изменить действие при запуске режима XBOX (FSE), находясь в режиме Рабочего стола.</value>
+  </data>
   <data name="ResetGameBarSetting_Note.Text" xml:space="preserve">
     <value>На некоторых версиях Windows окно все равно отобразится.</value>
   </data>
@@ -241,44 +241,44 @@
     <value>Оверлей производительности</value>
   </data>
   <data name="AdvancedSection_Fse.Text" xml:space="preserve">
-    <value>XBOX Mode (FSE)</value>
-  <comment>untranslated:new</comment></data>
+    <value>Режим XBOX (FSE)</value>
+  </data>
   <data name="FseEnterConfirmSetting_Title.Text" xml:space="preserve">
-    <value>Entering from the Desktop</value>
-  <comment>untranslated:new</comment></data>
+    <value>Вход в режим XBOX (FSE) с рабочего стола</value>
+  </data>
   <data name="FseEnterConfirmSetting_Description.Text" xml:space="preserve">
-    <value>Choose the action for entering XBOX Mode (FSE).</value>
-  <comment>untranslated:new</comment></data>
+    <value>Выберите предпочтительное действие для запуска режима XBOX (FSE).</value>
+  </data>
   <data name="FseEnterConfirmSetting_Note.Text" xml:space="preserve">
-    <value>Restarts the console for optimized performance first.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Перезапустить устройство для оптимизированной производительности.</value>
+  </data>
   <data name="FseEnterConfirmItem_Ask" xml:space="preserve">
-    <value>Ask every time</value>
-  <comment>untranslated:new</comment></data>
+    <value>Спрашивать каждый раз</value>
+  </data>
   <data name="FseEnterConfirmItem_Restart" xml:space="preserve">
-    <value>Restart (optimized performance)</value>
-  <comment>untranslated:new</comment></data>
+    <value>Ввод при запуске (оптимизированная производительность)</value>
+  </data>
   <data name="FseEnterConfirmItem_StartNow" xml:space="preserve">
-    <value>Start now (no performance changes)</value>
-  <comment>untranslated:new</comment></data>
+    <value>Начать сейчас (без изменений производительности)</value>
+  </data>
   <data name="FseExitConfirmSetting_Title.Text" xml:space="preserve">
-    <value>Return to Desktop Confirmation</value>
-  <comment>untranslated:new</comment></data>
+    <value>Подтверждение для возврата к рабочему столу</value>
+  </data>
   <data name="FseExitConfirmSetting_Description.Text" xml:space="preserve">
-    <value>Show a confirmation dialog before returning to the Windows desktop.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Отображать диалоговое окно с запросом на возврат к режиму рабочего стола.</value>
+  </data>
   <data name="FseEnterConfirmDialog_Title" xml:space="preserve">
-    <value>Restart every time you enter?</value>
-  <comment>untranslated:new</comment></data>
+    <value>Перезапускать каждый раз при входе?</value>
+  </data>
   <data name="FseEnterConfirmDialog_Body" xml:space="preserve">
-    <value>From now on, launching {OmniConsole} from the desktop restarts the console for optimized performance, then enters XBOX Mode (FSE). You can change this back at any time.</value>
-  <comment>untranslated:new</comment></data>
+    <value>С этого момента, запуск {OmniConsole} из режима рабочего стола будет перезапускать ваше устройство для оптимизированной производительности, после чего устройство будет загружено в режиме XBOX (FSE). Настройку можно изменить в любое время.</value>
+  </data>
   <data name="FseEnterConfirmDialog_Confirm" xml:space="preserve">
-    <value>Always restart</value>
-  <comment>untranslated:new</comment></data>
+    <value>Перезапускать всегда</value>
+  </data>
   <data name="FseEnterConfirmDialog_Cancel" xml:space="preserve">
-    <value>Cancel</value>
-  <comment>untranslated:new</comment></data>
+    <value>Отмена</value>
+  </data>
   <data name="OverlaySetting_ElevationNote.Text" xml:space="preserve">
     <value>Для данных настроек необходима поддержка приложений с правами администратора, ее можно установить выше.</value>
   </data>
