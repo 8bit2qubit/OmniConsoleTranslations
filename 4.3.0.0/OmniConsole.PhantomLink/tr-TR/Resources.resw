@@ -133,8 +133,8 @@
     <value>Xbox Kitaplığı</value>
   </data>
   <data name="Widget_OpenFileExplorer" xml:space="preserve">
-    <value>File Explorer</value>
-  <comment>untranslated:new</comment></data>
+    <value>Dosya Gezgini</value>
+  </data>
   <!-- Widget_OpenSettings.Text: SettingsBtn 暫時註解保留，往後啟用時恢復此資源
   <data name="Widget_OpenSettings.Text" xml:space="preserve">
     <value>Settings</value>
@@ -171,71 +171,71 @@
     <value>Klasik</value>
   </data>
   <data name="Widget_ControllerLayoutPreset_Custom.Content" xml:space="preserve">
-    <value>Custom</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Özel</value>
+  </data>
   <data name="Widget_CursorSpeed_Title.Text" xml:space="preserve">
     <value>İmleç Hızı</value>
   </data>
   <data name="Widget_BuiltInMappingNote.Text" xml:space="preserve">
-    <value>Disabled: this console has the manufacturer’s built-in gamepad mapping. Turning Nekomata Mode on for this console requires Pro.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Devre dışı — cihazın üretici yerleşik oyun kumandası eşlemesi var. Bu cihaz için Nekomata Modu'nu açmak Pro gerektirir.</value>
+  </data>
   <data name="Widget_BuiltInMappingProNote.Text" xml:space="preserve">
-    <value>This console has the manufacturer’s built-in gamepad mapping. Set “Control Mode” to “Gamepad” in Command Center, and Nekomata works here the same as it does anywhere else.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Cihazın üretici yerleşik oyun kumandası eşlemesi var. Command Center'da “Control Mode”u “Gamepad” olarak ayarlayın; Nekomata burada da tıpkı başka yerlerde olduğu gibi çalışır.</value>
+  </data>
   <data name="Widget_BuiltInMappingConfirm_Title.Text" xml:space="preserve">
-    <value>Turn on Nekomata Mode for this console?</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu cihaz için Nekomata Modu açılsın mı?</value>
+  </data>
   <data name="Widget_BuiltInMappingConfirm_Body.Text" xml:space="preserve">
-    <value>Press the Command Center button, then set “Control Mode” to “Gamepad”, and Nekomata works here the same as it does anywhere else.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Command Center düğmesine basın, ardından “Control Mode”u “Gamepad” olarak ayarlayın; Nekomata burada da tıpkı başka yerlerde olduğu gibi çalışır.</value>
+  </data>
   <data name="Widget_BuiltInMappingConfirm_Confirm.Content" xml:space="preserve">
-    <value>Turn on</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Aç</value>
+  </data>
   <data name="Widget_BuiltInMappingConfirm_Cancel.Content" xml:space="preserve">
-    <value>Cancel</value>
-  <comment>untranslated:pending</comment></data>
+    <value>İptal</value>
+  </data>
   <data name="Widget_Page_Main.Content" xml:space="preserve">
-    <value>General</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Genel</value>
+  </data>
   <data name="Widget_Page_Overlay.Content" xml:space="preserve">
-    <value>Overlay</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Katman</value>
+  </data>
   <data name="Widget_Overlay_Title.Text" xml:space="preserve">
-    <value>Performance Overlay</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Performans Katmanı</value>
+  </data>
   <data name="Widget_Overlay_ElevationNote.Text" xml:space="preserve">
-    <value>These controls need Administrator App Support. Open OmniConsole Settings, then go to ☰ → Advanced to install it.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu denetimler Yönetici Uygulama Desteği gerektirir. OmniConsole Ayarları'nı açın, ardından ☰ → Gelişmiş'e gidip kurun.</value>
+  </data>
   <data name="Widget_Overlay_RtssNote.Text" xml:space="preserve">
-    <value>These controls work with RivaTuner Statistics Server. Install it and they become available.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu denetimler RivaTuner Statistics Server ile çalışır. Kurun ve kullanılabilir olurlar.</value>
+  </data>
   <data name="Widget_Overlay_RtssStoppedNote.Text" xml:space="preserve">
-    <value>Requires RivaTuner Statistics Server to be running. Turning on Start with Windows in its General properties makes it available at every startup.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>RivaTuner Statistics Server'ın çalışıyor olması gerekir. Genel özelliklerinde Windows ile başlat'ı açmak, her başlangıçta kullanılabilir olmasını sağlar.</value>
+  </data>
   <data name="Widget_Overlay_Off.Content" xml:space="preserve">
-    <value>Off</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Kapalı</value>
+  </data>
   <data name="Widget_Overlay_On.Content" xml:space="preserve">
-    <value>On</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Açık</value>
+  </data>
   <data name="Widget_Overlay_Osd_Title.Text" xml:space="preserve">
-    <value>On-Screen Display Support</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Ekran Üstü Gösterim Desteği</value>
+  </data>
   <data name="Widget_Overlay_Stat_Title.Text" xml:space="preserve">
-    <value>Show Own Statistics</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Kendi İstatistiklerini Göster</value>
+  </data>
   <data name="Widget_Overlay_Shadow_Title.Text" xml:space="preserve">
-    <value>On-Screen Display Shadow</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Ekran Üstü Gösterim Gölgesi</value>
+  </data>
   <data name="Widget_Overlay_Zoom_Title.Text" xml:space="preserve">
-    <value>On-Screen Display Zoom</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Ekran Üstü Gösterim Yakınlaştırması</value>
+  </data>
   <data name="Widget_Overlay_FpsLimit_Title.Text" xml:space="preserve">
-    <value>Framerate Limit</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Kare Hızı Sınırı</value>
+  </data>
   <data name="Widget_Overlay_FpsLimit_Unlimited" xml:space="preserve">
-    <value>Off</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Kapalı</value>
+  </data>
   <data name="Widget_ForegroundApp_LineFormat" xml:space="preserve">
     <value>Geçerli: {0} ({1})</value>
   </data>
@@ -249,6 +249,6 @@
     <value>Bu uygulama için oyun kumandası eşlemesini özelleştir…</value>
   </data>
   <data name="Widget_CustomizeApp_ElevatedNote.Text" xml:space="preserve">
-    <value>This app runs as administrator. Gamepad mappings need Administrator App Support to reach it.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu uygulama yönetici olarak çalışıyor. Oyun kumandası eşlemelerinin buna erişmesi için Yönetici Uygulama Desteği gerekir.</value>
+  </data>
 </root>

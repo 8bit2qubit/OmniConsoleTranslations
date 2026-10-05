@@ -900,8 +900,8 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Tüm bağlamalar temizlensin mi?</value>
   </data>
   <data name="GamepadMappingClearAllConfirmBody" xml:space="preserve">
-    <value>All bindings will be set to None.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Tüm bağlamalar Yok olarak ayarlanacak.</value>
+  </data>
   <data name="GamepadMappingClearAllConfirmYes" xml:space="preserve">
     <value>Tümünü Temizle</value>
   </data>
@@ -1143,14 +1143,14 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Bağlama olmadan kaydedilsin mi?</value>
   </data>
   <data name="GamepadMappingEmptyConfirmBody" xml:space="preserve">
-    <value>All bindings are set to None. The built-in layout will take over for this app.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Tüm girdiler Yok olarak ayarlandı. Yerleşik düzen bu uygulama için devreye girecek.</value>
+  </data>
   <data name="GamepadMappingEmptyRemoveTitle" xml:space="preserve">
     <value>Bu uygulama için özel eşleme kaldırılsın mı?</value>
   </data>
   <data name="GamepadMappingEmptyRemoveBody" xml:space="preserve">
-    <value>All bindings are set to None, which is the same as having no custom mapping. The built-in layout will take over for this app.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Tüm girdiler Yok olarak ayarlandı, bu özel eşleme olmamasıyla aynı şeydir. Yerleşik düzen bu uygulama için devreye girecek.</value>
+  </data>
   <data name="GamepadMappingEmptyRemoveYes" xml:space="preserve">
     <value>Kaldır</value>
   </data>
@@ -1380,8 +1380,8 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Bu sürüm için henüz hiçbir topluluk dili mevcut değil.</value>
   </data>
   <data name="ManageLanguages_OfflineNotice" xml:space="preserve">
-    <value>Offline. You can remove installed languages, but downloads and updates are unavailable.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Çevrimdışı. Yüklü dilleri kaldırabilirsiniz, ancak indirmeler ve güncellemeler kullanılamaz.</value>
+  </data>
   <data name="ManageLanguages_SelectHint" xml:space="preserve">
     <value>Ayrıntıları görmek için bir dil seçin.</value>
   </data>
