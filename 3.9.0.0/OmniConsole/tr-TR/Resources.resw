@@ -263,11 +263,11 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Nekomata'nın oyun kumandanızı klavye ve fareye dönüştürmesine izin verin ve uygulama bazında ayarları "Nekomata" sayfasında özelleştirin.</value>
   </data>
   <data name="GamepadMappingModeSetting_Note.Text" xml:space="preserve">
-    <value>Built-in mapping covers Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, Playnite Desktop, File Explorer, Windows File Picker, Windows Installer, Steam, and Discord.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Yerleşik eşleme; Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, Playnite Desktop, Dosya Gezgini, Windows Dosya Seçici, Windows Yükleyici, Steam ve Discord'u kapsar.</value>
+  </data>
   <data name="GamepadMappingModeSetting_BuiltInMappingNote.Text" xml:space="preserve">
-    <value>Disabled: this console has the manufacturer’s built-in gamepad mapping.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Devre dışı — cihazın üretici yerleşik oyun kumandası eşlemesi var.</value>
+  </data>
   <data name="ControllerLayoutPresetSetting_Title.Text" xml:space="preserve">
     <value>Kontrolcü Düzeni Önayarı</value>
   </data>
@@ -897,8 +897,8 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Tüm bağlamalar temizlensin mi?</value>
   </data>
   <data name="GamepadMappingClearAllConfirmBody" xml:space="preserve">
-    <value>All bindings will be set to None.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Tüm bağlamalar Yok olarak ayarlanacak.</value>
+  </data>
   <data name="GamepadMappingClearAllConfirmYes" xml:space="preserve">
     <value>Tümünü Temizle</value>
   </data>
@@ -1137,14 +1137,14 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Bağlama olmadan kaydedilsin mi?</value>
   </data>
   <data name="GamepadMappingEmptyConfirmBody" xml:space="preserve">
-    <value>All bindings are set to None. The built-in layout will take over for this app.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Tüm girdiler Yok olarak ayarlandı. Yerleşik düzen bu uygulama için devreye girecek.</value>
+  </data>
   <data name="GamepadMappingEmptyRemoveTitle" xml:space="preserve">
     <value>Bu uygulama için özel eşleme kaldırılsın mı?</value>
   </data>
   <data name="GamepadMappingEmptyRemoveBody" xml:space="preserve">
-    <value>All bindings are set to None, which is the same as having no custom mapping. The built-in layout will take over for this app.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Tüm girdiler Yok olarak ayarlandı, bu özel eşleme olmamasıyla aynı şeydir. Yerleşik düzen bu uygulama için devreye girecek.</value>
+  </data>
   <data name="GamepadMappingEmptyRemoveYes" xml:space="preserve">
     <value>Kaldır</value>
   </data>
@@ -1374,8 +1374,8 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Bu sürüm için henüz hiçbir topluluk dili mevcut değil.</value>
   </data>
   <data name="ManageLanguages_OfflineNotice" xml:space="preserve">
-    <value>Offline. You can remove installed languages, but downloads and updates are unavailable.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Çevrimdışı. Yüklü dilleri kaldırabilirsiniz, ancak indirmeler ve güncellemeler kullanılamaz.</value>
+  </data>
   <data name="ManageLanguages_SelectHint" xml:space="preserve">
     <value>Ayrıntıları görmek için bir dil seçin.</value>
   </data>
@@ -1482,63 +1482,63 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Depoyu GitHub'da aç</value>
   </data>
   <data name="CommunityPlatformsButton.Content" xml:space="preserve">
-    <value>Community</value>
-  <comment>untranslated:new</comment></data>
+    <value>Topluluk</value>
+  </data>
   <data name="CommunityPlatforms_Title" xml:space="preserve">
-    <value>Community Platforms</value>
-  <comment>untranslated:new</comment></data>
+    <value>Topluluk Platformları</value>
+  </data>
   <data name="CommunityPlatforms_Loading" xml:space="preserve">
-    <value>Loading community platforms…</value>
-  <comment>untranslated:new</comment></data>
+    <value>Topluluk platformları yükleniyor…</value>
+  </data>
   <data name="CommunityPlatforms_Error" xml:space="preserve">
-    <value>Could not connect to the community platform repository. Please check your internet connection and try again.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Topluluk platformu deposuna bağlanılamadı. Lütfen internet bağlantınızı kontrol edip tekrar deneyin.</value>
+  </data>
   <data name="CommunityPlatforms_Empty" xml:space="preserve">
-    <value>No community platforms are available yet.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Henüz topluluk platformu mevcut değil.</value>
+  </data>
   <data name="CommunityPlatforms_SchemaTooNew" xml:space="preserve">
-    <value>The community platform catalog requires a newer app version. Please update the app first.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Topluluk platformu kataloğu daha yeni bir uygulama sürümü gerektirir. Lütfen önce uygulamayı güncelleyin.</value>
+  </data>
   <data name="CommunityPlatforms_SearchPlaceholder" xml:space="preserve">
-    <value>Search platforms or submitters…</value>
-  <comment>untranslated:new</comment></data>
+    <value>Platformları veya gönderenleri ara…</value>
+  </data>
   <data name="CommunityPlatforms_SortNewest" xml:space="preserve">
-    <value>Newest first</value>
-  <comment>untranslated:new</comment></data>
+    <value>En yeniler önce</value>
+  </data>
   <data name="CommunityPlatforms_SortOldest" xml:space="preserve">
-    <value>Oldest first</value>
-  <comment>untranslated:new</comment></data>
+    <value>En eskiler önce</value>
+  </data>
   <data name="CommunityPlatforms_SelectHint" xml:space="preserve">
-    <value>Select a platform to see details.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Ayrıntıları görmek için bir platform seçin.</value>
+  </data>
   <data name="CommunityPlatforms_NoResults" xml:space="preserve">
-    <value>No matching platforms found.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Eşleşen platform bulunamadı.</value>
+  </data>
   <data name="CommunityPlatforms_Submitter" xml:space="preserve">
-    <value>Provided by {0}</value>
-  <comment>untranslated:new</comment></data>
+    <value>Sağlayan: {0}</value>
+  </data>
   <data name="CommunityPlatforms_SubmitterDate" xml:space="preserve">
-    <value>Provided by {0} · {1}</value>
-  <comment>untranslated:new</comment></data>
+    <value>Sağlayan: {0} · {1}</value>
+  </data>
   <data name="CommunityPlatforms_NotDetected" xml:space="preserve">
-    <value>The executable was not found on this console and must be located when adding.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Çalıştırılabilir dosya bu cihazda bulunamadı ve eklenirken konumlandırılmalıdır.</value>
+  </data>
   <data name="CommunityPlatforms_Action_Add" xml:space="preserve">
-    <value>Add</value>
-  <comment>untranslated:new</comment></data>
+    <value>Ekle</value>
+  </data>
   <data name="CommunityPlatforms_Result_Added" xml:space="preserve">
-    <value>“{0}” was added to your custom platforms.</value>
-  <comment>untranslated:new</comment></data>
+    <value>“{0}” özel platformlarınıza eklendi.</value>
+  </data>
   <data name="Import_Error_PackageNotInstalled" xml:space="preserve">
-    <value>This app package is not installed on this console.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Bu uygulama paketi bu cihazda yüklü değil.</value>
+  </data>
   <data name="CommunityPlatforms_CheckingUpdates" xml:space="preserve">
-    <value>Checking for catalog updates…</value>
-  <comment>untranslated:new</comment></data>
+    <value>Katalog güncellemeleri kontrol ediliyor…</value>
+  </data>
   <data name="CommunityPlatforms_OfflineNotice" xml:space="preserve">
-    <value>Offline. Showing cached community platforms. You can still add them, but the list may be out of date.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Çevrimdışı. Önbelleğe alınmış topluluk platformları gösteriliyor. Bunları yine ekleyebilirsiniz, ancak liste güncel olmayabilir.</value>
+  </data>
   <data name="Import_Error_ExecutableNotFound" xml:space="preserve">
-    <value>The executable was not found on this console.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Çalıştırılabilir dosya bu cihazda bulunamadı.</value>
+  </data>
 </root>

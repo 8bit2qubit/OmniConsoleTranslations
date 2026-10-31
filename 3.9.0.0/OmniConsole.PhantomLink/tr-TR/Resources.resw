@@ -171,8 +171,8 @@
     <value>İmleç Hızı</value>
   </data>
   <data name="Widget_BuiltInMappingNote.Text" xml:space="preserve">
-    <value>Disabled: this console has the manufacturer’s built-in gamepad mapping.</value>
-  <comment>untranslated:changed</comment></data>
+    <value>Devre dışı — cihazın üretici yerleşik oyun kumandası eşlemesi var.</value>
+  </data>
   <data name="Widget_ForegroundApp_LineFormat" xml:space="preserve">
     <value>Geçerli: {0} ({1})</value>
   </data>

@@ -238,50 +238,50 @@
     <value>Nekomata</value>
   </data>
   <data name="AdvancedSection_Overlay.Text" xml:space="preserve">
-    <value>Performance Overlay</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Performans Katmanı</value>
+  </data>
   <data name="OverlaySetting_ElevationNote.Text" xml:space="preserve">
-    <value>These settings need Administrator App Support, which you can install above.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu ayarlar yukarıdan kurabileceğiniz Yönetici Uygulama Desteği gerektirir.</value>
+  </data>
   <data name="OverlaySetting_RtssNote.Text" xml:space="preserve">
-    <value>These settings work with RivaTuner Statistics Server. Install it and they become available.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu ayarlar RivaTuner Statistics Server ile çalışır. Kurun ve kullanılabilir olurlar.</value>
+  </data>
   <data name="OverlaySetting_RtssStoppedNote.Text" xml:space="preserve">
-    <value>Requires RivaTuner Statistics Server to be running. Turning on Start with Windows in its General properties makes it available at every startup.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>RivaTuner Statistics Server'ın çalışıyor olması gerekir. Genel özelliklerinde Windows ile başlat'ı açmak, her başlangıçta kullanılabilir olmasını sağlar.</value>
+  </data>
   <data name="OverlayOsdSetting_Title.Text" xml:space="preserve">
-    <value>On-Screen Display Support</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Ekran Üstü Gösterim Desteği</value>
+  </data>
   <data name="OverlayOsdSetting_Description.Text" xml:space="preserve">
-    <value>Let RivaTuner Statistics Server draw its on-screen display in DirectX and OpenGL games.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>RivaTuner Statistics Server'ın ekran üstü gösterimini DirectX ve OpenGL oyunlarında çizmesine izin verin.</value>
+  </data>
   <data name="OverlayStatSetting_Title.Text" xml:space="preserve">
-    <value>Show Own Statistics</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Kendi İstatistiklerini Göster</value>
+  </data>
   <data name="OverlayStatSetting_Description.Text" xml:space="preserve">
-    <value>Show the framerate statistics collected by RivaTuner Statistics Server.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>RivaTuner Statistics Server tarafından toplanan kare hızı istatistiklerini göster.</value>
+  </data>
   <data name="OverlayShadowSetting_Title.Text" xml:space="preserve">
-    <value>On-Screen Display Shadow</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Ekran Üstü Gösterim Gölgesi</value>
+  </data>
   <data name="OverlayShadowSetting_Description.Text" xml:space="preserve">
-    <value>Add a shadow behind the on-screen display text.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Ekran üstü gösterim metninin arkasına bir gölge ekleyin.</value>
+  </data>
   <data name="OverlayZoomSetting_Title.Text" xml:space="preserve">
-    <value>On-Screen Display Zoom</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Ekran Üstü Gösterim Yakınlaştırması</value>
+  </data>
   <data name="OverlayZoomSetting_Description.Text" xml:space="preserve">
-    <value>Scale the on-screen display up when the text is too small to read.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Metin okunamayacak kadar küçük olduğunda ekran üstü gösterimi büyüt.</value>
+  </data>
   <data name="OverlayFpsLimitSetting_Title.Text" xml:space="preserve">
-    <value>Framerate Limit</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Kare Hızı Sınırı</value>
+  </data>
   <data name="OverlayFpsLimitSetting_Description.Text" xml:space="preserve">
-    <value>Set the maximum framerate for games.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Oyunlar için maksimum kare hızını ayarlayın.</value>
+  </data>
   <data name="OverlayFpsLimit_Unlimited" xml:space="preserve">
-    <value>Off</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Kapalı</value>
+  </data>
   <data name="PhantomKeySetting_Title.Text" xml:space="preserve">
     <value>Steam Big Picture Modunda Steam Menülerini Açmak için &#xEECA; Tuşuna Basın</value>
   </data>
@@ -308,26 +308,26 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Nekomata'nın oyun kumandanızı klavye ve fareye dönüştürmesine izin verin ve uygulama bazında ayarları "Nekomata" sayfasında özelleştirin.</value>
   </data>
   <data name="GamepadMappingModeSetting_Note.Text" xml:space="preserve">
-    <value>Built-in mapping covers Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, EA Desktop, Playnite Desktop, File Explorer, Windows File Picker, the Open with dialog, Windows Installer, Steam, and Discord. Task Manager and the On-screen keyboard also require Administrator App Support (Pro).</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Yerleşik eşleme; Edge, Chrome, Firefox, Opera, Brave, Epic Games Store, EA Desktop, Playnite Desktop, Dosya Gezgini, Windows Dosya Seçici, "Birlikte aç" iletişim kutusu, Windows Yükleyici, Steam ve Discord'u kapsar. Görev Yöneticisi ve ekran klavyesi ayrıca Yönetici Uygulama Desteği (Pro) gerektirir.</value>
+  </data>
   <data name="GamepadMappingModeSetting_BuiltInMappingNote.Text" xml:space="preserve">
-    <value>Disabled: this console has the manufacturer’s built-in gamepad mapping. Turning Nekomata Mode on for this console requires Pro.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Devre dışı — cihazın üretici yerleşik oyun kumandası eşlemesi var. Bu cihaz için Nekomata Modu'nu açmak Pro gerektirir.</value>
+  </data>
   <data name="GamepadMappingModeSetting_BuiltInMappingProNote.Text" xml:space="preserve">
-    <value>This console has the manufacturer’s built-in gamepad mapping. Set “Control Mode” to “Gamepad” in Command Center, and Nekomata works here the same as it does anywhere else.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Cihazın üretici yerleşik oyun kumandası eşlemesi var. Command Center'da “Control Mode”u “Gamepad” olarak ayarlayın; Nekomata burada da tıpkı başka yerlerde olduğu gibi çalışır.</value>
+  </data>
   <data name="BuiltInMappingEnableDialog_Title" xml:space="preserve">
-    <value>Turn on Nekomata Mode for this console?</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu cihaz için Nekomata Modu açılsın mı?</value>
+  </data>
   <data name="BuiltInMappingEnableDialog_Body" xml:space="preserve">
-    <value>This console has the manufacturer’s built-in gamepad mapping. Press the Command Center button, then set “Control Mode” to “Gamepad”, and Nekomata works here the same as it does anywhere else.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Cihazın üretici yerleşik oyun kumandası eşlemesi var. Command Center düğmesine basın, ardından “Control Mode”u “Gamepad” olarak ayarlayın; Nekomata burada da tıpkı başka yerlerde olduğu gibi çalışır.</value>
+  </data>
   <data name="BuiltInMappingEnableDialog_Confirm" xml:space="preserve">
-    <value>Turn on</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Aç</value>
+  </data>
   <data name="BuiltInMappingEnableDialog_Cancel" xml:space="preserve">
-    <value>Cancel</value>
-  <comment>untranslated:pending</comment></data>
+    <value>İptal</value>
+  </data>
   <data name="ControllerLayoutPresetSetting_Title.Text" xml:space="preserve">
     <value>Kontrolcü Düzeni Önayarı</value>
   </data>
@@ -341,11 +341,11 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Klasik</value>
   </data>
   <data name="ControllerLayoutPresetItem_Custom" xml:space="preserve">
-    <value>Custom</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Özel</value>
+  </data>
   <data name="ControllerLayoutPresetEditButton.Content" xml:space="preserve">
-    <value>Edit…</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Düzenle…</value>
+  </data>
   <data name="CursorSpeedSetting_Title.Text" xml:space="preserve">
     <value>İmleç Hızı</value>
   </data>
@@ -819,14 +819,14 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>çalışmıyor</value>
   </data>
   <data name="Label_ElevatedAppSupportService.Text" xml:space="preserve">
-    <value>Administrator App Support (PhantomSigil)</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Yönetici Uygulama Desteği (PhantomSigil)</value>
+  </data>
   <data name="ElevatedServiceHealth_Running" xml:space="preserve">
-    <value>running</value>
-  <comment>untranslated:pending</comment></data>
+    <value>çalışıyor</value>
+  </data>
   <data name="ElevatedServiceHealth_NotRunning" xml:space="preserve">
-    <value>not running</value>
-  <comment>untranslated:pending</comment></data>
+    <value>çalışmıyor</value>
+  </data>
   <data name="PhantomKeyResp_Responsive" xml:space="preserve">
     <value>yanıt veriyor ({0} ms)</value>
   </data>
@@ -874,10 +874,10 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
   </data>
   <data name="Label_PhantomSigil.Text" xml:space="preserve">
     <value>PhantomSigil</value>
-  <comment>untranslated:pending</comment></data>
+  </data>
   <data name="Label_PhantomIgnis.Text" xml:space="preserve">
     <value>PhantomIgnis</value>
-  <comment>untranslated:pending</comment></data>
+  </data>
   <data name="Label_PhantomLink.Text" xml:space="preserve">
     <value>PhantomLink (OmniCharm)</value>
   </data>
@@ -978,8 +978,8 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Tüm bağlamalar temizlensin mi?</value>
   </data>
   <data name="GamepadMappingClearAllConfirmBody" xml:space="preserve">
-    <value>All bindings will be set to None.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Tüm bağlamalar Yok olarak ayarlanacak.</value>
+  </data>
   <data name="GamepadMappingClearAllConfirmYes" xml:space="preserve">
     <value>Tümünü Temizle</value>
   </data>
@@ -1008,32 +1008,32 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Sıfırla</value>
   </data>
   <data name="GamepadMappingResetCustomButton.Content" xml:space="preserve">
-    <value>Custom Defaults</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Özel Varsayılanlar</value>
+  </data>
   <data name="GamepadMappingResetCustomConfirmTitle" xml:space="preserve">
-    <value>Reset to Custom defaults?</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Özel varsayılanlara sıfırlansın mı?</value>
+  </data>
   <data name="GamepadMappingResetCustomConfirmBody" xml:space="preserve">
-    <value>All current bindings will be overwritten with the Custom defaults.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Tüm mevcut bağlamalar Özel varsayılanlarla değiştirilecek.</value>
+  </data>
   <data name="GamepadMappingResetCustomConfirmYes" xml:space="preserve">
-    <value>Reset</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Sıfırla</value>
+  </data>
   <data name="GamepadMappingCustomLayoutTitle" xml:space="preserve">
-    <value>Custom Layout</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Özel Düzen</value>
+  </data>
   <data name="GamepadMappingCustomLayoutSubtitle" xml:space="preserve">
-    <value>The default layout for apps covered by built-in mapping, and the starting point for new app profiles</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Yerleşik eşlemenin kapsadığı uygulamalar için varsayılan düzen ve yeni uygulama profilleri için başlangıç noktası</value>
+  </data>
   <data name="GamepadMappingCustomLayoutEmptyTitle" xml:space="preserve">
-    <value>Set all bindings to None?</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Tüm bağlamalar Yok olarak ayarlansın mı?</value>
+  </data>
   <data name="GamepadMappingCustomLayoutEmptyBody" xml:space="preserve">
-    <value>Apps covered by built-in mapping will not receive simulated keyboard or mouse input. New app profiles will also start with all bindings set to None.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Yerleşik eşlemenin kapsadığı uygulamalar simüle edilmiş klavye veya fare girdisi almayacak. Yeni uygulama profilleri de tüm bağlamalar Yok olarak ayarlanmış durumda başlayacak.</value>
+  </data>
   <data name="GamepadMappingCustomLayoutEmptyYes" xml:space="preserve">
-    <value>Save</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Kaydet</value>
+  </data>
   <data name="GamepadMappingCopyFromButton.Content" xml:space="preserve">
     <value>Uygulamadan Kopyala…</value>
   </data>
@@ -1080,11 +1080,11 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Sağa kaydır</value>
   </data>
   <data name="GamepadAction_GamepadKeyboard" xml:space="preserve">
-    <value>Gamepad keyboard</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Oyun kumandası klavyesi</value>
+  </data>
   <data name="GamepadAction_OnScreenKeyboard" xml:space="preserve">
-    <value>On-screen keyboard</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Ekran klavyesi</value>
+  </data>
   <data name="GamepadAction_StickCursor" xml:space="preserve">
     <value>İmleç hareketi</value>
   </data>
@@ -1251,14 +1251,14 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Bağlama olmadan kaydedilsin mi?</value>
   </data>
   <data name="GamepadMappingEmptyConfirmBody" xml:space="preserve">
-    <value>All bindings are set to None. The built-in layout will take over for this app.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Tüm girdiler Yok olarak ayarlandı. Yerleşik düzen bu uygulama için devreye girecek.</value>
+  </data>
   <data name="GamepadMappingEmptyRemoveTitle" xml:space="preserve">
     <value>Bu uygulama için özel eşleme kaldırılsın mı?</value>
   </data>
   <data name="GamepadMappingEmptyRemoveBody" xml:space="preserve">
-    <value>All bindings are set to None, which is the same as having no custom mapping. The built-in layout will take over for this app.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Tüm girdiler Yok olarak ayarlandı, bu özel eşleme olmamasıyla aynı şeydir. Yerleşik düzen bu uygulama için devreye girecek.</value>
+  </data>
   <data name="GamepadMappingEmptyRemoveYes" xml:space="preserve">
     <value>Kaldır</value>
   </data>
@@ -1488,8 +1488,8 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Bu sürüm için henüz hiçbir topluluk dili mevcut değil.</value>
   </data>
   <data name="ManageLanguages_OfflineNotice" xml:space="preserve">
-    <value>Offline. You can remove installed languages, but downloads and updates are unavailable.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Çevrimdışı. Yüklü dilleri kaldırabilirsiniz, ancak indirmeler ve güncellemeler kullanılamaz.</value>
+  </data>
   <data name="ManageLanguages_SelectHint" xml:space="preserve">
     <value>Ayrıntıları görmek için bir dil seçin.</value>
   </data>
@@ -1596,282 +1596,282 @@ Alternatif olarak, Steam Ayarları &gt; Oyun İçi &gt; Kaplama kısayol tuşu(l
     <value>Depoyu GitHub'da aç</value>
   </data>
   <data name="CommunityPlatformsButton.Content" xml:space="preserve">
-    <value>Community</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Topluluk</value>
+  </data>
   <data name="CommunityPlatforms_Title" xml:space="preserve">
-    <value>Community Platforms</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Topluluk Platformları</value>
+  </data>
   <data name="CommunityPlatforms_Loading" xml:space="preserve">
-    <value>Loading community platforms…</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Topluluk platformları yükleniyor…</value>
+  </data>
   <data name="CommunityPlatforms_Error" xml:space="preserve">
-    <value>Could not connect to the community platform repository. Please check your internet connection and try again.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Topluluk platformu deposuna bağlanılamadı. Lütfen internet bağlantınızı kontrol edip tekrar deneyin.</value>
+  </data>
   <data name="CommunityPlatforms_Empty" xml:space="preserve">
-    <value>No community platforms are available yet.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Henüz topluluk platformu mevcut değil.</value>
+  </data>
   <data name="CommunityPlatforms_SchemaTooNew" xml:space="preserve">
-    <value>The community platform catalog requires a newer app version. Please update the app first.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Topluluk platformu kataloğu daha yeni bir uygulama sürümü gerektirir. Lütfen önce uygulamayı güncelleyin.</value>
+  </data>
   <data name="CommunityPlatforms_SearchPlaceholder" xml:space="preserve">
-    <value>Search platforms or submitters…</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Platformları veya gönderenleri ara…</value>
+  </data>
   <data name="CommunityPlatforms_SortNewest" xml:space="preserve">
-    <value>Newest first</value>
-  <comment>untranslated:pending</comment></data>
+    <value>En yeniler önce</value>
+  </data>
   <data name="CommunityPlatforms_SortOldest" xml:space="preserve">
-    <value>Oldest first</value>
-  <comment>untranslated:pending</comment></data>
+    <value>En eskiler önce</value>
+  </data>
   <data name="CommunityPlatforms_SelectHint" xml:space="preserve">
-    <value>Select a platform to see details.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Ayrıntıları görmek için bir platform seçin.</value>
+  </data>
   <data name="CommunityPlatforms_NoResults" xml:space="preserve">
-    <value>No matching platforms found.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Eşleşen platform bulunamadı.</value>
+  </data>
   <data name="CommunityPlatforms_Submitter" xml:space="preserve">
-    <value>Provided by {0}</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Sağlayan: {0}</value>
+  </data>
   <data name="CommunityPlatforms_SubmitterDate" xml:space="preserve">
-    <value>Provided by {0} · {1}</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Sağlayan: {0} · {1}</value>
+  </data>
   <data name="CommunityPlatforms_NotDetected" xml:space="preserve">
-    <value>The executable was not found on this console and must be located when adding.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Çalıştırılabilir dosya bu cihazda bulunamadı ve eklenirken konumlandırılmalıdır.</value>
+  </data>
   <data name="CommunityPlatforms_Action_Add" xml:space="preserve">
-    <value>Add</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Ekle</value>
+  </data>
   <data name="CommunityPlatforms_Result_Added" xml:space="preserve">
-    <value>“{0}” was added to your custom platforms.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>“{0}” özel platformlarınıza eklendi.</value>
+  </data>
   <data name="Import_Error_PackageNotInstalled" xml:space="preserve">
-    <value>This app package is not installed on this console.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu uygulama paketi bu cihazda yüklü değil.</value>
+  </data>
   <data name="CommunityPlatforms_CheckingUpdates" xml:space="preserve">
-    <value>Checking for catalog updates…</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Katalog güncellemeleri kontrol ediliyor…</value>
+  </data>
   <data name="CommunityPlatforms_OfflineNotice" xml:space="preserve">
-    <value>Offline. Showing cached community platforms. You can still add them, but the list may be out of date.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Çevrimdışı. Önbelleğe alınmış topluluk platformları gösteriliyor. Bunları yine ekleyebilirsiniz, ancak liste güncel olmayabilir.</value>
+  </data>
   <data name="Import_Error_ExecutableNotFound" xml:space="preserve">
-    <value>The executable was not found on this console.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Çalıştırılabilir dosya bu cihazda bulunamadı.</value>
+  </data>
   <data name="Nav_Pro.Content" xml:space="preserve">
     <value>Pro</value>
-  <comment>untranslated:pending</comment></data>
+  </data>
   <data name="ProTitle" xml:space="preserve">
     <value>{OmniConsole} Pro</value>
-  <comment>untranslated:pending</comment></data>
+  </data>
   <data name="ProDescription.Text" xml:space="preserve">
-    <value>Unlock advanced features and manage the licenses on this console.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Gelişmiş özelliklerin kilidini açın ve bu cihazdaki lisansları yönetin.</value>
+  </data>
   <data name="ProSection_Unlock.Text" xml:space="preserve">
-    <value>Unlock</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Kilidi Aç</value>
+  </data>
   <data name="ProSection_Status.Text" xml:space="preserve">
-    <value>License</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Lisans</value>
+  </data>
   <data name="ProSection_Manage.Text" xml:space="preserve">
-    <value>Manage</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Yönet</value>
+  </data>
   <data name="ProSection_Features.Text" xml:space="preserve">
-    <value>Features</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Özellikler</value>
+  </data>
   <data name="ProUnlockCard_Title.Text" xml:space="preserve">
-    <value>Activate Pro</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Pro'yu Etkinleştir</value>
+  </data>
   <data name="ProUnlockCard_Description.Text" xml:space="preserve">
-    <value>Support the project to get your license, then enter the key or import the license file.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Lisanınızı almak için projeyi destekleyin, ardından anahtarı girin veya lisans dosyasını içe aktarın.</value>
+  </data>
   <data name="ProUnlockCard_Note.Text" xml:space="preserve">
-    <value>When typing on a console is inconvenient, save the license file to your Downloads folder or a USB drive, then choose Import License File.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Konsolda yazmak zahmetliyse, lisans dosyasını İndirilenler klasörüne veya bir USB sürücüsüne kaydedin, ardından Lisans Dosyasını İçe Aktar'ı seçin.</value>
+  </data>
   <data name="ProSponsorButton.Content" xml:space="preserve">
-    <value>Support the Project</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Projeyi Destekle</value>
+  </data>
   <data name="ProEnterKeyButton.Content" xml:space="preserve">
-    <value>Enter License</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Lisans Gir</value>
+  </data>
   <data name="ProStatusCard_Title.Text" xml:space="preserve">
-    <value>Pro Activated</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Pro Etkin</value>
+  </data>
   <data name="ProStatusLabel_LicensedTo.Text" xml:space="preserve">
-    <value>Licensed to:</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Lisans sahibi:</value>
+  </data>
   <data name="ProStatusLabel_Serial.Text" xml:space="preserve">
-    <value>License number:</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Lisans numarası:</value>
+  </data>
   <data name="ProStatusLabel_Issued.Text" xml:space="preserve">
-    <value>Issued:</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Veriliş:</value>
+  </data>
   <data name="ProManageCard_Title.Text" xml:space="preserve">
-    <value>Manage Licenses</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Lisansları Yönet</value>
+  </data>
   <data name="ProManageCard_Description.Text" xml:space="preserve">
-    <value>Add another license, or remove the licenses on this console.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Başka bir lisans ekleyin veya bu cihazdaki lisansları kaldırın.</value>
+  </data>
   <data name="ProRemoveButton.Content" xml:space="preserve">
-    <value>Remove All</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Tümünü Kaldır</value>
+  </data>
   <data name="ProFeaturesCard_Title.Text" xml:space="preserve">
-    <value>Included Features</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Dahil Edilen Özellikler</value>
+  </data>
   <data name="ProLicenseDialog_Title" xml:space="preserve">
-    <value>Enter License</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Lisans Gir</value>
+  </data>
   <data name="ProLicenseDialog_Hint" xml:space="preserve">
-    <value>Paste your license key below, or choose Import License File.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Lisans anahtarınızı aşağıya yapıştırın veya Lisans Dosyasını İçe Aktar'ı seçin.</value>
+  </data>
   <data name="ProLicenseDialog_Placeholder" xml:space="preserve">
     <value>OMNI1-…</value>
-  <comment>untranslated:pending</comment></data>
+  </data>
   <data name="ProLicenseDialog_ImportFile" xml:space="preserve">
-    <value>Import License File</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Lisans Dosyasını İçe Aktar</value>
+  </data>
   <data name="ProLicenseDialog_Primary" xml:space="preserve">
-    <value>Activate</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Etkinleştir</value>
+  </data>
   <data name="ProLicenseDialog_Cancel" xml:space="preserve">
-    <value>Cancel</value>
-  <comment>untranslated:pending</comment></data>
+    <value>İptal</value>
+  </data>
   <data name="ProLicense_FileFilter" xml:space="preserve">
-    <value>License files (*.lic)</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Lisans dosyaları (*.lic)</value>
+  </data>
   <data name="ProRemoveDialog_Title" xml:space="preserve">
-    <value>Remove License?</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Lisans Kaldırılsın mı?</value>
+  </data>
   <data name="ProRemoveDialog_Body" xml:space="preserve">
-    <value>All licenses will be removed from this console.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Tüm lisanslar bu cihazdan kaldırılacak.</value>
+  </data>
   <data name="ProRemoveDialog_Confirm" xml:space="preserve">
-    <value>Remove</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Kaldır</value>
+  </data>
   <data name="ProRemoveDialog_Cancel" xml:space="preserve">
-    <value>Cancel</value>
-  <comment>untranslated:pending</comment></data>
+    <value>İptal</value>
+  </data>
   <data name="ProLicense_Success" xml:space="preserve">
-    <value>Pro is now active.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Pro artık etkin.</value>
+  </data>
   <data name="ProLicense_Error_Empty" xml:space="preserve">
-    <value>Enter a license key.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bir lisans anahtarı girin.</value>
+  </data>
   <data name="ProLicense_Error_Malformed" xml:space="preserve">
-    <value>This does not look like a license key. Check that you copied all of it.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu bir lisans anahtarına benzemiyor. Tamamını kopyaladığınızdan emin olun.</value>
+  </data>
   <data name="ProLicense_Error_UnknownFormat" xml:space="preserve">
-    <value>This license requires a newer version of {OmniConsole}. Update the app and try again.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu lisans daha yeni bir {OmniConsole} sürümü gerektirir. Uygulamayı güncelleyin ve tekrar deneyin.</value>
+  </data>
   <data name="ProLicense_Error_UnknownKeyId" xml:space="preserve">
-    <value>This license was issued with a newer signing key. Update {OmniConsole} and try again.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu lisans daha yeni bir imzalama anahtarıyla verilmiş. {OmniConsole}'u güncelleyin ve tekrar deneyin.</value>
+  </data>
   <data name="ProLicense_Error_UnknownProduct" xml:space="preserve">
-    <value>This license is not for {OmniConsole} Pro.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu lisans {OmniConsole} Pro için değil.</value>
+  </data>
   <data name="ProLicense_Error_BadSignature" xml:space="preserve">
-    <value>This license key is not valid. Check that you copied all of it, or use Import License File instead.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu lisans anahtarı geçerli değil. Tamamını kopyaladığınızdan emin olun veya bunun yerine Lisans Dosyasını İçe Aktar'ı kullanın.</value>
+  </data>
   <data name="ProLicense_Error_Revoked" xml:space="preserve">
-    <value>This license has been deactivated. Get in touch if you believe this is a mistake.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu lisans devre dışı bırakıldı. Bunun bir hata olduğuna inanıyorsanız iletişime geçin.</value>
+  </data>
   <data name="ProLicense_Error_VersionExceeded" xml:space="preserve">
-    <value>This license does not cover this version of {OmniConsole}.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu lisans {OmniConsole}'un bu sürümünü kapsamıyor.</value>
+  </data>
   <data name="ProLicense_Error_FileUnreadable" xml:space="preserve">
-    <value>The file could not be read.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Dosya okunamadı.</value>
+  </data>
   <data name="ProLicense_Error_FileNotLicense" xml:space="preserve">
-    <value>This is not a {OmniConsole} license file.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu bir {OmniConsole} lisans dosyası değil.</value>
+  </data>
   <data name="ProLicense_Error_AlreadyImported" xml:space="preserve">
-    <value>This license is already active on this console.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu lisans bu cihazda zaten etkin.</value>
+  </data>
   <data name="ProLicense_Error_UnknownEntitlement" xml:space="preserve">
-    <value>This license unlocks something this version does not know about. Update {OmniConsole} and try again.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu lisans bu sürümün bilmediği bir şeyin kilidini açıyor. {OmniConsole}'u güncelleyin ve tekrar deneyin.</value>
+  </data>
   <data name="ProAddLicenseButton.Content" xml:space="preserve">
-    <value>Add License</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Lisans Ekle</value>
+  </data>
   <data name="ProEntitlement_Pro" xml:space="preserve">
     <value>{OmniConsole} Pro</value>
-  <comment>untranslated:pending</comment></data>
+  </data>
   <data name="ProEntitlement_Owned" xml:space="preserve">
-    <value>Active</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Etkin</value>
+  </data>
   <data name="ProEntitlement_NotOwned" xml:space="preserve">
-    <value>Not owned</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Sahip değil</value>
+  </data>
   <data name="ProEntitlementRemove" xml:space="preserve">
-    <value>Remove</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Kaldır</value>
+  </data>
   <data name="ProRemoveDialog_BodyOne" xml:space="preserve">
-    <value>The license for “{0}” will be removed from this console.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>“{0}” lisansı bu cihazdan kaldırılacak.</value>
+  </data>
   <data name="ProRemoveDialog_BodyPro" xml:space="preserve">
-    <value>Removing “{0}” also turns off every add-on, because add-ons require it.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>“{0}” kaldırıldığında tüm eklentiler de kapanır, çünkü eklentiler buna ihtiyaç duyar.</value>
+  </data>
   <data name="ProLicense_Error_RequiresPro" xml:space="preserve">
-    <value>Activate {OmniConsole} Pro first, then import this add-on.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Önce {OmniConsole} Pro'yu etkinleştirin, ardından bu eklentiyi içe aktarın.</value>
+  </data>
   <data name="ProManageCard_Note.Text" xml:space="preserve">
-    <value>Removing does not affect your licenses. You can import them again at any time.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Kaldırma lisanslarınızı etkilemez. Bunları istediğiniz zaman tekrar içe aktarabilirsiniz.</value>
+  </data>
   <data name="ElevatedAppSupportSetting_Title.Text" xml:space="preserve">
-    <value>Administrator App Support</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Yönetici Uygulama Desteği</value>
+  </data>
   <data name="ElevatedAppSupportSetting_Description.Text" xml:space="preserve">
-    <value>Let gamepad mappings reach apps that run as administrator. Requires setup with administrator approval.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Oyun kumandası eşlemelerinin yönetici olarak çalışan uygulamalara erişmesine izin verin. Yönetici onayıyla kurulum gerektirir.</value>
+  </data>
   <data name="ElevatedAppSupport_Install" xml:space="preserve">
-    <value>Install</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Yükle</value>
+  </data>
   <data name="ElevatedAppSupport_Remove" xml:space="preserve">
-    <value>Remove</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Kaldır</value>
+  </data>
   <data name="ElevatedAppSupportRemoveDialog_Title" xml:space="preserve">
-    <value>Remove administrator app support?</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Yönetici uygulama desteği kaldırılsın mı?</value>
+  </data>
   <data name="ElevatedAppSupportRemoveDialog_Body" xml:space="preserve">
-    <value>Gamepad mappings will no longer reach apps that run as administrator.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Oyun kumandası eşlemeleri artık yönetici olarak çalışan uygulamalara erişemeyecek.</value>
+  </data>
   <data name="ElevatedAppSupportRemoveDialog_Confirm" xml:space="preserve">
-    <value>Remove</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Kaldır</value>
+  </data>
   <data name="ElevatedAppSupportRemoveDialog_Cancel" xml:space="preserve">
-    <value>Cancel</value>
-  <comment>untranslated:pending</comment></data>
+    <value>İptal</value>
+  </data>
   <data name="ElevatedServiceUpdateDialog_Title" xml:space="preserve">
-    <value>Update administrator app support</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Yönetici uygulama desteğini güncelle</value>
+  </data>
   <data name="ElevatedServiceUpdateDialog_Content" xml:space="preserve">
-    <value>OmniConsole has been updated. Administrator app support needs to be updated as well to keep working. You will be asked for administrator approval next.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>OmniConsole güncellendi. Çalışmaya devam etmek için yönetici uygulama desteğinin de güncellenmesi gerekiyor. Ardından yönetici onayı istenecek.</value>
+  </data>
   <data name="ElevatedServiceUpdateDialog_Update" xml:space="preserve">
-    <value>Update</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Güncelle</value>
+  </data>
   <data name="ElevatedAppSupportUnavailableDialog_Title" xml:space="preserve">
-    <value>This account cannot use this feature</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Bu hesap bu özelliği kullanamaz</value>
+  </data>
   <data name="ElevatedAppSupportUnavailableDialog_Body" xml:space="preserve">
-    <value>Gamepad mappings need administrator rights to reach apps that run as administrator. The Windows account you are signed in with does not have those rights.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Oyun kumandası eşlemelerinin yönetici olarak çalışan uygulamalara erişmesi için yönetici hakları gerekir. Oturum açtığınız Windows hesabı bu haklara sahip değil.</value>
+  </data>
   <data name="ElevatedAppSupportUnavailableDialog_Close" xml:space="preserve">
-    <value>Got it</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Anladım</value>
+  </data>
   <data name="GamingCapabilityDialog_Title" xml:space="preserve">
-    <value>Complete Xbox Mode (FSE) setup</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Xbox Modu (FSE) kurulumunu tamamla</value>
+  </data>
   <data name="GamingCapabilityDialog_Content" xml:space="preserve">
-    <value>{OmniConsole} can apply the settings this console needs to run Xbox Mode (FSE) with the full experience. You will be asked for administrator approval next.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>{OmniConsole}, bu cihazın Xbox Modu'nu (FSE) tam deneyimle çalıştırması gereken ayarları uygulayabilir. Ardandan yönetici onayı istenecek.</value>
+  </data>
   <data name="GamingCapabilityDialog_Apply" xml:space="preserve">
-    <value>Apply</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Uygula</value>
+  </data>
   <data name="GamingCapabilityRestart_Title" xml:space="preserve">
-    <value>Restart your console</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Konsolunuzu yeniden başlatın</value>
+  </data>
   <data name="GamingCapabilityRestart_Content" xml:space="preserve">
-    <value>The settings have been applied. After you restart your console, Xbox Mode (FSE) will start with the full experience.</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Ayarlar uygulandı. Konsolunuzu yeniden başlattıktan sonra Xbox Modu (FSE) tam deneyimle başlayacak.</value>
+  </data>
   <data name="GamingCapabilityRestart_Close" xml:space="preserve">
-    <value>Close</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Kapat</value>
+  </data>
 </root>
