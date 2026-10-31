@@ -177,8 +177,8 @@
     <value>Скорость курсора</value>
   </data>
   <data name="Widget_CursorSize_Title.Text" xml:space="preserve">
-    <value>Cursor Size</value>
-  <comment>untranslated:pending</comment></data>
+    <value>Размер курсора</value>
+  </data>
   <data name="Widget_BuiltInMappingNote.Text" xml:space="preserve">
     <value>Отключено: данное устройство поддерживает переназначение кнопок от производителя. Для использования переназначений из Nekomata необходима Pro-лицензия.</value>
   </data>

@@ -5,7 +5,7 @@
 原地重算：本版現有譯文皆予保留，仍標記為 `untranslated` 的字串維持原狀（補譯前先顯示英文）。
 
 - 字串總數（兩專案合計）: 643
-- 產生時間: 2026-10-05 23:49:30 +08:00
+- 產生時間: 2026-11-01 05:02:28 +08:00
 
 快速跳轉: [es-ES](#es-es) · [ru-RU](#ru-ru) · [tr-TR](#tr-tr)
 
@@ -14,7 +14,7 @@
 | 語言 | 已翻譯 | 待翻譯 | 完成度 |
 |----------|-----------:|--------:|---------:|
 | es-ES | 441 | 202 | 68% |
-| ru-RU | 622 | 21 | 96% |
+| ru-RU | 643 | 0 | 100% |
 | tr-TR | 643 | 0 | 100% |
 
 ## 專案: OmniConsole
@@ -24,7 +24,7 @@
 | 語言 | 已翻譯 | 待翻譯 | 完成度 |
 |----------|-----------:|--------:|---------:|
 | es-ES | 426 | 173 | 71% |
-| ru-RU | 579 | 20 | 96% |
+| ru-RU | 599 | 0 | 100% |
 | tr-TR | 599 | 0 | 100% |
 
 ## 專案: OmniConsole.PhantomLink
@@ -34,7 +34,7 @@
 | 語言 | 已翻譯 | 待翻譯 | 完成度 |
 |----------|-----------:|--------:|---------:|
 | es-ES | 15 | 29 | 34% |
-| ru-RU | 43 | 1 | 97% |
+| ru-RU | 44 | 0 | 100% |
 | tr-TR | 44 | 0 | 100% |
 
 ## 待翻譯的 key
@@ -253,34 +253,7 @@
 
 ### ru-RU
 
-**OmniConsole**
-
-沿用未翻（從未翻譯過） (20):
-- `ResetGameBarSetting_Description.Text`
-- `AdvancedSection_Fse.Text`
-- `FseEnterConfirmSetting_Title.Text`
-- `FseEnterConfirmSetting_Description.Text`
-- `FseEnterConfirmSetting_Note.Text`
-- `FseStartup_Note`
-- `FseStartup_OpenSettings.Content`
-- `FseEnterConfirmItem_Ask`
-- `FseEnterConfirmItem_Restart`
-- `FseEnterConfirmItem_StartNow`
-- `FseExitConfirmSetting_Title.Text`
-- `FseExitConfirmSetting_Description.Text`
-- `FseEnterConfirmDialog_Title`
-- `FseEnterConfirmDialog_Body`
-- `FseEnterConfirmDialog_Confirm`
-- `FseEnterConfirmDialog_Cancel`
-- `CursorSizeSetting_Title.Text`
-- `CursorSizeSetting_Description.Text`
-- `BackgroundMaterialSetting_OpenSettings.Content`
-- `DeveloperMode_Warning`
-
-**OmniConsole.PhantomLink**
-
-沿用未翻（從未翻譯過） (1):
-- `Widget_CursorSize_Title.Text`
+_全部已翻譯。_
 
 ### tr-TR
 
