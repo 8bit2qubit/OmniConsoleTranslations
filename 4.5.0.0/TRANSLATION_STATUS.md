@@ -5,7 +5,7 @@
 Rebuilt in place: existing translations for this version are preserved, and any strings still marked `untranslated` remain so (they fall back to English until translated).
 
 - Total strings (both projects): 637
-- Generated: 2026-10-05 23:49:26 +08:00
+- Generated: 2026-11-01 05:02:24 +08:00
 
 Jump to: [es-ES](#es-es) · [ru-RU](#ru-ru) · [tr-TR](#tr-tr)
 
@@ -14,7 +14,7 @@ Jump to: [es-ES](#es-es) · [ru-RU](#ru-ru) · [tr-TR](#tr-tr)
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
 | es-ES | 442 | 195 | 69% |
-| ru-RU | 623 | 14 | 97% |
+| ru-RU | 637 | 0 | 100% |
 | tr-TR | 637 | 0 | 100% |
 
 ## Project: OmniConsole
@@ -24,7 +24,7 @@ Strings: 594
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
 | es-ES | 427 | 167 | 71% |
-| ru-RU | 580 | 14 | 97% |
+| ru-RU | 594 | 0 | 100% |
 | tr-TR | 594 | 0 | 100% |
 
 ## Project: OmniConsole.PhantomLink
@@ -250,25 +250,7 @@ Carried over (never translated) (28):
 
 ### ru-RU
 
-**OmniConsole**
-
-New keys (13):
-- `AdvancedSection_Fse.Text`
-- `FseEnterConfirmSetting_Title.Text`
-- `FseEnterConfirmSetting_Description.Text`
-- `FseEnterConfirmSetting_Note.Text`
-- `FseEnterConfirmItem_Ask`
-- `FseEnterConfirmItem_Restart`
-- `FseEnterConfirmItem_StartNow`
-- `FseExitConfirmSetting_Title.Text`
-- `FseExitConfirmSetting_Description.Text`
-- `FseEnterConfirmDialog_Title`
-- `FseEnterConfirmDialog_Body`
-- `FseEnterConfirmDialog_Confirm`
-- `FseEnterConfirmDialog_Cancel`
-
-Changed (re-translate) (1):
-- `ResetGameBarSetting_Description.Text`
+_All translated._
 
 ### tr-TR
 

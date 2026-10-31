@@ -5,7 +5,7 @@
 Rebuilt in place: existing translations for this version are preserved, and any strings still marked `untranslated` remain so (they fall back to English until translated).
 
 - Total strings (both projects): 643
-- Generated: 2026-10-05 23:49:30 +08:00
+- Generated: 2026-11-01 05:02:28 +08:00
 
 Jump to: [es-ES](#es-es) · [ru-RU](#ru-ru) · [tr-TR](#tr-tr)
 
@@ -14,7 +14,7 @@ Jump to: [es-ES](#es-es) · [ru-RU](#ru-ru) · [tr-TR](#tr-tr)
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
 | es-ES | 441 | 202 | 68% |
-| ru-RU | 622 | 21 | 96% |
+| ru-RU | 643 | 0 | 100% |
 | tr-TR | 643 | 0 | 100% |
 
 ## Project: OmniConsole
@@ -24,7 +24,7 @@ Strings: 599
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
 | es-ES | 426 | 173 | 71% |
-| ru-RU | 579 | 20 | 96% |
+| ru-RU | 599 | 0 | 100% |
 | tr-TR | 599 | 0 | 100% |
 
 ## Project: OmniConsole.PhantomLink
@@ -34,7 +34,7 @@ Strings: 44
 | Language | Translated | Pending | Complete |
 |----------|-----------:|--------:|---------:|
 | es-ES | 15 | 29 | 34% |
-| ru-RU | 43 | 1 | 97% |
+| ru-RU | 44 | 0 | 100% |
 | tr-TR | 44 | 0 | 100% |
 
 ## Untranslated keys
@@ -253,34 +253,7 @@ Carried over (never translated) (29):
 
 ### ru-RU
 
-**OmniConsole**
-
-Carried over (never translated) (20):
-- `ResetGameBarSetting_Description.Text`
-- `AdvancedSection_Fse.Text`
-- `FseEnterConfirmSetting_Title.Text`
-- `FseEnterConfirmSetting_Description.Text`
-- `FseEnterConfirmSetting_Note.Text`
-- `FseStartup_Note`
-- `FseStartup_OpenSettings.Content`
-- `FseEnterConfirmItem_Ask`
-- `FseEnterConfirmItem_Restart`
-- `FseEnterConfirmItem_StartNow`
-- `FseExitConfirmSetting_Title.Text`
-- `FseExitConfirmSetting_Description.Text`
-- `FseEnterConfirmDialog_Title`
-- `FseEnterConfirmDialog_Body`
-- `FseEnterConfirmDialog_Confirm`
-- `FseEnterConfirmDialog_Cancel`
-- `CursorSizeSetting_Title.Text`
-- `CursorSizeSetting_Description.Text`
-- `BackgroundMaterialSetting_OpenSettings.Content`
-- `DeveloperMode_Warning`
-
-**OmniConsole.PhantomLink**
-
-Carried over (never translated) (1):
-- `Widget_CursorSize_Title.Text`
+_All translated._
 
 ### tr-TR
 
